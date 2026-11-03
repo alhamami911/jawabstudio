@@ -1,0 +1,22 @@
+{
+  "id": "anim-test",
+  "title": { "ar": "الحلقة 1 · اختبار الحركة", "en": "Episode 1 · Motion test" },
+  "intro": "أهلًا بكم في سلسلة شرح برنامج جواب ERP.",
+  "outro": "شكرًا لمتابعتكم.",
+  "nextTitle": "إضافة حساب مصروفات",
+  "login": {
+    "url": "/web/login",
+    "user": { "selector": "input[name=login]", "value": "${JAWAB_USER}" },
+    "password": { "selector": "input[name=password]", "value": "${JAWAB_PASSWORD}" },
+    "submit": ".oe_login_form button[type=submit]",
+    "ready": ".o_app"
+  },
+  "start": { "url": "/jawab", "ready": ".o_app" },
+  "hide": ["#wk-destroy-info"],
+  "steps": [
+    { "action": "click", "selector": ".o_app:has(:text-is('Accounting'))", "narration": "من الشاشة الرئيسية نفتح تطبيق المحاسبة (Accounting)" },
+    { "action": "click", "selector": ".o_menu_sections button.dropdown-toggle:has(span:text-is('Configuration'))", "narration": "من القائمة العلوية نختار الإعدادات (Configuration)" },
+    { "action": "click", "selector": ".o-dropdown--menu .dropdown-item:text-is('Chart of Accounts')", "narration": "ثم نختار شجرة الحسابات (Chart of Accounts)" },
+    { "action": "wait", "ms": 1500, "narration": "هنا تظهر كل حسابات الشركة" }
+  ]
+}

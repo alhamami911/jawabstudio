@@ -1,0 +1,37 @@
+{
+  "name": "jawab-tutorial-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "record": "tsx src/record.ts",
+    "mp4": "node scripts/to-mp4.mjs",
+    "voices": "node scripts/voice/list-voices.mjs",
+    "music:gen": "node scripts/voice/generate-music.mjs",
+    "voice:design": "node scripts/voice/design-voice.mjs",
+    "typecheck": "tsc --noEmit",
+    "discover": "tsx src/discover.ts",
+    "queue": "tsx src/cli.ts",
+    "worker": "tsx src/queue/worker.ts",
+    "dashboard": "tsx src/dashboard.ts",
+    "dryrun": "tsx src/dryrun.ts",
+    "episodes": "tsx src/episodes-list.ts",
+    "voice:export": "node scripts/voice/export-voice.mjs",
+    "cleanup:test": "node scripts/ops/cleanup-test-data.mjs",
+    "kb": "node scripts/kb/build-kb.mjs",
+    "seed:demo": "node scripts/ops/seed-demo-data.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^26.6.5",
+    "playwright": "^1.64.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "ffmpeg-static": "^5.3.0"
+  }
+}

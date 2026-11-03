@@ -1,0 +1,23 @@
+{
+  "id": "episode-01",
+  "title": { "ar": "عنوان الحلقة", "en": "Episode title" },
+  "intro": "جملة افتتاحية تُقال فوق بطاقة العنوان.",
+  "outro": "جملة ختامية تُقال فوق بطاقة الختام.",
+  "login": {
+    "url": "/web/login",
+    "user": { "selector": "input[name=login]", "value": "${JAWAB_USER}" },
+    "password": { "selector": "input[name=password]", "value": "${JAWAB_PASSWORD}" },
+    "submit": ".oe_login_form button[type=submit]",
+    "ready": ".o_app"
+  },
+  "start": { "url": "/jawab", "ready": ".o_app" },
+  "hide": ["#wk-destroy-info"],
+  "steps": [
+    {
+      "action": "click",
+      "selector": ".o_app:has-text('Accounting')",
+      "narration": "النص المكتوب على الشاشة (Accounting)",
+      "speech": "النص المنطوق بالعامية (اختياري؛ الافتراضي هو النص المكتوب بعد حذف الإنجليزية بين الأقواس)"
+    }
+  ]
+}

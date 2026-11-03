@@ -1,0 +1,54 @@
+{
+  "allowedHosts": [
+    "premium.jawab.pro"
+  ],
+  "maxAttempts": {
+    "prepare": 2,
+    "record": 3,
+    "process": 2,
+    "validate": 3,
+    "vrecord": 2,
+    "vprocess": 2
+  },
+  "retryDelaySec": [
+    10,
+    30,
+    90
+  ],
+  "stageTimeoutMin": {
+    "record": 12,
+    "process": 25
+  },
+  "dashboardPort": 4173,
+  "brandLabel": "JAWAB ERP · شرح تعليمي",
+  "scenarioBase": {
+    "login": {
+      "url": "/web/login",
+      "user": {
+        "selector": "input[name=login]",
+        "value": "${JAWAB_USER}"
+      },
+      "password": {
+        "selector": "input[name=password]",
+        "value": "${JAWAB_PASSWORD}"
+      },
+      "submit": ".oe_login_form button[type=submit]",
+      "ready": ".o_app"
+    },
+    "start": {
+      "url": "/jawab",
+      "ready": ".o_app"
+    },
+    "hide": [
+      "#wk-destroy-info"
+    ]
+  },
+  "validation": {
+    "blackSec": 1.5,
+    "whiteSec": 4,
+    "unexplainedFreezeSec": 7,
+    "maxSilentGapSec": 12,
+    "minMeanVolumeDb": -45,
+    "syncToleranceMs": 1500
+  }
+}

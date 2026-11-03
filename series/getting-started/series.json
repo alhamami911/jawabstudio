@@ -1,0 +1,38 @@
+{
+  "id": "getting-started",
+  "title": {
+    "ar": "البداية مع JAWAB",
+    "en": "Getting Started with Jawab"
+  },
+  "titleSpeech": "الْبِدَايَةُ مَعَ جَوَاب",
+  "catalogCode": "S01",
+  "description": "سلسلة تعريفية من ثلاث حلقات: الشاشة الرئيسية والتهيئة واللغات، ثم استعراض سريع لوحدات JAWAB ERP",
+  "module": "Settings",
+  "audience": "المستخدمون والإداريون الجدد لنظام JAWAB",
+  "language": "ar",
+  "objectives": [
+    "التنقل بين الشاشة الرئيسية والتطبيقات",
+    "معرفة أقسام التهيئة العامة واللغات",
+    "التعرّف على وحدات JAWAB وما يفعله كل منها"
+  ],
+  "glossary": {
+    "Settings": "الإعدادات",
+    "Users": "المستخدمون",
+    "Languages": "اللغات",
+    "Companies": "الشركات",
+    "Sales": "المبيعات",
+    "CRM": "إدارة علاقات العملاء",
+    "Purchase": "المشتريات",
+    "Inventory": "المخزون",
+    "Point of Sale": "نقطة البيع",
+    "Employees": "الموظفون",
+    "Time Off": "الإجازات",
+    "Attendances": "الحضور",
+    "Recruitment": "التوظيف",
+    "Payroll": "الرواتب",
+    "Accounting": "المحاسبة",
+    "Project": "المشروع",
+    "Manufacturing": "التصنيع",
+    "Maintenance": "الصيانة"
+  }
+}

@@ -1,0 +1,44 @@
+# --- secrets / local config ---
+.env
+.env.*
+!.env.example
+*.bak
+.claude/settings.local.json
+
+# --- dependencies / build ---
+node_modules/
+dist/
+.venv*/
+__pycache__/
+
+# --- production outputs & caches (never commit: large, regenerable, may hold customer data) ---
+output/
+library/
+cache/
+data/
+archive/
+qa/
+voice-backup/
+voice-samples/
+*.log
+*.err
+
+# --- voice material (consented personal data + ElevenLabs outputs) ---
+assets/voice/
+
+# --- third-party code, binaries and heavy tooling downloaded locally ---
+tools/audar/repo/
+tools/audar/venv/
+tools/audar/work/
+tools/*.exe
+
+# --- large media (keep out of git; publish via releases/storage) ---
+*.mp4
+*.webm
+*.wav
+*.mp3
+!assets/intro/*.mp4
+!assets/outro/*.mp4
+
+# --- local AI-assistant settings (broad permissions; personal) ---
+.claude/

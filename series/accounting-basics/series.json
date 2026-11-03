@@ -1,0 +1,37 @@
+{
+  "id": "accounting-basics",
+  "catalogCode": "S02",
+  "title": {
+    "ar": "أساسيات المحاسبة في JAWAB",
+    "en": "Jawab Accounting Basics"
+  },
+  "titleSpeech": "أَسَاسِيَّاتُ الْمُحَاسَبَةِ فِي جَوَاب",
+  "description": "سلسلة عملية تشرح التعرف على المحاسبة وإعدادها وإدخال البيانات الأساسية وقراءة التقارير المالية في JAWAB ERP",
+  "module": "Accounting",
+  "audience": "المحاسبون والمستخدمون الجدد لنظام JAWAB",
+  "language": "ar",
+  "objectives": [
+    "التنقل بثقة بين شاشات المحاسبة",
+    "إعداد شجرة الحسابات والدفاتر والضرائب وشروط الدفع",
+    "إدخال العملاء والموردين والمنتجات والفواتير كمسودات",
+    "قراءة أهم التقارير المالية"
+  ],
+  "glossary": {
+    "Accounting": "المحاسبة",
+    "Configuration": "التهيئة",
+    "Chart of Accounts": "شجرة الحسابات",
+    "Journals": "دفاتر اليومية",
+    "Taxes": "الضرائب",
+    "Current Assets": "الأصول المتداولة",
+    "Expenses": "النفقات",
+    "Income": "الدخل",
+    "Current Liabilities": "الالتزامات المتداولة",
+    "Cash": "نقدي",
+    "Sales": "المبيعات",
+    "Purchases": "المشتريات",
+    "Payment Terms": "شروط الدفع",
+    "Fiscal Position": "موقف ضريبي",
+    "Invoice": "فاتورة عميل",
+    "Bill": "فاتورة مورد"
+  }
+}

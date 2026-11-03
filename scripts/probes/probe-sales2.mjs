@@ -1,0 +1,28 @@
+// قراءة فقط: يفتح نموذج عرض سعر جديد (دون حفظ) ويطبع حقوله وأزراره وعلامات تبويبه. usage: node scripts/probes/probe-sales.mjs
+import { chromium } from "playwright";
+process.loadEnvFile();
+const base = process.env.JAWAB_BASE_URL;
+if (new URL(base).hostname !== "premium.jawab.pro") process.exit(1);
+const b = await chromium.launch(); const p = await (await b.newContext({ viewport: { width: 1280, height: 720 } })).newPage();
+await p.goto(base + "/web/login"); await p.fill("input[name=login]", process.env.JAWAB_USER); await p.fill("input[name=password]", process.env.JAWAB_PASSWORD);
+await p.click(".oe_login_form button[type=submit]"); await p.waitForSelector(".o_app, .o_home_menu", { timeout: 60000 });
+await p.goto(base + "/odoo"); await p.waitForSelector(".o_app");
+await p.locator(".o_app").filter({ hasText: "المبيعات" }).first().click(); await p.waitForTimeout(2500);
+console.log("view:", await p.locator(".o_content > div").first().getAttribute("class"));
+console.log("kanban/list buttons:", (await p.locator(".o_control_panel button").allInnerTexts()).map((t) => t.trim()).filter(Boolean).join(" | "));
+await p.locator(".o_menu_sections button.dropdown-toggle").first().click(); await p.waitForTimeout(500);
+await p.locator(".o-dropdown--menu .dropdown-item").filter({ hasText: "عروض الأسعار" }).first().click(); await p.waitForTimeout(3000);
+await p.locator("button.o_list_button_add").click(); await p.waitForTimeout(3000);
+const f = p.locator(".o_field_widget[name=partner_id] input"); await f.click(); await f.fill("DEMO"); await p.waitForTimeout(1500);
+console.log("cust sugg:", (await p.locator(".o-autocomplete--dropdown-item").allInnerTexts()).join(" | "));
+await p.locator(".o-autocomplete--dropdown-item").first().click(); await p.waitForTimeout(1200);
+await p.locator(".o_field_x2many_list_row_add a").first().click(); await p.waitForTimeout(1200);
+console.log("line fields:", await p.locator(".o_selected_row [name]").evaluateAll((e) => e.map((x) => x.getAttribute("name"))));
+const pr = p.locator(".o_selected_row .o_field_widget[name=product_template_id] input"); await pr.click(); await pr.fill(""); await p.waitForTimeout(1500);
+console.log("prod sugg:", (await p.locator(".o-autocomplete--dropdown-item").allInnerTexts()).map((t) => t.replace(/\s+/g, " ")).join(" | "));
+await p.locator(".o-autocomplete--dropdown-item").first().click(); await p.waitForTimeout(1500);
+console.log("cols:", (await p.locator(".o_field_x2many_list thead th").allInnerTexts()).map((t) => t.trim()).filter(Boolean).join(" | "));
+console.log("optional toggler:", await p.locator(".o_optional_columns_dropdown_toggle, .o_optional_columns_dropdown button").count());
+console.log("row:", (await p.locator(".o_selected_row").innerText()).replace(/\s+/g, " "));
+console.log("pricelist/terms:", await p.locator(".o_field_widget[name=payment_term_id] input").inputValue().catch(() => "?"), "|", await p.locator(".o_field_widget[name=pricelist_id] input").inputValue().catch(() => "?"));
+await b.close();

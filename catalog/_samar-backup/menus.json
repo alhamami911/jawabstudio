@@ -1,0 +1,3728 @@
+{
+  "discoveredAt": "2026-10-27T12:11:29.499Z",
+  "baseUrl": "https://samar.jawab.pro",
+  "version": "18.0",
+  "apps": [
+    {
+      "id": 1,
+      "name": "Settings",
+      "xmlid": "base.menu_administration",
+      "menus": [
+        {
+          "id": 1,
+          "path": "Settings",
+          "actionId": 85,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "settings",
+          "xmlid": "base.menu_administration"
+        },
+        {
+          "id": 67,
+          "path": "Settings > General Settings",
+          "actionId": 85,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "settings",
+          "xmlid": "base_setup.menu_config"
+        },
+        {
+          "id": 61,
+          "path": "Settings > Users & Companies > Users",
+          "actionId": 70,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "users",
+          "xmlid": "base.menu_action_res_users"
+        },
+        {
+          "id": 58,
+          "path": "Settings > Users & Companies > Companies",
+          "actionId": 53,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "companies",
+          "xmlid": "base.menu_action_res_company_form"
+        }
+      ]
+    },
+    {
+      "id": 899,
+      "name": "Hotel Dashboard",
+      "xmlid": "hotel_dashboard.menu_root",
+      "menus": [
+        {
+          "id": 899,
+          "path": "Hotel Dashboard",
+          "actionId": 1314,
+          "actionModel": "ir.actions.client",
+          "xmlid": "hotel_dashboard.menu_root"
+        },
+        {
+          "id": 900,
+          "path": "Hotel Dashboard > Hotel dashboard",
+          "actionId": 1314,
+          "actionModel": "ir.actions.client",
+          "xmlid": "hotel_dashboard.menu"
+        },
+        {
+          "id": 901,
+          "path": "Hotel Dashboard > Hotel Calendar",
+          "actionId": 1313,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_dashboard.menu_calendar"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Chat",
+      "xmlid": "mail.menu_root_discuss",
+      "menus": [
+        {
+          "id": 80,
+          "path": "Chat",
+          "actionId": 121,
+          "actionModel": "ir.actions.client",
+          "actionPath": "discuss",
+          "xmlid": "mail.menu_root_discuss"
+        },
+        {
+          "id": 82,
+          "path": "Chat > Configuration > Notifications",
+          "actionId": 137,
+          "actionModel": "ir.actions.client",
+          "xmlid": "mail.menu_notification_settings"
+        },
+        {
+          "id": 83,
+          "path": "Chat > Configuration > Voice & Video",
+          "actionId": 138,
+          "actionModel": "ir.actions.client",
+          "xmlid": "mail.menu_call_settings"
+        },
+        {
+          "id": 84,
+          "path": "Chat > Configuration > Canned Responses",
+          "actionId": 122,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mail.menu_canned_responses"
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Calendar",
+      "xmlid": "calendar.mail_menu_calendar",
+      "menus": [
+        {
+          "id": 422,
+          "path": "Calendar",
+          "actionId": 674,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "calendar",
+          "xmlid": "calendar.mail_menu_calendar"
+        },
+        {
+          "id": 423,
+          "path": "Calendar > Calendar",
+          "actionId": 674,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "calendar",
+          "xmlid": "calendar.calendar_event_menu"
+        },
+        {
+          "id": 424,
+          "path": "Calendar > Configuration",
+          "actionId": 674,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "calendar",
+          "xmlid": "calendar.calendar_menu_config"
+        },
+        {
+          "id": 425,
+          "path": "Calendar > Configuration > Settings",
+          "actionId": 675,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "calendar.menu_calendar_settings"
+        }
+      ]
+    },
+    {
+      "id": 610,
+      "name": "To-do",
+      "xmlid": "project_todo.menu_todo_todos",
+      "menus": [
+        {
+          "id": 610,
+          "path": "To-do",
+          "actionId": 958,
+          "actionModel": "ir.actions.server",
+          "actionPath": "to-do",
+          "xmlid": "project_todo.menu_todo_todos"
+        }
+      ]
+    },
+    {
+      "id": 849,
+      "name": "Hotel Management",
+      "xmlid": "hotel.hotel_management_menu",
+      "menus": [
+        {
+          "id": 849,
+          "path": "Hotel Management",
+          "actionId": 1259,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.hotel_management_menu"
+        },
+        {
+          "id": 864,
+          "path": "Hotel Management > Memberships",
+          "actionId": 1259,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_coliving_membership"
+        },
+        {
+          "id": 887,
+          "path": "Hotel Management > Reservation > All Draft Reservation",
+          "actionId": 1288,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_action_hotel_reservation_list_draft"
+        },
+        {
+          "id": 888,
+          "path": "Hotel Management > Reservation > All Confirm Reservation",
+          "actionId": 1289,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_action_hotel_reservation_list_confirm"
+        },
+        {
+          "id": 889,
+          "path": "Hotel Management > Reservation > All Done Reservation",
+          "actionId": 1290,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_action_hotel_reservation_list_done"
+        },
+        {
+          "id": 890,
+          "path": "Hotel Management > Reservation > All Cancelled Reservation",
+          "actionId": 1291,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_action_hotel_reservation_list_cancel"
+        },
+        {
+          "id": 863,
+          "path": "Hotel Management > All Folio > Folio",
+          "actionId": 1255,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_open_hotel_folio1_form_list"
+        },
+        {
+          "id": 874,
+          "path": "Hotel Management > Restaurant > Table Order",
+          "actionId": 1269,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_restaurant.menu_open_view_hotel_restaurant_order_form_list"
+        },
+        {
+          "id": 892,
+          "path": "Hotel Management > Restaurant > KOT",
+          "actionId": 1293,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_view_hotel_restaurant_kitchen_order_tickets_inherit"
+        },
+        {
+          "id": 893,
+          "path": "Hotel Management > Restaurant > BOT",
+          "actionId": 1294,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_view_hotel_restaurant_kitchen_order_tickets_bot_inherit"
+        },
+        {
+          "id": 868,
+          "path": "Hotel Management > Housekeeping > New HouseKeeping",
+          "actionId": 1260,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_housekeeping.menu_open_hotel_housekeeping_form_list"
+        },
+        {
+          "id": 895,
+          "path": "Hotel Management > Housekeeping > Request for Repair / Replacement",
+          "actionId": 1297,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_open_rr_housekeeping_form_list_new1"
+        },
+        {
+          "id": 896,
+          "path": "Hotel Management > Housekeeping > Issue Material",
+          "actionId": 1298,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_open_issue_material_details_new1"
+        },
+        {
+          "id": 866,
+          "path": "Hotel Management > Reports > Membership Report",
+          "actionId": 1257,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_coliving_membership_report"
+        },
+        {
+          "id": 881,
+          "path": "Hotel Management > Reports > Customer Arrival/ Departure List",
+          "actionId": 1280,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_action_arrival_dept_guest_wizard_id"
+        },
+        {
+          "id": 882,
+          "path": "Hotel Management > Reports > Room and Guestwise Report",
+          "actionId": 1281,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_action_room_guestwise_report"
+        },
+        {
+          "id": 883,
+          "path": "Hotel Management > Reports > Monthly Occupancy Report",
+          "actionId": 1282,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_action_monthly_occupancy_report"
+        },
+        {
+          "id": 898,
+          "path": "Hotel Management > Agent Commission > Agent Commission Invoice",
+          "actionId": 1302,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_agent_commission_invoice"
+        },
+        {
+          "id": 852,
+          "path": "Hotel Management > Configuration > Floor",
+          "actionId": 1248,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_open_hotel_floor_form_list"
+        },
+        {
+          "id": 878,
+          "path": "Hotel Management > Configuration > Apartment",
+          "actionId": 1274,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale_enhancement.menu_action_shop_form"
+        },
+        {
+          "id": 855,
+          "path": "Hotel Management > Configuration > Amenity Defination > Amenities",
+          "actionId": 1250,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_action_hotel_room_amenities_view_form"
+        },
+        {
+          "id": 854,
+          "path": "Hotel Management > Configuration > Amenity Defination > Amenity Category",
+          "actionId": 1249,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_action_hotel_room_amenities_type_view_form"
+        },
+        {
+          "id": 858,
+          "path": "Hotel Management > Configuration > Room Definations > Rooms",
+          "actionId": 1252,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_open_hotel_room_form"
+        },
+        {
+          "id": 857,
+          "path": "Hotel Management > Configuration > Room Definations > Room Categories",
+          "actionId": 1251,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_open_hotel_room_type_form_list"
+        },
+        {
+          "id": 861,
+          "path": "Hotel Management > Configuration > Service Definations > Services",
+          "actionId": 1254,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_open_hotel_services_form"
+        },
+        {
+          "id": 860,
+          "path": "Hotel Management > Configuration > Service Definations > Service Categories",
+          "actionId": 1253,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_open_hotel_service_type_form_list"
+        },
+        {
+          "id": 871,
+          "path": "Hotel Management > Configuration > Activity Definations > Activities",
+          "actionId": 1264,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_housekeeping.menu_open_h_activity_form"
+        },
+        {
+          "id": 870,
+          "path": "Hotel Management > Configuration > Activity Definations > Activity Categories",
+          "actionId": 1263,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_housekeeping.menu_action_hotel_housekeeping_activity_type_view_form"
+        },
+        {
+          "id": 877,
+          "path": "Hotel Management > Configuration > FoodItem Definations > Food Items",
+          "actionId": 1272,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_restaurant.menu_open_hotel_menucard_form"
+        },
+        {
+          "id": 876,
+          "path": "Hotel Management > Configuration > FoodItem Definations > FoodItem Categories",
+          "actionId": 1271,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_restaurant.menu_action_hotel_menucard_type_view_form"
+        },
+        {
+          "id": 865,
+          "path": "Hotel Management > Configuration > Membership Discounts",
+          "actionId": 1256,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel.menu_coliving_membership_discount_policy"
+        },
+        {
+          "id": 873,
+          "path": "Hotel Management > Configuration > Tables",
+          "actionId": 1266,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_restaurant.menu_open_view_hotel_restaurant_tables_form_list"
+        },
+        {
+          "id": 884,
+          "path": "Hotel Management > Configuration > ID Master",
+          "actionId": 1283,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.id_master_submenu"
+        },
+        {
+          "id": 885,
+          "path": "Hotel Management > Configuration > Checkout Policy",
+          "actionId": 1284,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.checkout_configuration"
+        },
+        {
+          "id": 894,
+          "path": "Hotel Management > Configuration > Database Configuration",
+          "actionId": 1295,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.database_configuration_submenu"
+        }
+      ]
+    },
+    {
+      "id": 846,
+      "name": "Spreadsheets",
+      "xmlid": "spreadsheet_oca.spreadsheet_spreadsheet_menu",
+      "menus": [
+        {
+          "id": 846,
+          "path": "Spreadsheets",
+          "actionId": 1246,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "spreadsheet_oca.spreadsheet_spreadsheet_menu"
+        },
+        {
+          "id": 848,
+          "path": "Spreadsheets > Configuration > Spreadsheets Tags",
+          "actionId": 1245,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "spreadsheet_oca.spreadsheet_spreadsheet_tag_menu"
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "name": "Contacts",
+      "xmlid": "contacts.menu_contacts",
+      "menus": [
+        {
+          "id": 430,
+          "path": "Contacts",
+          "actionId": 676,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "contacts",
+          "xmlid": "contacts.menu_contacts"
+        },
+        {
+          "id": 431,
+          "path": "Contacts > Contacts",
+          "actionId": 676,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "contacts",
+          "xmlid": "contacts.res_partner_menu_contacts"
+        },
+        {
+          "id": 433,
+          "path": "Contacts > Configuration > Contact Tags",
+          "actionId": 59,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "contacts.menu_partner_category_form"
+        },
+        {
+          "id": 434,
+          "path": "Contacts > Configuration > Contact Titles",
+          "actionId": 55,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "contacts.menu_partner_title_contact"
+        },
+        {
+          "id": 435,
+          "path": "Contacts > Configuration > Industries",
+          "actionId": 60,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "contacts.res_partner_industry_menu"
+        },
+        {
+          "id": 437,
+          "path": "Contacts > Configuration > Localization > Countries",
+          "actionId": 63,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "contacts.menu_country_partner"
+        },
+        {
+          "id": 439,
+          "path": "Contacts > Configuration > Localization > Fed. States",
+          "actionId": 65,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "contacts.menu_country_state_partner"
+        },
+        {
+          "id": 438,
+          "path": "Contacts > Configuration > Localization > Country Group",
+          "actionId": 64,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "contacts.menu_country_group"
+        },
+        {
+          "id": 441,
+          "path": "Contacts > Configuration > Bank Accounts > Banks",
+          "actionId": 61,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "contacts.menu_action_res_bank_form"
+        },
+        {
+          "id": 442,
+          "path": "Contacts > Configuration > Bank Accounts > Bank Accounts",
+          "actionId": 62,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "contacts.menu_action_res_partner_bank_form"
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "name": "CRM",
+      "xmlid": "crm.crm_menu_root",
+      "menus": [
+        {
+          "id": 463,
+          "path": "CRM",
+          "actionId": 719,
+          "actionModel": "ir.actions.server",
+          "actionPath": "crm",
+          "xmlid": "crm.crm_menu_root"
+        },
+        {
+          "id": 465,
+          "path": "CRM > Sales > My Pipeline",
+          "actionId": 719,
+          "actionModel": "ir.actions.server",
+          "actionPath": "crm",
+          "xmlid": "crm.menu_crm_opportunities"
+        },
+        {
+          "id": 466,
+          "path": "CRM > Sales > My Activities",
+          "actionId": 734,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.crm_lead_menu_my_activities"
+        },
+        {
+          "id": 619,
+          "path": "CRM > Sales > My Quotations",
+          "actionId": 628,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale_crm.sale_order_menu_quotations_crm"
+        },
+        {
+          "id": 467,
+          "path": "CRM > Sales > Teams",
+          "actionId": 606,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.sales_team_menu_team_pipeline"
+        },
+        {
+          "id": 468,
+          "path": "CRM > Sales > Customers",
+          "actionId": 56,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.res_partner_menu_customer"
+        },
+        {
+          "id": 469,
+          "path": "CRM > Leads",
+          "actionId": 733,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.crm_menu_leads"
+        },
+        {
+          "id": 471,
+          "path": "CRM > Reporting > Forecast",
+          "actionId": 720,
+          "actionModel": "ir.actions.server",
+          "xmlid": "crm.crm_menu_forecast"
+        },
+        {
+          "id": 472,
+          "path": "CRM > Reporting > Pipeline",
+          "actionId": 743,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.crm_opportunity_report_menu"
+        },
+        {
+          "id": 473,
+          "path": "CRM > Reporting > Leads",
+          "actionId": 744,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.crm_opportunity_report_menu_lead"
+        },
+        {
+          "id": 474,
+          "path": "CRM > Reporting > Activities",
+          "actionId": 741,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.crm_activity_report_menu"
+        },
+        {
+          "id": 475,
+          "path": "CRM > Configuration",
+          "actionId": 719,
+          "actionModel": "ir.actions.server",
+          "actionPath": "crm",
+          "xmlid": "crm.crm_menu_config"
+        },
+        {
+          "id": 476,
+          "path": "CRM > Configuration > Settings",
+          "actionId": 740,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.crm_config_settings_menu"
+        },
+        {
+          "id": 478,
+          "path": "CRM > Configuration > Sales Teams",
+          "actionId": 607,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.crm_team_config"
+        },
+        {
+          "id": 481,
+          "path": "CRM > Configuration > Activities > Activity Types",
+          "actionId": 609,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.crm_team_menu_config_activity_types"
+        },
+        {
+          "id": 482,
+          "path": "CRM > Configuration > Activities > Activity Plans",
+          "actionId": 739,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.mail_activity_plan_menu_config_lead"
+        },
+        {
+          "id": 486,
+          "path": "CRM > Configuration > Pipeline > Tags",
+          "actionId": 604,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.menu_crm_lead_categ"
+        },
+        {
+          "id": 487,
+          "path": "CRM > Configuration > Pipeline > Lost Reasons",
+          "actionId": 728,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm.menu_crm_lost_reason"
+        },
+        {
+          "id": 613,
+          "path": "CRM > Configuration > Lead Generation > Lead Mining Requests",
+          "actionId": 964,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "crm_iap_mine.crm_iap_lead_mining_request_menu_action"
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "name": "Sales",
+      "xmlid": "sale.sale_menu_root",
+      "menus": [
+        {
+          "id": 368,
+          "path": "Sales",
+          "actionId": 627,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "sales",
+          "xmlid": "sale.sale_menu_root"
+        },
+        {
+          "id": 370,
+          "path": "Sales > Orders > Quotations",
+          "actionId": 627,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "sales",
+          "xmlid": "sale.menu_sale_quotations"
+        },
+        {
+          "id": 371,
+          "path": "Sales > Orders > Orders",
+          "actionId": 626,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "orders",
+          "xmlid": "sale.menu_sale_order"
+        },
+        {
+          "id": 372,
+          "path": "Sales > Orders > Sales Teams",
+          "actionId": 605,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.report_sales_team"
+        },
+        {
+          "id": 373,
+          "path": "Sales > Orders > Customers",
+          "actionId": 320,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "customers",
+          "xmlid": "sale.res_partner_menu"
+        },
+        {
+          "id": 375,
+          "path": "Sales > To Invoice > Orders to Invoice",
+          "actionId": 629,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_sale_order_invoice"
+        },
+        {
+          "id": 376,
+          "path": "Sales > To Invoice > Orders to Upsell",
+          "actionId": 630,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_sale_order_upselling"
+        },
+        {
+          "id": 378,
+          "path": "Sales > Products > Products",
+          "actionId": 641,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "products",
+          "xmlid": "sale.menu_product_template_action"
+        },
+        {
+          "id": 380,
+          "path": "Sales > Products > Pricelists",
+          "actionId": 229,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "pricelists",
+          "xmlid": "sale.menu_product_pricelist_main"
+        },
+        {
+          "id": 765,
+          "path": "Sales > Products > Discount & Loyalty",
+          "actionId": 1162,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale_loyalty.menu_discount_loyalty_type_config"
+        },
+        {
+          "id": 766,
+          "path": "Sales > Products > Gift cards & eWallet",
+          "actionId": 1163,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale_loyalty.menu_gift_ewallet_type_config"
+        },
+        {
+          "id": 382,
+          "path": "Sales > Reporting > Sales",
+          "actionId": 613,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_reporting_sales"
+        },
+        {
+          "id": 383,
+          "path": "Sales > Reporting > Salespersons",
+          "actionId": 614,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_reporting_salespeople"
+        },
+        {
+          "id": 384,
+          "path": "Sales > Reporting > Products",
+          "actionId": 615,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_reporting_product"
+        },
+        {
+          "id": 385,
+          "path": "Sales > Reporting > Customers",
+          "actionId": 616,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_reporting_customer"
+        },
+        {
+          "id": 387,
+          "path": "Sales > Configuration > Settings",
+          "actionId": 624,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_sale_general_settings"
+        },
+        {
+          "id": 388,
+          "path": "Sales > Configuration > Sales Teams",
+          "actionId": 607,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.sales_team_config"
+        },
+        {
+          "id": 407,
+          "path": "Sales > Configuration > Sales Orders > Quotation Templates",
+          "actionId": 644,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale_management.sale_order_template_menu"
+        },
+        {
+          "id": 421,
+          "path": "Sales > Configuration > Sales Orders > Headers/Footers",
+          "actionId": 670,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale_pdf_quote_builder.sale_menu_quotation_document_action"
+        },
+        {
+          "id": 618,
+          "path": "Sales > Configuration > Sales Orders > Delivery Methods",
+          "actionId": 981,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "delivery.sale_menu_action_delivery_carrier_form"
+        },
+        {
+          "id": 390,
+          "path": "Sales > Configuration > Sales Orders > Tags",
+          "actionId": 604,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_tag_config"
+        },
+        {
+          "id": 393,
+          "path": "Sales > Configuration > Products > Combo Choices",
+          "actionId": 227,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_product_combos"
+        },
+        {
+          "id": 394,
+          "path": "Sales > Configuration > Products > Product Categories",
+          "actionId": 226,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_product_categories"
+        },
+        {
+          "id": 395,
+          "path": "Sales > Configuration > Products > Product Tags",
+          "actionId": 219,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.menu_product_tags"
+        },
+        {
+          "id": 397,
+          "path": "Sales > Configuration > Online Payments > Payment Providers",
+          "actionId": 243,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.payment_provider_menu"
+        },
+        {
+          "id": 398,
+          "path": "Sales > Configuration > Online Payments > Payment Methods",
+          "actionId": 244,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.payment_method_menu"
+        },
+        {
+          "id": 406,
+          "path": "Sales > Configuration > Activities > Activity Plans",
+          "actionId": 640,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "sale.sale_menu_config_activity_plan"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Dashboards",
+      "xmlid": "spreadsheet_dashboard.spreadsheet_dashboard_menu_root",
+      "menus": [
+        {
+          "id": 200,
+          "path": "Dashboards",
+          "actionId": 329,
+          "actionModel": "ir.actions.client",
+          "actionPath": "dashboards",
+          "xmlid": "spreadsheet_dashboard.spreadsheet_dashboard_menu_root"
+        },
+        {
+          "id": 201,
+          "path": "Dashboards > Dashboards",
+          "actionId": 329,
+          "actionModel": "ir.actions.client",
+          "actionPath": "dashboards",
+          "xmlid": "spreadsheet_dashboard.spreadsheet_dashboard_menu_dashboard"
+        },
+        {
+          "id": 203,
+          "path": "Dashboards > Configuration > Dashboards",
+          "actionId": 330,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "spreadsheet_dashboard.spreadsheet_dashboard_menu_configuration_dashboards"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Point of Sale",
+      "xmlid": "point_of_sale.menu_point_root",
+      "menus": [
+        {
+          "id": 253,
+          "path": "Point of Sale",
+          "actionId": 455,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "point-of-sale",
+          "xmlid": "point_of_sale.menu_point_root"
+        },
+        {
+          "id": 273,
+          "path": "Point of Sale > Dashboard",
+          "actionId": 455,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "point-of-sale",
+          "xmlid": "point_of_sale.menu_pos_dashboard"
+        },
+        {
+          "id": 262,
+          "path": "Point of Sale > Orders > Orders",
+          "actionId": 438,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "pos-orders",
+          "xmlid": "point_of_sale.menu_point_ofsale"
+        },
+        {
+          "id": 276,
+          "path": "Point of Sale > Orders > Sessions",
+          "actionId": 458,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "pos-sessions",
+          "xmlid": "point_of_sale.menu_pos_session_all"
+        },
+        {
+          "id": 270,
+          "path": "Point of Sale > Orders > Payments",
+          "actionId": 454,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_pos_payment"
+        },
+        {
+          "id": 255,
+          "path": "Point of Sale > Orders > Customers",
+          "actionId": 320,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "customers",
+          "xmlid": "point_of_sale.menu_point_of_sale_customer"
+        },
+        {
+          "id": 264,
+          "path": "Point of Sale > Products > Products",
+          "actionId": 447,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_pos_products"
+        },
+        {
+          "id": 266,
+          "path": "Point of Sale > Products > Combo Choices",
+          "actionId": 227,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_product_combo"
+        },
+        {
+          "id": 267,
+          "path": "Point of Sale > Products > Pricelists",
+          "actionId": 229,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "pricelists",
+          "xmlid": "point_of_sale.pos_config_menu_action_product_pricelist"
+        },
+        {
+          "id": 763,
+          "path": "Point of Sale > Products > Discount & Loyalty",
+          "actionId": 1162,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "pos_loyalty.menu_discount_loyalty_type_config"
+        },
+        {
+          "id": 764,
+          "path": "Point of Sale > Products > Gift cards & eWallet",
+          "actionId": 1163,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "pos_loyalty.menu_gift_ewallet_type_config"
+        },
+        {
+          "id": 277,
+          "path": "Point of Sale > Reporting > Orders",
+          "actionId": 461,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_report_pos_order_all"
+        },
+        {
+          "id": 278,
+          "path": "Point of Sale > Reporting > Sales Details",
+          "actionId": 462,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_report_order_details"
+        },
+        {
+          "id": 257,
+          "path": "Point of Sale > Reporting > Session Report",
+          "actionId": 433,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_report_daily_details"
+        },
+        {
+          "id": 260,
+          "path": "Point of Sale > Configuration > Settings",
+          "actionId": 436,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_pos_global_settings"
+        },
+        {
+          "id": 269,
+          "path": "Point of Sale > Configuration > Payment Methods",
+          "actionId": 452,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_pos_payment_method"
+        },
+        {
+          "id": 275,
+          "path": "Point of Sale > Configuration > Coins/Bills",
+          "actionId": 457,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_pos_bill"
+        },
+        {
+          "id": 274,
+          "path": "Point of Sale > Configuration > Point of Sales",
+          "actionId": 456,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_point_of_sale_list"
+        },
+        {
+          "id": 661,
+          "path": "Point of Sale > Configuration > Floor Plans",
+          "actionId": 1030,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "pos_restaurant.menu_restaurant_floor_all"
+        },
+        {
+          "id": 261,
+          "path": "Point of Sale > Configuration > Note Models",
+          "actionId": 437,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_pos_note_model"
+        },
+        {
+          "id": 271,
+          "path": "Point of Sale > Configuration > Products > PoS Product Categories",
+          "actionId": 446,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "point_of_sale.menu_products_pos_category"
+        }
+      ]
+    },
+    {
+      "id": 767,
+      "name": "Franchise Management",
+      "xmlid": "wk_franchise_management.menu_franchise_root",
+      "menus": [
+        {
+          "id": 767,
+          "path": "Franchise Management",
+          "actionId": 1194,
+          "actionModel": "ir.actions.client",
+          "actionPath": "franchise-admin-dashboard",
+          "xmlid": "wk_franchise_management.menu_franchise_root"
+        },
+        {
+          "id": 769,
+          "path": "Franchise Management > Dashboard > Admin Dashboard",
+          "actionId": 1194,
+          "actionModel": "ir.actions.client",
+          "actionPath": "franchise-admin-dashboard",
+          "xmlid": "wk_franchise_management.menu_franchise_dashboard"
+        },
+        {
+          "id": 770,
+          "path": "Franchise Management > Dashboard > Franchise Dashboard",
+          "actionId": 1195,
+          "actionModel": "ir.actions.client",
+          "actionPath": "franchise-dashboard",
+          "xmlid": "wk_franchise_management.menu_franchisee_dashboard"
+        },
+        {
+          "id": 772,
+          "path": "Franchise Management > Franchise > Applications",
+          "actionId": 1177,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchise-applications",
+          "xmlid": "wk_franchise_management.menu_franchise_applications"
+        },
+        {
+          "id": 773,
+          "path": "Franchise Management > Franchise > Franchisees",
+          "actionId": 1185,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchisees",
+          "xmlid": "wk_franchise_management.menu_franchise_franchisees"
+        },
+        {
+          "id": 774,
+          "path": "Franchise Management > Franchise > Agreements",
+          "actionId": 1180,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchise-agreements",
+          "xmlid": "wk_franchise_management.menu_franchise_agreements"
+        },
+        {
+          "id": 775,
+          "path": "Franchise Management > Franchise > Agreement Renewals",
+          "actionId": 1183,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "wk_franchise_management.menu_franchise_agreement_renewals"
+        },
+        {
+          "id": 776,
+          "path": "Franchise Management > Franchise > Outlets",
+          "actionId": 1184,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchise-outlets",
+          "xmlid": "wk_franchise_management.menu_franchise_outlets"
+        },
+        {
+          "id": 777,
+          "path": "Franchise Management > Franchise > Territories",
+          "actionId": 1178,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchise-territories",
+          "xmlid": "wk_franchise_management.menu_franchise_territories"
+        },
+        {
+          "id": 778,
+          "path": "Franchise Management > Franchise > Communications",
+          "actionId": 1193,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchise-communications",
+          "xmlid": "wk_franchise_management.menu_franchise_communications"
+        },
+        {
+          "id": 780,
+          "path": "Franchise Management > Finance > Royalty Invoices",
+          "actionId": 1186,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "royalty-invoices",
+          "xmlid": "wk_franchise_management.menu_franchise_royalty_invoices"
+        },
+        {
+          "id": 782,
+          "path": "Franchise Management > Compliance & Training > Audits",
+          "actionId": 1187,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchise-audits",
+          "xmlid": "wk_franchise_management.menu_franchise_audits"
+        },
+        {
+          "id": 783,
+          "path": "Franchise Management > Compliance & Training > Training Enrollments",
+          "actionId": 1190,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "training-enrollments",
+          "xmlid": "wk_franchise_management.menu_franchise_training_enrollments"
+        },
+        {
+          "id": 784,
+          "path": "Franchise Management > Compliance & Training > KPI Scores",
+          "actionId": 1192,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "kpi-scores",
+          "xmlid": "wk_franchise_management.menu_franchise_kpi_scores"
+        },
+        {
+          "id": 786,
+          "path": "Franchise Management > Reporting > Agreements Analysis",
+          "actionId": 1196,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "report-agreements",
+          "xmlid": "wk_franchise_management.menu_report_agreements"
+        },
+        {
+          "id": 787,
+          "path": "Franchise Management > Reporting > Royalty Analysis",
+          "actionId": 1197,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "report-royalty",
+          "xmlid": "wk_franchise_management.menu_report_royalty"
+        },
+        {
+          "id": 788,
+          "path": "Franchise Management > Reporting > Audit Analysis",
+          "actionId": 1198,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "report-audits",
+          "xmlid": "wk_franchise_management.menu_report_audit"
+        },
+        {
+          "id": 789,
+          "path": "Franchise Management > Reporting > KPI Analysis",
+          "actionId": 1199,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "report-kpi",
+          "xmlid": "wk_franchise_management.menu_report_kpi"
+        },
+        {
+          "id": 791,
+          "path": "Franchise Management > Configuration > Settings",
+          "actionId": 1201,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "wk_franchise_management.menu_franchise_general_settings"
+        },
+        {
+          "id": 792,
+          "path": "Franchise Management > Configuration > Franchise Plans",
+          "actionId": 1179,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchise-plans",
+          "xmlid": "wk_franchise_management.menu_franchise_config_plans"
+        },
+        {
+          "id": 793,
+          "path": "Franchise Management > Configuration > Audit Categories",
+          "actionId": 1188,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "audit-categories",
+          "xmlid": "wk_franchise_management.menu_franchise_config_audit_categories"
+        },
+        {
+          "id": 794,
+          "path": "Franchise Management > Configuration > KPI Definitions",
+          "actionId": 1191,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "kpi-definitions",
+          "xmlid": "wk_franchise_management.menu_franchise_config_kpi_definitions"
+        },
+        {
+          "id": 795,
+          "path": "Franchise Management > Configuration > Training Programs",
+          "actionId": 1189,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "training-programs",
+          "xmlid": "wk_franchise_management.menu_franchise_config_training_programs"
+        },
+        {
+          "id": 796,
+          "path": "Franchise Management > Configuration > Terms & Conditions",
+          "actionId": 1171,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "wk_franchise_management.menu_franchise_config_terms"
+        },
+        {
+          "id": 797,
+          "path": "Franchise Management > Configuration > Document Types",
+          "actionId": 1175,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "franchise-document-types",
+          "xmlid": "wk_franchise_management.menu_franchise_config_document_types"
+        },
+        {
+          "id": 798,
+          "path": "Franchise Management > Configuration > Checklist Templates",
+          "actionId": 1172,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "wk_franchise_management.menu_franchise_config_checklist_templates"
+        },
+        {
+          "id": 799,
+          "path": "Franchise Management > Configuration > Onboarding Plans",
+          "actionId": 1173,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "wk_franchise_management.menu_franchise_config_onboarding_plans"
+        },
+        {
+          "id": 800,
+          "path": "Franchise Management > Configuration > Catalogs",
+          "actionId": 1174,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "wk_franchise_management.menu_franchise_config_catalogs"
+        },
+        {
+          "id": 801,
+          "path": "Franchise Management > Configuration > Franchise Coupons",
+          "actionId": 1200,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "wk_franchise_management.menu_franchise_config_coupons"
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "name": "Accounting",
+      "xmlid": "accountant.menu_accounting",
+      "menus": [
+        {
+          "id": 336,
+          "path": "Accounting",
+          "actionId": 322,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "accounting",
+          "xmlid": "accountant.menu_accounting"
+        },
+        {
+          "id": 148,
+          "path": "Accounting > Dashboard",
+          "actionId": 322,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "accounting",
+          "xmlid": "account.menu_board_journal_1"
+        },
+        {
+          "id": 891,
+          "path": "Accounting > Dashboard > Hotel Management > Dashboard > Booking History",
+          "actionId": 1292,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hotel_management.menu_hotel_room_booking_history_list"
+        },
+        {
+          "id": 150,
+          "path": "Accounting > Customers > Invoices",
+          "actionId": 281,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "customer-invoices",
+          "xmlid": "account.menu_action_move_out_invoice_type"
+        },
+        {
+          "id": 151,
+          "path": "Accounting > Customers > Credit Notes",
+          "actionId": 282,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "credit-notes",
+          "xmlid": "account.menu_action_move_out_refund_type"
+        },
+        {
+          "id": 153,
+          "path": "Accounting > Customers > Payments",
+          "actionId": 257,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_account_payments_receivable"
+        },
+        {
+          "id": 662,
+          "path": "Accounting > Customers > Batch Payments",
+          "actionId": 1035,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_batch_payment.menu_batch_payment_sales"
+        },
+        {
+          "id": 664,
+          "path": "Accounting > Customers > Direct Debit Mandates",
+          "actionId": 1039,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "sdd-mandates",
+          "xmlid": "account_sepa_direct_debit.account_sepa_direct_debit_customer_mandates_menu"
+        },
+        {
+          "id": 154,
+          "path": "Accounting > Customers > Products",
+          "actionId": 309,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.product_product_menu_sellable"
+        },
+        {
+          "id": 155,
+          "path": "Accounting > Customers > Customers",
+          "actionId": 320,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "customers",
+          "xmlid": "account.menu_account_customer"
+        },
+        {
+          "id": 157,
+          "path": "Accounting > Vendors > Bills",
+          "actionId": 284,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "vendor-bills",
+          "xmlid": "account.menu_action_move_in_invoice_type"
+        },
+        {
+          "id": 158,
+          "path": "Accounting > Vendors > Refunds",
+          "actionId": 285,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_move_in_refund_type"
+        },
+        {
+          "id": 160,
+          "path": "Accounting > Vendors > Payments",
+          "actionId": 258,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_account_payments_payable"
+        },
+        {
+          "id": 663,
+          "path": "Accounting > Vendors > Batch Payments",
+          "actionId": 1036,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_batch_payment.menu_batch_payment_purchases"
+        },
+        {
+          "id": 536,
+          "path": "Accounting > Vendors > Employee Expenses",
+          "actionId": 826,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_expense.menu_hr_expense_account_employee_expenses"
+        },
+        {
+          "id": 161,
+          "path": "Accounting > Vendors > Products",
+          "actionId": 310,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.product_product_menu_purchasable"
+        },
+        {
+          "id": 162,
+          "path": "Accounting > Vendors > Vendors",
+          "actionId": 321,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "vendors",
+          "xmlid": "account.menu_account_supplier"
+        },
+        {
+          "id": 164,
+          "path": "Accounting > Accounting > Journal Entries",
+          "actionId": 279,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_move_journal_line_form"
+        },
+        {
+          "id": 165,
+          "path": "Accounting > Accounting > Journal Items",
+          "actionId": 278,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_account_moves_all"
+        },
+        {
+          "id": 334,
+          "path": "Accounting > Accounting > Transfers",
+          "actionId": 541,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_auto_transfer.menu_auto_transfer"
+        },
+        {
+          "id": 166,
+          "path": "Accounting > Accounting > Analytic Items",
+          "actionId": 213,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_analytic_lines_tree"
+        },
+        {
+          "id": 337,
+          "path": "Accounting > Accounting > Analytic Budget",
+          "actionId": 555,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_budget.menu_act_budget_analytic_view"
+        },
+        {
+          "id": 359,
+          "path": "Accounting > Accounting > Assets",
+          "actionId": 583,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_asset.menu_action_account_asset_form"
+        },
+        {
+          "id": 366,
+          "path": "Accounting > Accounting > Loans",
+          "actionId": 602,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "loans",
+          "xmlid": "account_loans.menu_action_loans"
+        },
+        {
+          "id": 310,
+          "path": "Accounting > Accounting > Reconcile",
+          "actionId": 514,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "reconcile",
+          "xmlid": "account_accountant.menu_account_reconcile"
+        },
+        {
+          "id": 314,
+          "path": "Accounting > Accounting > Lock Dates",
+          "actionId": 520,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_accountant.menu_action_change_lock_date"
+        },
+        {
+          "id": 198,
+          "path": "Accounting > Accounting > Secure Entries",
+          "actionId": 326,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_secure_entries"
+        },
+        {
+          "id": 349,
+          "path": "Accounting > Reporting > Statement Reports > Balance Sheet",
+          "actionId": 560,
+          "actionModel": "ir.actions.client",
+          "actionPath": "balance-sheet",
+          "xmlid": "account_reports.menu_action_account_report_balance_sheet"
+        },
+        {
+          "id": 350,
+          "path": "Accounting > Reporting > Statement Reports > Profit and Loss",
+          "actionId": 562,
+          "actionModel": "ir.actions.client",
+          "actionPath": "profit-and-loss",
+          "xmlid": "account_reports.menu_action_account_report_profit_and_loss"
+        },
+        {
+          "id": 351,
+          "path": "Accounting > Reporting > Statement Reports > Cash Flow Statement",
+          "actionId": 559,
+          "actionModel": "ir.actions.client",
+          "xmlid": "account_reports.menu_action_account_report_cash_flow"
+        },
+        {
+          "id": 352,
+          "path": "Accounting > Reporting > Statement Reports > Executive Summary",
+          "actionId": 561,
+          "actionModel": "ir.actions.client",
+          "actionPath": "executive-summary",
+          "xmlid": "account_reports.menu_action_account_report_exec_summary"
+        },
+        {
+          "id": 346,
+          "path": "Accounting > Reporting > Statement Reports > Tax Return",
+          "actionId": 563,
+          "actionModel": "ir.actions.client",
+          "actionPath": "tax-report",
+          "xmlid": "account_reports.menu_action_account_report_gt"
+        },
+        {
+          "id": 347,
+          "path": "Accounting > Reporting > Statement Reports > EC Sales List",
+          "actionId": 572,
+          "actionModel": "ir.actions.client",
+          "xmlid": "account_reports.menu_action_account_report_sales"
+        },
+        {
+          "id": 343,
+          "path": "Accounting > Reporting > Audit Reports > General Ledger",
+          "actionId": 565,
+          "actionModel": "ir.actions.client",
+          "actionPath": "general-ledger",
+          "xmlid": "account_reports.menu_action_account_report_general_ledger"
+        },
+        {
+          "id": 344,
+          "path": "Accounting > Reporting > Audit Reports > Trial Balance",
+          "actionId": 569,
+          "actionModel": "ir.actions.client",
+          "actionPath": "trial-balance",
+          "xmlid": "account_reports.menu_action_account_report_coa"
+        },
+        {
+          "id": 345,
+          "path": "Accounting > Reporting > Audit Reports > Journal Audit",
+          "actionId": 564,
+          "actionModel": "ir.actions.client",
+          "actionPath": "journal-report",
+          "xmlid": "account_reports.menu_action_account_report_ja"
+        },
+        {
+          "id": 666,
+          "path": "Accounting > Reporting > Audit Reports > Intrastat Report",
+          "actionId": 1046,
+          "actionModel": "ir.actions.client",
+          "xmlid": "account_intrastat.menu_action_account_report_intrastat"
+        },
+        {
+          "id": 339,
+          "path": "Accounting > Reporting > Partner Reports > Partner Ledger",
+          "actionId": 570,
+          "actionModel": "ir.actions.client",
+          "actionPath": "partner-ledger",
+          "xmlid": "account_reports.menu_action_account_report_partner_ledger"
+        },
+        {
+          "id": 340,
+          "path": "Accounting > Reporting > Partner Reports > Aged Receivable",
+          "actionId": 567,
+          "actionModel": "ir.actions.client",
+          "actionPath": "aged-receivable",
+          "xmlid": "account_reports.menu_action_account_report_aged_receivable"
+        },
+        {
+          "id": 341,
+          "path": "Accounting > Reporting > Partner Reports > Aged Payable",
+          "actionId": 568,
+          "actionModel": "ir.actions.client",
+          "actionPath": "aged-payable",
+          "xmlid": "account_reports.menu_action_account_report_aged_payable"
+        },
+        {
+          "id": 170,
+          "path": "Accounting > Reporting > Management > Invoice Analysis",
+          "actionId": 313,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_account_invoice_report_all"
+        },
+        {
+          "id": 171,
+          "path": "Accounting > Reporting > Management > Analytic Report",
+          "actionId": 311,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_analytic_reporting"
+        },
+        {
+          "id": 338,
+          "path": "Accounting > Reporting > Management > Budget Report",
+          "actionId": 557,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_budget.budget_report_menu"
+        },
+        {
+          "id": 348,
+          "path": "Accounting > Reporting > Management > Unrealized Currency Gains/Losses",
+          "actionId": 566,
+          "actionModel": "ir.actions.client",
+          "xmlid": "account_reports.menu_action_account_report_multicurrency_revaluation"
+        },
+        {
+          "id": 353,
+          "path": "Accounting > Reporting > Management > Deferred Revenue",
+          "actionId": 574,
+          "actionModel": "ir.actions.client",
+          "actionPath": "deferred-revenue",
+          "xmlid": "account_reports.menu_action_account_report_deferred_revenue"
+        },
+        {
+          "id": 354,
+          "path": "Accounting > Reporting > Management > Deferred Expense",
+          "actionId": 573,
+          "actionModel": "ir.actions.client",
+          "actionPath": "deferred-expense",
+          "xmlid": "account_reports.menu_action_account_report_deferred_expense"
+        },
+        {
+          "id": 362,
+          "path": "Accounting > Reporting > Management > Depreciation Schedule",
+          "actionId": 588,
+          "actionModel": "ir.actions.client",
+          "xmlid": "account_asset.menu_action_account_report_assets"
+        },
+        {
+          "id": 364,
+          "path": "Accounting > Reporting > Management > Disallowed Expenses",
+          "actionId": 590,
+          "actionModel": "ir.actions.client",
+          "xmlid": "account_disallowed_expenses.menu_action_account_report_de"
+        },
+        {
+          "id": 367,
+          "path": "Accounting > Reporting > Management > Loans Analysis",
+          "actionId": 603,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "loans-analysis",
+          "xmlid": "account_loans.menu_action_loans_analysis"
+        },
+        {
+          "id": 174,
+          "path": "Accounting > Configuration > Settings",
+          "actionId": 317,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_account_config"
+        },
+        {
+          "id": 176,
+          "path": "Accounting > Configuration > Invoicing > Payment Terms",
+          "actionId": 305,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_payment_term_form"
+        },
+        {
+          "id": 365,
+          "path": "Accounting > Configuration > Invoicing > Follow-up Levels",
+          "actionId": 595,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_followup.account_followup_menu"
+        },
+        {
+          "id": 665,
+          "path": "Accounting > Configuration > Invoicing > Intrastat Code",
+          "actionId": 1045,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_intrastat.menu_report_intrastat_code"
+        },
+        {
+          "id": 179,
+          "path": "Accounting > Configuration > Banks > Add a Bank Account",
+          "actionId": 306,
+          "actionModel": "ir.actions.server",
+          "xmlid": "account.menu_action_account_bank_journal_form"
+        },
+        {
+          "id": 180,
+          "path": "Accounting > Configuration > Banks > Reconciliation Models",
+          "actionId": 302,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.action_account_reconcile_model_menu"
+        },
+        {
+          "id": 182,
+          "path": "Accounting > Configuration > Accounting > Chart of Accounts",
+          "actionId": 295,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_account_form"
+        },
+        {
+          "id": 183,
+          "path": "Accounting > Configuration > Accounting > Taxes",
+          "actionId": 303,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_tax_form"
+        },
+        {
+          "id": 184,
+          "path": "Accounting > Configuration > Accounting > Journals",
+          "actionId": 297,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_account_journal_form"
+        },
+        {
+          "id": 186,
+          "path": "Accounting > Configuration > Accounting > Currencies",
+          "actionId": 67,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_currency_form"
+        },
+        {
+          "id": 187,
+          "path": "Accounting > Configuration > Accounting > Fiscal Positions",
+          "actionId": 319,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_account_fiscal_position_form"
+        },
+        {
+          "id": 188,
+          "path": "Accounting > Configuration > Accounting > Multi-Ledger",
+          "actionId": 298,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_action_account_journal_group_list"
+        },
+        {
+          "id": 357,
+          "path": "Accounting > Configuration > Accounting > Financial Budgets",
+          "actionId": 579,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_reports.menu_action_account_report_budget_tree"
+        },
+        {
+          "id": 248,
+          "path": "Accounting > Configuration > Online Payments > Payment Providers",
+          "actionId": 243,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_payment.payment_provider_menu"
+        },
+        {
+          "id": 249,
+          "path": "Accounting > Configuration > Online Payments > Payment Methods",
+          "actionId": 244,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_payment.payment_method_menu"
+        },
+        {
+          "id": 360,
+          "path": "Accounting > Configuration > Management > Asset Models",
+          "actionId": 584,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_asset.menu_action_account_asset_model_form"
+        },
+        {
+          "id": 192,
+          "path": "Accounting > Configuration > Management > Product Categories",
+          "actionId": 226,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_product_product_categories"
+        },
+        {
+          "id": 363,
+          "path": "Accounting > Configuration > Management > Disallowed Expenses Categories",
+          "actionId": 589,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account_disallowed_expenses.menu_action_account_disallowed_expenses_category_list"
+        },
+        {
+          "id": 195,
+          "path": "Accounting > Configuration > Analytic Accounting > Analytic Distribution Models",
+          "actionId": 217,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.menu_analytic__distribution_model"
+        },
+        {
+          "id": 196,
+          "path": "Accounting > Configuration > Analytic Accounting > Analytic Accounts",
+          "actionId": 215,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.account_analytic_def_account"
+        },
+        {
+          "id": 197,
+          "path": "Accounting > Configuration > Analytic Accounting > Analytic Plans",
+          "actionId": 216,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "account.account_analytic_plan_menu"
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "name": "Project",
+      "xmlid": "project.menu_main_pm",
+      "menus": [
+        {
+          "id": 508,
+          "path": "Project",
+          "actionId": 785,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "project",
+          "xmlid": "project.menu_main_pm"
+        },
+        {
+          "id": 509,
+          "path": "Project > Projects",
+          "actionId": 785,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "project",
+          "xmlid": "project.menu_projects"
+        },
+        {
+          "id": 512,
+          "path": "Project > Tasks > My Tasks",
+          "actionId": 796,
+          "actionModel": "ir.actions.server",
+          "xmlid": "project.menu_project_management_my_tasks"
+        },
+        {
+          "id": 513,
+          "path": "Project > Tasks > All Tasks",
+          "actionId": 795,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "all-tasks",
+          "xmlid": "project.menu_project_management_all_tasks"
+        },
+        {
+          "id": 515,
+          "path": "Project > Reporting > Tasks Analysis",
+          "actionId": 810,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "tasks-analysis",
+          "xmlid": "project.menu_project_report_task_analysis"
+        },
+        {
+          "id": 518,
+          "path": "Project > Configuration > Settings",
+          "actionId": 803,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "project.project_config_settings_menu_action"
+        },
+        {
+          "id": 520,
+          "path": "Project > Configuration > Projects",
+          "actionId": 787,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "project-configuration",
+          "xmlid": "project.menu_projects_config"
+        },
+        {
+          "id": 523,
+          "path": "Project > Configuration > Tags",
+          "actionId": 802,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "task-tags",
+          "xmlid": "project.menu_project_tags_act"
+        },
+        {
+          "id": 524,
+          "path": "Project > Configuration > Activity Types",
+          "actionId": 805,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "project-activity-types",
+          "xmlid": "project.project_menu_config_activity_type"
+        },
+        {
+          "id": 525,
+          "path": "Project > Configuration > Activity Plans",
+          "actionId": 804,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "project-activity-plans",
+          "xmlid": "project.mail_activity_plan_menu_config_project"
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "name": "Jawab Payroll",
+      "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_payroll_root",
+      "menus": [
+        {
+          "id": 805,
+          "path": "Jawab Payroll",
+          "actionId": 1222,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_payroll_root"
+        },
+        {
+          "id": 807,
+          "path": "Jawab Payroll > Payroll > Payslips",
+          "actionId": 1222,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_payslip"
+        },
+        {
+          "id": 808,
+          "path": "Jawab Payroll > Payroll > Payroll Batches",
+          "actionId": 1223,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_payslip_run"
+        },
+        {
+          "id": 809,
+          "path": "Jawab Payroll > Payroll > Run Monthly Payroll",
+          "actionId": 1213,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_payroll_run_wizard"
+        },
+        {
+          "id": 810,
+          "path": "Jawab Payroll > Payroll > WPS / MUDAD Export",
+          "actionId": 1214,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_payroll_wps_export"
+        },
+        {
+          "id": 812,
+          "path": "Jawab Payroll > Employees > Employees",
+          "actionId": 477,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "employees",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_employees_all"
+        },
+        {
+          "id": 813,
+          "path": "Jawab Payroll > Employees > Contracts",
+          "actionId": 1083,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "employee-contracts",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_contracts"
+        },
+        {
+          "id": 817,
+          "path": "Jawab Payroll > Loans > All Loans",
+          "actionId": 1224,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_loans_all"
+        },
+        {
+          "id": 816,
+          "path": "Jawab Payroll > Loans > To Approve",
+          "actionId": 1226,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_loans_to_approve"
+        },
+        {
+          "id": 839,
+          "path": "Jawab Payroll > Loans > To Disburse",
+          "actionId": 1237,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_loans_to_disburse"
+        },
+        {
+          "id": 815,
+          "path": "Jawab Payroll > Loans > My Loans",
+          "actionId": 1225,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_loans_my"
+        },
+        {
+          "id": 819,
+          "path": "Jawab Payroll > Documents > All Documents",
+          "actionId": 1227,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_documents_all"
+        },
+        {
+          "id": 820,
+          "path": "Jawab Payroll > Documents > Expiring Soon",
+          "actionId": 1228,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_documents_expiring"
+        },
+        {
+          "id": 822,
+          "path": "Jawab Payroll > Discipline > Warnings",
+          "actionId": 1229,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_warnings"
+        },
+        {
+          "id": 824,
+          "path": "Jawab Payroll > Assets > Asset Allocations",
+          "actionId": 1230,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_assets_all"
+        },
+        {
+          "id": 826,
+          "path": "Jawab Payroll > Attendance > Attendances",
+          "actionId": 489,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "attendances",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_attendance_all"
+        },
+        {
+          "id": 827,
+          "path": "Jawab Payroll > Attendance > GPS Work Locations",
+          "actionId": 1231,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_attendance_locations"
+        },
+        {
+          "id": 829,
+          "path": "Jawab Payroll > Reporting > Payslip Lines",
+          "actionId": 1220,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_payroll_reporting_lines"
+        },
+        {
+          "id": 831,
+          "path": "Jawab Payroll > Configuration > Settings",
+          "actionId": 1235,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_payroll_settings"
+        },
+        {
+          "id": 832,
+          "path": "Jawab Payroll > Configuration > Salary Structures",
+          "actionId": 1216,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_payroll_structure"
+        },
+        {
+          "id": 833,
+          "path": "Jawab Payroll > Configuration > Salary Rules",
+          "actionId": 1219,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_salary_rule"
+        },
+        {
+          "id": 840,
+          "path": "Jawab Payroll > Configuration > Input Types",
+          "actionId": 1236,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_payslip_input_type"
+        },
+        {
+          "id": 834,
+          "path": "Jawab Payroll > Configuration > Salary Rule Categories",
+          "actionId": 1217,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_salary_rule_category"
+        },
+        {
+          "id": 835,
+          "path": "Jawab Payroll > Configuration > Contribution Registers",
+          "actionId": 1218,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_contribution_register"
+        },
+        {
+          "id": 836,
+          "path": "Jawab Payroll > Configuration > Contract Advantages",
+          "actionId": 1215,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_contract_advantage_template"
+        },
+        {
+          "id": 837,
+          "path": "Jawab Payroll > Configuration > GPS Work Locations",
+          "actionId": 1231,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_config_locations"
+        },
+        {
+          "id": 838,
+          "path": "Jawab Payroll > Configuration > Contract Types",
+          "actionId": 472,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "leapai_hr_sa_payroll.menu_hr_sa_config_contract_types"
+        }
+      ]
+    },
+    {
+      "id": 841,
+      "name": "Employee Portal",
+      "xmlid": "jawab_employee_portal.menu_jawab_employee_portal_root",
+      "menus": [
+        {
+          "id": 841,
+          "path": "Employee Portal",
+          "actionId": 1240,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "jawab_employee_portal.menu_jawab_employee_portal_root"
+        },
+        {
+          "id": 843,
+          "path": "Employee Portal > Requests > To Approve",
+          "actionId": 1240,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "jawab_employee_portal.menu_hr_employee_request"
+        },
+        {
+          "id": 844,
+          "path": "Employee Portal > Requests > All Requests",
+          "actionId": 1238,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "jawab_employee_portal.menu_hr_employee_request_all"
+        },
+        {
+          "id": 845,
+          "path": "Employee Portal > My Portal",
+          "actionId": 1239,
+          "actionModel": "ir.actions.client",
+          "xmlid": "jawab_employee_portal.menu_jawab_portal_preview"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Website",
+      "xmlid": "website.menu_website_configuration",
+      "menus": [
+        {
+          "id": 122,
+          "path": "Website",
+          "actionId": 192,
+          "actionModel": "ir.actions.client",
+          "actionPath": "website",
+          "xmlid": "website.menu_website_configuration"
+        },
+        {
+          "id": 124,
+          "path": "Website > Site > Homepage",
+          "actionId": 192,
+          "actionModel": "ir.actions.client",
+          "actionPath": "website",
+          "xmlid": "website.menu_website_preview"
+        },
+        {
+          "id": 125,
+          "path": "Website > Site > Menu Editor",
+          "actionId": 192,
+          "actionModel": "ir.actions.client",
+          "actionPath": "website",
+          "xmlid": "website.menu_edit_menu"
+        },
+        {
+          "id": 135,
+          "path": "Website > Site > Content > Pages",
+          "actionId": 199,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website.menu_website_pages_list"
+        },
+        {
+          "id": 660,
+          "path": "Website > Site > Content > Products",
+          "actionId": 1025,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_product_pages"
+        },
+        {
+          "id": 616,
+          "path": "Website > Site > Content > Events",
+          "actionId": 977,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_event.menu_event_pages"
+        },
+        {
+          "id": 634,
+          "path": "Website > Site > Content > Courses",
+          "actionId": 999,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.menu_slide_channel_pages"
+        },
+        {
+          "id": 617,
+          "path": "Website > Site > Content > Jobs",
+          "actionId": 980,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_hr_recruitment.menu_job_pages"
+        },
+        {
+          "id": 128,
+          "path": "Website > Site > This page > Properties",
+          "actionId": 192,
+          "actionModel": "ir.actions.client",
+          "actionPath": "website",
+          "xmlid": "website.menu_page_properties"
+        },
+        {
+          "id": 129,
+          "path": "Website > Site > This page > Optimize SEO",
+          "actionId": 192,
+          "actionModel": "ir.actions.client",
+          "actionPath": "website",
+          "xmlid": "website.menu_optimize_seo"
+        },
+        {
+          "id": 611,
+          "path": "Website > Site > This page > Link Tracker",
+          "actionId": 192,
+          "actionModel": "ir.actions.client",
+          "actionPath": "website",
+          "xmlid": "website_links.menu_link_tracker"
+        },
+        {
+          "id": 130,
+          "path": "Website > Site > This page > HTML / CSS Editor",
+          "actionId": 192,
+          "actionModel": "ir.actions.client",
+          "actionPath": "website",
+          "xmlid": "website.menu_ace_editor"
+        },
+        {
+          "id": 131,
+          "path": "Website > Site > This page > Edit Menu",
+          "actionId": 192,
+          "actionModel": "ir.actions.client",
+          "actionPath": "website",
+          "xmlid": "website.custom_menu_edit_menu"
+        },
+        {
+          "id": 640,
+          "path": "Website > eCommerce > Orders > Orders",
+          "actionId": 1019,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_orders_orders"
+        },
+        {
+          "id": 641,
+          "path": "Website > eCommerce > Orders > Unpaid Orders",
+          "actionId": 1022,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_orders_unpaid_orders"
+        },
+        {
+          "id": 642,
+          "path": "Website > eCommerce > Orders > Abandoned Carts",
+          "actionId": 1023,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_orders_abandoned_orders"
+        },
+        {
+          "id": 643,
+          "path": "Website > eCommerce > Orders > Customers",
+          "actionId": 57,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_orders_customers"
+        },
+        {
+          "id": 645,
+          "path": "Website > eCommerce > Products > Products",
+          "actionId": 1018,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_catalog_products"
+        },
+        {
+          "id": 646,
+          "path": "Website > eCommerce > Products > Pricelists",
+          "actionId": 229,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "pricelists",
+          "xmlid": "website_sale.menu_catalog_pricelists"
+        },
+        {
+          "id": 647,
+          "path": "Website > eCommerce > Products > eCommerce Categories",
+          "actionId": 1016,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_catalog_categories"
+        },
+        {
+          "id": 649,
+          "path": "Website > eCommerce > Products > Combo Choices",
+          "actionId": 227,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_product_combos"
+        },
+        {
+          "id": 650,
+          "path": "Website > eCommerce > Products > Product Tags",
+          "actionId": 219,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.product_catalog_product_tags"
+        },
+        {
+          "id": 651,
+          "path": "Website > eCommerce > Products > Product Ribbons",
+          "actionId": 1017,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.product_catalog_product_ribbons"
+        },
+        {
+          "id": 803,
+          "path": "Website > eCommerce > Loyalty > Discount & Loyalty",
+          "actionId": 1162,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale_loyalty.menu_discount_loyalty_type_config"
+        },
+        {
+          "id": 804,
+          "path": "Website > eCommerce > Loyalty > Gift cards & eWallet",
+          "actionId": 1163,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale_loyalty.menu_gift_ewallet_type_config"
+        },
+        {
+          "id": 134,
+          "path": "Website > Reporting > Analytics",
+          "actionId": 195,
+          "actionModel": "ir.actions.server",
+          "xmlid": "website.menu_website_analytics"
+        },
+        {
+          "id": 659,
+          "path": "Website > Reporting > Online Sales",
+          "actionId": 1013,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_report_sales"
+        },
+        {
+          "id": 137,
+          "path": "Website > Reporting > Visitors",
+          "actionId": 203,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "visitors",
+          "xmlid": "website.website_visitor_menu"
+        },
+        {
+          "id": 138,
+          "path": "Website > Reporting > Page Views",
+          "actionId": 204,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website.menu_visitor_view_menu"
+        },
+        {
+          "id": 140,
+          "path": "Website > Configuration > Settings",
+          "actionId": 205,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website.menu_website_website_settings"
+        },
+        {
+          "id": 141,
+          "path": "Website > Configuration > Apps",
+          "actionId": 187,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website.menu_website_add_features"
+        },
+        {
+          "id": 653,
+          "path": "Website > Configuration > eCommerce > Payment Providers",
+          "actionId": 243,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_ecommerce_payment_providers"
+        },
+        {
+          "id": 654,
+          "path": "Website > Configuration > eCommerce > Payment Methods",
+          "actionId": 244,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_ecommerce_payment_methods"
+        },
+        {
+          "id": 657,
+          "path": "Website > Configuration > eCommerce > Delivery Methods",
+          "actionId": 981,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_sale.menu_ecommerce_delivery"
+        }
+      ]
+    },
+    {
+      "id": 620,
+      "name": "eLearning",
+      "xmlid": "website_slides.website_slides_menu_root",
+      "menus": [
+        {
+          "id": 620,
+          "path": "eLearning",
+          "actionId": 995,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "e-learning",
+          "xmlid": "website_slides.website_slides_menu_root"
+        },
+        {
+          "id": 624,
+          "path": "eLearning > Courses > Courses",
+          "actionId": 995,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "e-learning",
+          "xmlid": "website_slides.website_slides_menu_courses_courses"
+        },
+        {
+          "id": 625,
+          "path": "eLearning > Courses > Contents",
+          "actionId": 991,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_courses_content"
+        },
+        {
+          "id": 692,
+          "path": "eLearning > Courses > Certifications",
+          "actionId": 1073,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides_survey.website_slides_menu_courses_certification"
+        },
+        {
+          "id": 626,
+          "path": "eLearning > Reporting > Courses",
+          "actionId": 996,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_report_courses"
+        },
+        {
+          "id": 627,
+          "path": "eLearning > Reporting > Contents",
+          "actionId": 992,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_report_contents"
+        },
+        {
+          "id": 628,
+          "path": "eLearning > Reporting > Attendees",
+          "actionId": 994,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_report_attendees"
+        },
+        {
+          "id": 629,
+          "path": "eLearning > Reporting > Reviews",
+          "actionId": 986,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_report_reviews"
+        },
+        {
+          "id": 630,
+          "path": "eLearning > Reporting > Quizzes",
+          "actionId": 988,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_report_quizzes"
+        },
+        {
+          "id": 631,
+          "path": "eLearning > Configuration > Settings",
+          "actionId": 985,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_config_settings"
+        },
+        {
+          "id": 632,
+          "path": "eLearning > Configuration > Course Groups",
+          "actionId": 998,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_config_course_groups"
+        },
+        {
+          "id": 633,
+          "path": "eLearning > Configuration > Content Tags",
+          "actionId": 990,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "website_slides.website_slides_menu_config_content_tags"
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "name": "Email Marketing",
+      "xmlid": "mass_mailing.mass_mailing_menu_root",
+      "menus": [
+        {
+          "id": 489,
+          "path": "Email Marketing",
+          "actionId": 764,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "email-marketing",
+          "xmlid": "mass_mailing.mass_mailing_menu_root"
+        },
+        {
+          "id": 490,
+          "path": "Email Marketing > Mailings",
+          "actionId": 764,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "email-marketing",
+          "xmlid": "mass_mailing.mass_mailing_menu"
+        },
+        {
+          "id": 492,
+          "path": "Email Marketing > Mailing Lists > Mailing Lists",
+          "actionId": 763,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "mailing-lists",
+          "xmlid": "mass_mailing.menu_email_mass_mailing_lists"
+        },
+        {
+          "id": 493,
+          "path": "Email Marketing > Mailing Lists > Mailing List Contacts",
+          "actionId": 762,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing.menu_email_mass_mailing_contacts"
+        },
+        {
+          "id": 496,
+          "path": "Email Marketing > Reporting > Mass Mailing Analysis",
+          "actionId": 758,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing.mailing_menu_report_mailing"
+        },
+        {
+          "id": 497,
+          "path": "Email Marketing > Reporting > Opt-Out Report",
+          "actionId": 769,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing.mailing_menu_report_subscribe_reason"
+        },
+        {
+          "id": 499,
+          "path": "Email Marketing > Configuration > Settings",
+          "actionId": 770,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing.menu_mass_mailing_global_settings"
+        },
+        {
+          "id": 502,
+          "path": "Email Marketing > Configuration > Link Tracker",
+          "actionId": 689,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing.link_tracker_menu_mass_mailing"
+        },
+        {
+          "id": 503,
+          "path": "Email Marketing > Configuration > Blacklisted Email Addresses",
+          "actionId": 147,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing.mail_blacklist_mm_menu"
+        },
+        {
+          "id": 504,
+          "path": "Email Marketing > Configuration > Optout Reasons",
+          "actionId": 768,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing.mailing_subscription_optout_menu"
+        },
+        {
+          "id": 505,
+          "path": "Email Marketing > Configuration > Favorite Filters",
+          "actionId": 759,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing.mailing_filter_menu_action"
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "name": "SMS Marketing",
+      "xmlid": "mass_mailing_sms.mass_mailing_sms_menu_root",
+      "menus": [
+        {
+          "id": 693,
+          "path": "SMS Marketing",
+          "actionId": 1077,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "sms-marketing",
+          "xmlid": "mass_mailing_sms.mass_mailing_sms_menu_root"
+        },
+        {
+          "id": 694,
+          "path": "SMS Marketing > SMS Marketing",
+          "actionId": 1077,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "sms-marketing",
+          "xmlid": "mass_mailing_sms.mass_mailing_sms_menu_mass_sms"
+        },
+        {
+          "id": 696,
+          "path": "SMS Marketing > Mailing Lists > Mailing Lists",
+          "actionId": 1075,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing_sms.mailing_list_menu_sms"
+        },
+        {
+          "id": 697,
+          "path": "SMS Marketing > Mailing Lists > Mailing List Contacts",
+          "actionId": 1076,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing_sms.mailing_contact_menu_sms"
+        },
+        {
+          "id": 699,
+          "path": "SMS Marketing > Reporting",
+          "actionId": 1074,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing_sms.mass_mailing_sms_menu_reporting"
+        },
+        {
+          "id": 701,
+          "path": "SMS Marketing > Configuration > Blacklisted Phone Numbers",
+          "actionId": 153,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing_sms.phone_blacklist_menu"
+        },
+        {
+          "id": 702,
+          "path": "SMS Marketing > Configuration > Link Tracker",
+          "actionId": 689,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mass_mailing_sms.link_tracker_menu"
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "name": "Events",
+      "xmlid": "event.event_main_menu",
+      "menus": [
+        {
+          "id": 452,
+          "path": "Events",
+          "actionId": 702,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "events",
+          "xmlid": "event.event_main_menu"
+        },
+        {
+          "id": 453,
+          "path": "Events > Events",
+          "actionId": 702,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "events",
+          "xmlid": "event.menu_event_event"
+        },
+        {
+          "id": 461,
+          "path": "Events > Registration Desk",
+          "actionId": 701,
+          "actionModel": "ir.actions.client",
+          "actionPath": "registration-desk",
+          "xmlid": "event.menu_event_registration_desk"
+        },
+        {
+          "id": 460,
+          "path": "Events > Reporting > Attendees",
+          "actionId": 698,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "event.menu_action_registration"
+        },
+        {
+          "id": 635,
+          "path": "Events > Reporting > Revenues",
+          "actionId": 1001,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "event_sale.menu_action_show_revenues"
+        },
+        {
+          "id": 462,
+          "path": "Events > Configuration > Settings",
+          "actionId": 715,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "event.menu_event_global_settings"
+        },
+        {
+          "id": 456,
+          "path": "Events > Configuration > Event Templates",
+          "actionId": 700,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "event.menu_event_type"
+        },
+        {
+          "id": 457,
+          "path": "Events > Configuration > Event Stages",
+          "actionId": 704,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "event.event_stage_menu"
+        },
+        {
+          "id": 459,
+          "path": "Events > Configuration > Event Tags Categories",
+          "actionId": 716,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "event.menu_event_category"
+        },
+        {
+          "id": 526,
+          "path": "Events > Configuration > Lead Generation",
+          "actionId": 818,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "event_crm.event_lead_rule_menu"
+        }
+      ]
+    },
+    {
+      "id": 684,
+      "name": "Surveys",
+      "xmlid": "survey.menu_surveys",
+      "menus": [
+        {
+          "id": 684,
+          "path": "Surveys",
+          "actionId": 1065,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "surveys",
+          "xmlid": "survey.menu_surveys"
+        },
+        {
+          "id": 686,
+          "path": "Surveys > Surveys",
+          "actionId": 1065,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "surveys",
+          "xmlid": "survey.menu_survey_form"
+        },
+        {
+          "id": 687,
+          "path": "Surveys > Participations",
+          "actionId": 1066,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "survey.menu_survey_type_form1"
+        },
+        {
+          "id": 688,
+          "path": "Surveys > Questions & Answers > Questions",
+          "actionId": 1068,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "survey.menu_survey_question_form1"
+        },
+        {
+          "id": 689,
+          "path": "Surveys > Questions & Answers > Suggested Values",
+          "actionId": 1069,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "survey.menu_survey_label_form1"
+        },
+        {
+          "id": 690,
+          "path": "Surveys > Questions & Answers > Detailed Answers",
+          "actionId": 1067,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "survey.menu_survey_response_line_form"
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Purchase",
+      "xmlid": "purchase.menu_purchase_root",
+      "menus": [
+        {
+          "id": 315,
+          "path": "Purchase",
+          "actionId": 527,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "purchase",
+          "xmlid": "purchase.menu_purchase_root"
+        },
+        {
+          "id": 329,
+          "path": "Purchase > Orders > Requests for Quotation",
+          "actionId": 527,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "purchase",
+          "xmlid": "purchase.menu_purchase_rfq"
+        },
+        {
+          "id": 330,
+          "path": "Purchase > Orders > Purchase Orders",
+          "actionId": 528,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "purchase-orders",
+          "xmlid": "purchase.menu_purchase_form_action"
+        },
+        {
+          "id": 317,
+          "path": "Purchase > Orders > Vendors",
+          "actionId": 321,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "vendors",
+          "xmlid": "purchase.menu_procurement_management_supplier_name"
+        },
+        {
+          "id": 327,
+          "path": "Purchase > Products > Products",
+          "actionId": 525,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "purchase.menu_procurement_partner_contact_form"
+        },
+        {
+          "id": 333,
+          "path": "Purchase > Reporting > Purchase",
+          "actionId": 539,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "purchase.purchase_report"
+        },
+        {
+          "id": 331,
+          "path": "Purchase > Configuration > Settings",
+          "actionId": 536,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "purchase.menu_purchase_general_settings"
+        },
+        {
+          "id": 319,
+          "path": "Purchase > Configuration > Vendor Pricelists",
+          "actionId": 231,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "purchase.menu_product_pricelist_action2_purchase"
+        },
+        {
+          "id": 322,
+          "path": "Purchase > Configuration > Products > Product Categories",
+          "actionId": 226,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "purchase.menu_product_category_config_purchase"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "name": "Inventory",
+      "xmlid": "stock.menu_stock_root",
+      "menus": [
+        {
+          "id": 204,
+          "path": "Inventory",
+          "actionId": 405,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "inventory",
+          "xmlid": "stock.menu_stock_root"
+        },
+        {
+          "id": 234,
+          "path": "Inventory > Overview",
+          "actionId": 405,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "inventory",
+          "xmlid": "stock.stock_picking_type_menu"
+        },
+        {
+          "id": 230,
+          "path": "Inventory > Operations > Transfers > Receipts",
+          "actionId": 389,
+          "actionModel": "ir.actions.server",
+          "xmlid": "stock.in_picking"
+        },
+        {
+          "id": 231,
+          "path": "Inventory > Operations > Transfers > Deliveries",
+          "actionId": 390,
+          "actionModel": "ir.actions.server",
+          "xmlid": "stock.out_picking"
+        },
+        {
+          "id": 232,
+          "path": "Inventory > Operations > Transfers > Internal",
+          "actionId": 391,
+          "actionModel": "ir.actions.server",
+          "xmlid": "stock.int_picking"
+        },
+        {
+          "id": 607,
+          "path": "Inventory > Operations > Transfers > Manufacturings",
+          "actionId": 943,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mrp.mrp_operation_picking"
+        },
+        {
+          "id": 224,
+          "path": "Inventory > Operations > Adjustments > Physical Inventory",
+          "actionId": 367,
+          "actionModel": "ir.actions.server",
+          "actionPath": "physical-inventory",
+          "xmlid": "stock.menu_action_inventory_tree"
+        },
+        {
+          "id": 223,
+          "path": "Inventory > Operations > Adjustments > Scrap",
+          "actionId": 366,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_stock_scrap"
+        },
+        {
+          "id": 241,
+          "path": "Inventory > Operations > Procurement > Replenishment",
+          "actionId": 418,
+          "actionModel": "ir.actions.server",
+          "actionPath": "replenishment",
+          "xmlid": "stock.menu_reordering_rules_replenish"
+        },
+        {
+          "id": 235,
+          "path": "Inventory > Products > Products",
+          "actionId": 409,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_product_variant_config_stock"
+        },
+        {
+          "id": 225,
+          "path": "Inventory > Products > Packages",
+          "actionId": 371,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_package"
+        },
+        {
+          "id": 238,
+          "path": "Inventory > Reporting > Stock",
+          "actionId": 408,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "stock-report",
+          "xmlid": "stock.menu_product_stock"
+        },
+        {
+          "id": 226,
+          "path": "Inventory > Reporting > Locations",
+          "actionId": 368,
+          "actionModel": "ir.actions.server",
+          "xmlid": "stock.menu_valuation"
+        },
+        {
+          "id": 228,
+          "path": "Inventory > Reporting > Moves History",
+          "actionId": 376,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.stock_move_line_menu"
+        },
+        {
+          "id": 229,
+          "path": "Inventory > Reporting > Moves Analysis",
+          "actionId": 377,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.stock_move_menu"
+        },
+        {
+          "id": 252,
+          "path": "Inventory > Reporting > Valuation",
+          "actionId": 429,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "stock-valuation",
+          "xmlid": "stock_account.menu_valuation"
+        },
+        {
+          "id": 243,
+          "path": "Inventory > Configuration > Settings",
+          "actionId": 421,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_stock_general_settings"
+        },
+        {
+          "id": 227,
+          "path": "Inventory > Configuration > Warehouse Management > Warehouses",
+          "actionId": 374,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_action_warehouse_form"
+        },
+        {
+          "id": 233,
+          "path": "Inventory > Configuration > Warehouse Management > Operations Types",
+          "actionId": 404,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_pickingtype"
+        },
+        {
+          "id": 239,
+          "path": "Inventory > Configuration > Warehouse Management > Locations",
+          "actionId": 413,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_action_location_form"
+        },
+        {
+          "id": 240,
+          "path": "Inventory > Configuration > Warehouse Management > Routes",
+          "actionId": 415,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_routes_config"
+        },
+        {
+          "id": 244,
+          "path": "Inventory > Configuration > Warehouse Management > Rules",
+          "actionId": 422,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_action_rules_form"
+        },
+        {
+          "id": 242,
+          "path": "Inventory > Configuration > Warehouse Management > Storage Categories",
+          "actionId": 419,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_storage_categoty_config"
+        },
+        {
+          "id": 221,
+          "path": "Inventory > Configuration > Warehouse Management > Putaway Rules",
+          "actionId": 361,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_putaway"
+        },
+        {
+          "id": 214,
+          "path": "Inventory > Configuration > Products > Product Categories",
+          "actionId": 226,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_product_category_config_stock"
+        },
+        {
+          "id": 237,
+          "path": "Inventory > Configuration > Products > Product Packagings",
+          "actionId": 228,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_product_packagings"
+        },
+        {
+          "id": 636,
+          "path": "Inventory > Configuration > Delivery > Delivery Methods",
+          "actionId": 981,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock_delivery.menu_action_delivery_carrier_form"
+        },
+        {
+          "id": 247,
+          "path": "Inventory > Configuration > Delivery > Package Types",
+          "actionId": 423,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "stock.menu_packaging_types"
+        }
+      ]
+    },
+    {
+      "id": 589,
+      "name": "Manufacturing",
+      "xmlid": "mrp.menu_mrp_root",
+      "menus": [
+        {
+          "id": 589,
+          "path": "Manufacturing",
+          "actionId": 936,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "manufacturing",
+          "xmlid": "mrp.menu_mrp_root"
+        },
+        {
+          "id": 601,
+          "path": "Manufacturing > Operations > Manufacturing Orders",
+          "actionId": 936,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "manufacturing",
+          "xmlid": "mrp.menu_mrp_production_action"
+        },
+        {
+          "id": 608,
+          "path": "Manufacturing > Operations > Unbuild Orders",
+          "actionId": 946,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mrp.menu_mrp_unbuild"
+        },
+        {
+          "id": 596,
+          "path": "Manufacturing > Operations > Scrap",
+          "actionId": 366,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mrp.menu_mrp_scrap"
+        },
+        {
+          "id": 605,
+          "path": "Manufacturing > Products > Products",
+          "actionId": 941,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mrp.menu_mrp_product_form"
+        },
+        {
+          "id": 600,
+          "path": "Manufacturing > Products > Bills of Materials",
+          "actionId": 923,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mrp.menu_mrp_bom_form_action"
+        },
+        {
+          "id": 609,
+          "path": "Manufacturing > Configuration > Settings",
+          "actionId": 947,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "mrp.menu_mrp_config"
+        }
+      ]
+    },
+    {
+      "id": 667,
+      "name": "Maintenance",
+      "xmlid": "maintenance.menu_maintenance_title",
+      "menus": [
+        {
+          "id": 667,
+          "path": "Maintenance",
+          "actionId": 1060,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "maintenance",
+          "xmlid": "maintenance.menu_maintenance_title"
+        },
+        {
+          "id": 668,
+          "path": "Maintenance > Dashboard",
+          "actionId": 1060,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "maintenance",
+          "xmlid": "maintenance.menu_m_dashboard"
+        },
+        {
+          "id": 670,
+          "path": "Maintenance > Maintenance > Maintenance Requests",
+          "actionId": 1049,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "maintenance.menu_m_request_form"
+        },
+        {
+          "id": 671,
+          "path": "Maintenance > Maintenance > Maintenance Calendar",
+          "actionId": 1053,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "maintenance.menu_m_request_calendar"
+        },
+        {
+          "id": 672,
+          "path": "Maintenance > Equipment",
+          "actionId": 1055,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "maintenance.menu_equipment_form"
+        },
+        {
+          "id": 677,
+          "path": "Maintenance > Reporting > Maintenance Requests",
+          "actionId": 1054,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "maintenance.maintenance_request_reporting"
+        },
+        {
+          "id": 683,
+          "path": "Maintenance > Configuration > Settings",
+          "actionId": 1062,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "maintenance.menu_maintenance_config"
+        },
+        {
+          "id": 679,
+          "path": "Maintenance > Configuration > Maintenance Teams",
+          "actionId": 1059,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "maintenance.menu_maintenance_teams"
+        },
+        {
+          "id": 680,
+          "path": "Maintenance > Configuration > Equipment Categories",
+          "actionId": 1057,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "maintenance.menu_maintenance_cat"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Employees",
+      "xmlid": "hr.menu_hr_root",
+      "menus": [
+        {
+          "id": 280,
+          "path": "Employees",
+          "actionId": 477,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "employees",
+          "xmlid": "hr.menu_hr_root"
+        },
+        {
+          "id": 283,
+          "path": "Employees > Employees > Employees",
+          "actionId": 477,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "employees",
+          "xmlid": "hr.menu_hr_employee_user"
+        },
+        {
+          "id": 305,
+          "path": "Employees > Employees > Org Chart",
+          "actionId": 498,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "org-chart",
+          "xmlid": "hr_org_chart.menu_hr_employee_org_chart"
+        },
+        {
+          "id": 704,
+          "path": "Employees > Employees > Contracts",
+          "actionId": 1083,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "employee-contracts",
+          "xmlid": "hr_contract.hr_menu_contract"
+        },
+        {
+          "id": 290,
+          "path": "Employees > Departments",
+          "actionId": 480,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "departments",
+          "xmlid": "hr.menu_hr_department_kanban"
+        },
+        {
+          "id": 309,
+          "path": "Employees > Reporting > Skills",
+          "actionId": 504,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_skills.hr_employee_skill_report_menu"
+        },
+        {
+          "id": 691,
+          "path": "Employees > Reporting > Certifications",
+          "actionId": 1071,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_skills_survey.hr_employee_certication_report_menu"
+        },
+        {
+          "id": 298,
+          "path": "Employees > Configuration > Settings",
+          "actionId": 482,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr.hr_menu_configuration"
+        },
+        {
+          "id": 288,
+          "path": "Employees > Configuration > Activity Plan",
+          "actionId": 469,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr.menu_config_plan_plan"
+        },
+        {
+          "id": 291,
+          "path": "Employees > Configuration > Employee > Work Locations",
+          "actionId": 481,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr.menu_hr_work_location_tree"
+        },
+        {
+          "id": 293,
+          "path": "Employees > Configuration > Employee > Departure Reasons",
+          "actionId": 471,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr.menu_hr_departure_reason_tree"
+        },
+        {
+          "id": 308,
+          "path": "Employees > Configuration > Employee > Skill Types",
+          "actionId": 500,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_skills.hr_skill_type_menu"
+        },
+        {
+          "id": 296,
+          "path": "Employees > Configuration > Recruitment > Job Positions",
+          "actionId": 473,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr.menu_view_hr_job"
+        },
+        {
+          "id": 297,
+          "path": "Employees > Configuration > Recruitment > Employment Types",
+          "actionId": 472,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr.menu_view_hr_contract_type"
+        },
+        {
+          "id": 292,
+          "path": "Employees > Configuration > Contracts > Working Schedules",
+          "actionId": 95,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr.menu_resource_calendar_view"
+        },
+        {
+          "id": 540,
+          "path": "Employees > Configuration > Challenges > Badges",
+          "actionId": 682,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_gamification.gamification_badge_menu_hr"
+        },
+        {
+          "id": 541,
+          "path": "Employees > Configuration > Challenges > Challenges",
+          "actionId": 836,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_gamification.gamification_challenge_menu_hr"
+        },
+        {
+          "id": 542,
+          "path": "Employees > Configuration > Challenges > Goals History",
+          "actionId": 835,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_gamification.gamification_goal_menu_hr"
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Attendances",
+      "xmlid": "hr_attendance.menu_hr_attendance_root",
+      "menus": [
+        {
+          "id": 299,
+          "path": "Attendances",
+          "actionId": 489,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "attendances",
+          "xmlid": "hr_attendance.menu_hr_attendance_root"
+        },
+        {
+          "id": 302,
+          "path": "Attendances > Overview",
+          "actionId": 489,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "attendances",
+          "xmlid": "hr_attendance.menu_hr_attendance_view_attendances"
+        },
+        {
+          "id": 303,
+          "path": "Attendances > Management",
+          "actionId": 491,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_attendance.menu_hr_attendance_view_attendances_management"
+        },
+        {
+          "id": 300,
+          "path": "Attendances > Kiosk Mode",
+          "actionId": 494,
+          "actionModel": "ir.actions.server",
+          "actionPath": "attendance-kiosk",
+          "xmlid": "hr_attendance.menu_action_open_form"
+        },
+        {
+          "id": 301,
+          "path": "Attendances > Reporting",
+          "actionId": 490,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_attendance.menu_hr_attendance_reporting"
+        },
+        {
+          "id": 304,
+          "path": "Attendances > Configuration",
+          "actionId": 497,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_attendance.menu_hr_attendance_settings"
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "name": "Recruitment",
+      "xmlid": "hr_recruitment.menu_hr_recruitment_root",
+      "menus": [
+        {
+          "id": 562,
+          "path": "Recruitment",
+          "actionId": 889,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "recruitment",
+          "xmlid": "hr_recruitment.menu_hr_recruitment_root"
+        },
+        {
+          "id": 564,
+          "path": "Recruitment > Applications > By Job Positions",
+          "actionId": 889,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "recruitment",
+          "xmlid": "hr_recruitment.menu_hr_job_position"
+        },
+        {
+          "id": 566,
+          "path": "Recruitment > Applications > All Applications",
+          "actionId": 876,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "recruitment-applications",
+          "xmlid": "hr_recruitment.menu_crm_case_categ_all_app"
+        },
+        {
+          "id": 567,
+          "path": "Recruitment > Applications > Candidates",
+          "actionId": 867,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "recruitment-candidates",
+          "xmlid": "hr_recruitment.menu_hr_candidate"
+        },
+        {
+          "id": 569,
+          "path": "Recruitment > Reporting > Recruitment Analysis",
+          "actionId": 878,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.hr_applicant_report_menu"
+        },
+        {
+          "id": 571,
+          "path": "Recruitment > Configuration > Settings",
+          "actionId": 883,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.menu_hr_recruitment_global_settings"
+        },
+        {
+          "id": 574,
+          "path": "Recruitment > Configuration > Job Positions > Employment Types",
+          "actionId": 472,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.menu_hr_recruitment_contract_type"
+        },
+        {
+          "id": 579,
+          "path": "Recruitment > Configuration > Applications > Degrees",
+          "actionId": 868,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.menu_hr_recruitment_degree"
+        },
+        {
+          "id": 580,
+          "path": "Recruitment > Configuration > Applications > Refuse Reasons",
+          "actionId": 873,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.menu_hr_applicant_refuse_reason"
+        },
+        {
+          "id": 581,
+          "path": "Recruitment > Configuration > Applications > Tags",
+          "actionId": 872,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.hr_applicant_category_menu"
+        },
+        {
+          "id": 583,
+          "path": "Recruitment > Configuration > Employees > Departments",
+          "actionId": 884,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.menu_hr_department"
+        },
+        {
+          "id": 614,
+          "path": "Recruitment > Configuration > Employees > Skill Types",
+          "actionId": 500,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment_skills.hr_recruitment_skill_type_menu"
+        },
+        {
+          "id": 585,
+          "path": "Recruitment > Configuration > Activities > Activity Types",
+          "actionId": 892,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.hr_recruitment_menu_config_activity_type"
+        },
+        {
+          "id": 586,
+          "path": "Recruitment > Configuration > Activities > Activity Plans",
+          "actionId": 893,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.hr_recruitment_menu_config_activity_plan"
+        },
+        {
+          "id": 588,
+          "path": "Recruitment > Configuration > Job Boards > Emails",
+          "actionId": 891,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_recruitment.menu_hr_recruitment_emails"
+        }
+      ]
+    },
+    {
+      "id": 718,
+      "name": "Fleet",
+      "xmlid": "fleet.menu_root",
+      "menus": [
+        {
+          "id": 718,
+          "path": "Fleet",
+          "actionId": 1102,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "fleet",
+          "xmlid": "fleet.menu_root"
+        },
+        {
+          "id": 725,
+          "path": "Fleet > Fleet > Fleet",
+          "actionId": 1102,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "fleet",
+          "xmlid": "fleet.fleet_vehicle_menu"
+        },
+        {
+          "id": 732,
+          "path": "Fleet > Fleet > Contracts",
+          "actionId": 1108,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "fleet.fleet_vehicle_log_contract_menu"
+        },
+        {
+          "id": 733,
+          "path": "Fleet > Fleet > Services",
+          "actionId": 1109,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "fleet.fleet_vehicle_log_services_menu"
+        },
+        {
+          "id": 726,
+          "path": "Fleet > Fleet > Odometers",
+          "actionId": 1103,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "fleet.fleet_vehicle_odometer_menu"
+        },
+        {
+          "id": 735,
+          "path": "Fleet > Reporting > Costs",
+          "actionId": 1110,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "fleet.menu_fleet_reporting_costs"
+        },
+        {
+          "id": 737,
+          "path": "Fleet > Configuration > Settings",
+          "actionId": 1112,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "fleet.fleet_config_settings_menu"
+        },
+        {
+          "id": 721,
+          "path": "Fleet > Configuration > Models > Manufacturers",
+          "actionId": 1100,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "fleet.fleet_vehicle_model_brand_menu"
+        },
+        {
+          "id": 722,
+          "path": "Fleet > Configuration > Models > Models",
+          "actionId": 1099,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "fleet.fleet_vehicle_model_menu"
+        },
+        {
+          "id": 723,
+          "path": "Fleet > Configuration > Models > Categories",
+          "actionId": 1101,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "fleet.fleet_vehicle_model_category_menu"
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "name": "Time Off",
+      "xmlid": "hr_holidays.menu_hr_holidays_root",
+      "menus": [
+        {
+          "id": 543,
+          "path": "Time Off",
+          "actionId": 843,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "time-off",
+          "xmlid": "hr_holidays.menu_hr_holidays_root"
+        },
+        {
+          "id": 545,
+          "path": "Time Off > My Time > Dashboard",
+          "actionId": 843,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "time-off",
+          "xmlid": "hr_holidays.hr_leave_menu_new_request"
+        },
+        {
+          "id": 546,
+          "path": "Time Off > My Time > My Time Off",
+          "actionId": 845,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "my-time-off",
+          "xmlid": "hr_holidays.hr_leave_menu_my"
+        },
+        {
+          "id": 547,
+          "path": "Time Off > My Time > My Allocations",
+          "actionId": 850,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_holidays.menu_open_allocation"
+        },
+        {
+          "id": 548,
+          "path": "Time Off > Overview",
+          "actionId": 863,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "time-off-overview",
+          "xmlid": "hr_holidays.menu_hr_holidays_dashboard"
+        },
+        {
+          "id": 550,
+          "path": "Time Off > Management > Time Off",
+          "actionId": 846,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "time-off-approval",
+          "xmlid": "hr_holidays.menu_open_department_leave_approve"
+        },
+        {
+          "id": 551,
+          "path": "Time Off > Management > Allocations",
+          "actionId": 852,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_holidays.hr_holidays_menu_manager_approve_allocations"
+        },
+        {
+          "id": 553,
+          "path": "Time Off > Reporting > by Employee",
+          "actionId": 848,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_holidays.menu_hr_available_holidays_report_tree"
+        },
+        {
+          "id": 554,
+          "path": "Time Off > Reporting > by Type",
+          "actionId": 861,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_holidays.menu_hr_holidays_summary_all"
+        },
+        {
+          "id": 555,
+          "path": "Time Off > Reporting > Balance",
+          "actionId": 864,
+          "actionModel": "ir.actions.server",
+          "xmlid": "hr_holidays.menu_hr_holidays_balance"
+        },
+        {
+          "id": 557,
+          "path": "Time Off > Configuration > Time Off Types",
+          "actionId": 849,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_holidays.hr_holidays_status_menu_configuration"
+        },
+        {
+          "id": 558,
+          "path": "Time Off > Configuration > Accrual Plans",
+          "actionId": 854,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_holidays.hr_holidays_accrual_menu_configuration"
+        },
+        {
+          "id": 559,
+          "path": "Time Off > Configuration > Public Holidays",
+          "actionId": 840,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_holidays.hr_holidays_public_time_off_menu_configuration"
+        },
+        {
+          "id": 560,
+          "path": "Time Off > Configuration > Mandatory Days",
+          "actionId": 855,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_holidays.hr_holidays_mandatory_day_menu_configuration"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "name": "Expenses",
+      "xmlid": "hr_expense.menu_hr_expense_root",
+      "menus": [
+        {
+          "id": 527,
+          "path": "Expenses",
+          "actionId": 822,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "expenses",
+          "xmlid": "hr_expense.menu_hr_expense_root"
+        },
+        {
+          "id": 529,
+          "path": "Expenses > My Expenses > My Expenses",
+          "actionId": 822,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "expenses",
+          "xmlid": "hr_expense.menu_hr_expense_my_expenses_all"
+        },
+        {
+          "id": 530,
+          "path": "Expenses > My Expenses > My Reports",
+          "actionId": 824,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "my-expense-reports",
+          "xmlid": "hr_expense.menu_hr_expense_sheet_my_reports"
+        },
+        {
+          "id": 531,
+          "path": "Expenses > Expense Reports",
+          "actionId": 825,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "expense-reports",
+          "xmlid": "hr_expense.menu_hr_expense_report"
+        },
+        {
+          "id": 533,
+          "path": "Expenses > Reporting > Expenses Analysis",
+          "actionId": 821,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_expense.menu_hr_expense_all_expenses"
+        },
+        {
+          "id": 538,
+          "path": "Expenses > Configuration > Settings",
+          "actionId": 833,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_expense.menu_hr_expense_global_settings"
+        },
+        {
+          "id": 535,
+          "path": "Expenses > Configuration > Expense Categories",
+          "actionId": 823,
+          "actionModel": "ir.actions.act_window",
+          "xmlid": "hr_expense.menu_hr_product"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Apps",
+      "xmlid": "base.menu_management",
+      "menus": [
+        {
+          "id": 15,
+          "path": "Apps",
+          "actionId": 39,
+          "actionModel": "ir.actions.act_window",
+          "actionPath": "apps",
+          "xmlid": "base.menu_management"
+        }
+      ]
+    }
+  ]
+}

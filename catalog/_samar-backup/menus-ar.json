@@ -1,0 +1,4979 @@
+[
+ {
+  "id": 61,
+  "en": "Users",
+  "ar": "المستخدمون",
+  "enPath": "Settings/Users & Companies/Users",
+  "arPath": "الإعدادات/المستخدمون والشركات /المستخدمون"
+ },
+ {
+  "id": 67,
+  "en": "General Settings",
+  "ar": "الإعدادات العامة",
+  "enPath": "Settings/General Settings",
+  "arPath": "الإعدادات/الإعدادات العامة"
+ },
+ {
+  "id": 174,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Accounting/Configuration/Settings",
+  "arPath": "المحاسبة /التهيئة /الإعدادات"
+ },
+ {
+  "id": 234,
+  "en": "Overview",
+  "ar": "نظرة عامة",
+  "enPath": "Inventory/Overview",
+  "arPath": "المخزون والمستودعات/نظرة عامة"
+ },
+ {
+  "id": 243,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Inventory/Configuration/Settings",
+  "arPath": "المخزون والمستودعات/التهيئة /الإعدادات"
+ },
+ {
+  "id": 260,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Point of Sale/Configuration/Settings",
+  "arPath": "نقطة البيع/التهيئة /الإعدادات"
+ },
+ {
+  "id": 298,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Employees/Configuration/Settings",
+  "arPath": "الموظفون/التهيئة /الإعدادات"
+ },
+ {
+  "id": 329,
+  "en": "Requests for Quotation",
+  "ar": "طلبات عروض الأسعار ",
+  "enPath": "Purchase/Orders/Requests for Quotation",
+  "arPath": "المشتريات/الطلبات /طلبات عروض الأسعار "
+ },
+ {
+  "id": 331,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Purchase/Configuration/Settings",
+  "arPath": "المشتريات/التهيئة /الإعدادات"
+ },
+ {
+  "id": 444,
+  "en": "Challenges",
+  "ar": "التحديات",
+  "enPath": "Settings/Gamification Tools/Challenges",
+  "arPath": "الإعدادات/أدوات التلعيب /التحديات"
+ },
+ {
+  "id": 462,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Events/Configuration/Settings",
+  "arPath": "الفعاليات/التهيئة /الإعدادات"
+ },
+ {
+  "id": 476,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "CRM/Configuration/Settings",
+  "arPath": "إدارة علاقات العملاء /التهيئة /الإعدادات"
+ },
+ {
+  "id": 499,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Email Marketing/Configuration/Settings",
+  "arPath": "التسويق بالبريد الإلكتروني/التهيئة /الإعدادات"
+ },
+ {
+  "id": 518,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Project/Configuration/Settings",
+  "arPath": "إدارة المشاريع/التهيئة /الإعدادات"
+ },
+ {
+  "id": 533,
+  "en": "Expenses Analysis",
+  "ar": "تحليل النفقات ",
+  "enPath": "Expenses/Reporting/Expenses Analysis",
+  "arPath": "المصاريف والعهد/إعداد التقارير /تحليل النفقات "
+ },
+ {
+  "id": 538,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Expenses/Configuration/Settings",
+  "arPath": "المصاريف والعهد/التهيئة /الإعدادات"
+ },
+ {
+  "id": 571,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Recruitment/Configuration/Settings",
+  "arPath": "التوظيف/التهيئة /الإعدادات"
+ },
+ {
+  "id": 609,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Manufacturing/Configuration/Settings",
+  "arPath": "التصنيع/التهيئة /الإعدادات"
+ },
+ {
+  "id": 613,
+  "en": "Lead Mining Requests",
+  "ar": "طلبات استقطاب العملاء المهتمين ",
+  "enPath": "CRM/Configuration/Lead Generation/Lead Mining Requests",
+  "arPath": "إدارة علاقات العملاء /التهيئة /إنشاء العملاء المهتمين /طلبات استقطاب العملاء المهتمين "
+ },
+ {
+  "id": 668,
+  "en": "Dashboard",
+  "ar": "لوحة البيانات ",
+  "enPath": "Maintenance/Dashboard",
+  "arPath": "الصيانة/لوحة البيانات "
+ },
+ {
+  "id": 683,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Maintenance/Configuration/Settings",
+  "arPath": "الصيانة/التهيئة /الإعدادات"
+ },
+ {
+  "id": 725,
+  "en": "Fleet",
+  "ar": "الأسطول",
+  "enPath": "Fleet/Fleet/Fleet",
+  "arPath": "الأسطول/الأسطول/الأسطول"
+ },
+ {
+  "id": 737,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Fleet/Configuration/Settings",
+  "arPath": "الأسطول/التهيئة /الإعدادات"
+ },
+ {
+  "id": 831,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Jawab Payroll/Configuration/Settings",
+  "arPath": "رواتب Jawab/التهيئة/الإعدادات"
+ },
+ {
+  "id": 1,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Settings",
+  "arPath": "الإعدادات"
+ },
+ {
+  "id": 3,
+  "en": "Users & Companies",
+  "ar": "المستخدمون والشركات ",
+  "enPath": "Settings/Users & Companies",
+  "arPath": "الإعدادات/المستخدمون والشركات "
+ },
+ {
+  "id": 43,
+  "en": "Menu Items",
+  "ar": "عناصر القائمة",
+  "enPath": "Settings/Technical/User Interface/Menu Items",
+  "arPath": "الإعدادات/تقني/واجهة المستخدم/عناصر القائمة"
+ },
+ {
+  "id": 59,
+  "en": "Languages",
+  "ar": "اللغات",
+  "enPath": "Settings/Translations/Languages",
+  "arPath": "الإعدادات/الترجمات/اللغات"
+ },
+ {
+  "id": 72,
+  "en": "Working Schedules",
+  "ar": "جداول العمل ",
+  "enPath": "Settings/Technical/Resource/Working Schedules",
+  "arPath": "الإعدادات/تقني/المورد/جداول العمل "
+ },
+ {
+  "id": 81,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Chat/Configuration",
+  "arPath": "الدردشة/التهيئة "
+ },
+ {
+  "id": 82,
+  "en": "Notifications",
+  "ar": "الإشعارات ",
+  "enPath": "Chat/Configuration/Notifications",
+  "arPath": "الدردشة/التهيئة /الإشعارات "
+ },
+ {
+  "id": 85,
+  "en": "Emails",
+  "ar": "رسائل البريد الإلكتروني",
+  "enPath": "Settings/Technical/Email/Emails",
+  "arPath": "الإعدادات/تقني/البريد الإلكتروني/رسائل البريد الإلكتروني"
+ },
+ {
+  "id": 93,
+  "en": "Discuss",
+  "ar": "المناقشة ",
+  "enPath": "Settings/Technical/Discuss",
+  "arPath": "الإعدادات/تقني/المناقشة "
+ },
+ {
+  "id": 94,
+  "en": "Messages",
+  "ar": "الرسائل",
+  "enPath": "Settings/Technical/Discuss/Messages",
+  "arPath": "الإعدادات/تقني/المناقشة /الرسائل"
+ },
+ {
+  "id": 116,
+  "en": "Privacy Logs",
+  "ar": "سجلات الخصوصية",
+  "enPath": "Settings/Technical/Privacy/Privacy Logs",
+  "arPath": "الإعدادات/تقني/الخصوصية/سجلات الخصوصية"
+ },
+ {
+  "id": 117,
+  "en": "SMS",
+  "ar": "الرسائل النصية القصيرة ",
+  "enPath": "Settings/Technical/Phone / SMS/SMS",
+  "arPath": "الإعدادات/تقني/الهاتف / الرسائل النصية القصيرة /الرسائل النصية القصيرة "
+ },
+ {
+  "id": 145,
+  "en": "Onboardings",
+  "ar": "التأهيلات ",
+  "enPath": "Settings/Technical/User Interface/Onboardings",
+  "arPath": "الإعدادات/تقني/واجهة المستخدم/التأهيلات "
+ },
+ {
+  "id": 146,
+  "en": "Onboardings Steps",
+  "ar": "خطوات التأهيل ",
+  "enPath": "Settings/Technical/User Interface/Onboardings Steps",
+  "arPath": "الإعدادات/تقني/واجهة المستخدم/خطوات التأهيل "
+ },
+ {
+  "id": 148,
+  "en": "Dashboard",
+  "ar": "لوحة البيانات ",
+  "enPath": "Accounting/Dashboard",
+  "arPath": "المحاسبة /لوحة البيانات "
+ },
+ {
+  "id": 150,
+  "en": "Invoices",
+  "ar": "فواتير العملاء ",
+  "enPath": "Accounting/Customers/Invoices",
+  "arPath": "المحاسبة /العملاء/فواتير العملاء "
+ },
+ {
+  "id": 157,
+  "en": "Bills",
+  "ar": "الفواتير",
+  "enPath": "Accounting/Vendors/Bills",
+  "arPath": "المحاسبة /الموردين/الفواتير"
+ },
+ {
+  "id": 164,
+  "en": "Journal Entries",
+  "ar": "قيود اليومية ",
+  "enPath": "Accounting/Accounting/Journal Entries",
+  "arPath": "المحاسبة /المحاسبة /قيود اليومية "
+ },
+ {
+  "id": 170,
+  "en": "Invoice Analysis",
+  "ar": "تحليل الفاتورة ",
+  "enPath": "Accounting/Reporting/Management/Invoice Analysis",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/تحليل الفاتورة "
+ },
+ {
+  "id": 172,
+  "en": "Statement Reports",
+  "ar": "تقارير كشف الحساب ",
+  "enPath": "Accounting/Reporting/Statement Reports",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير كشف الحساب "
+ },
+ {
+  "id": 175,
+  "en": "Invoicing",
+  "ar": "الفوترة",
+  "enPath": "Accounting/Configuration/Invoicing",
+  "arPath": "المحاسبة /التهيئة /الفوترة"
+ },
+ {
+  "id": 176,
+  "en": "Payment Terms",
+  "ar": "شروط السداد",
+  "enPath": "Accounting/Configuration/Invoicing/Payment Terms",
+  "arPath": "المحاسبة /التهيئة /الفوترة/شروط السداد"
+ },
+ {
+  "id": 179,
+  "en": "Add a Bank Account",
+  "ar": "إضافة حساب بنكي ",
+  "enPath": "Accounting/Configuration/Banks/Add a Bank Account",
+  "arPath": "المحاسبة /التهيئة /البنوك/إضافة حساب بنكي "
+ },
+ {
+  "id": 182,
+  "en": "Chart of Accounts",
+  "ar": "شجرة الحسابات ",
+  "enPath": "Accounting/Configuration/Accounting/Chart of Accounts",
+  "arPath": "المحاسبة /التهيئة /المحاسبة /شجرة الحسابات "
+ },
+ {
+  "id": 195,
+  "en": "Analytic Distribution Models",
+  "ar": "نماذج التوزيع التحليلي ",
+  "enPath": "Accounting/Configuration/Analytic Accounting/Analytic Distribution Models",
+  "arPath": "المحاسبة /التهيئة /المحاسبة التحليلية /نماذج التوزيع التحليلي "
+ },
+ {
+  "id": 196,
+  "en": "Analytic Accounts",
+  "ar": "الحسابات التحليلية",
+  "enPath": "Accounting/Configuration/Analytic Accounting/Analytic Accounts",
+  "arPath": "المحاسبة /التهيئة /المحاسبة التحليلية /الحسابات التحليلية"
+ },
+ {
+  "id": 201,
+  "en": "Dashboards",
+  "ar": "لوحات البيانات ",
+  "enPath": "Dashboards/Dashboards",
+  "arPath": "لوحات البيانات /لوحات البيانات "
+ },
+ {
+  "id": 206,
+  "en": "Transfers",
+  "ar": "التحويلات ",
+  "enPath": "Inventory/Operations/Transfers",
+  "arPath": "المخزون والمستودعات/العمليات/التحويلات "
+ },
+ {
+  "id": 210,
+  "en": "Warehouse Management",
+  "ar": "إدارة المخازن و المستودعات",
+  "enPath": "Inventory/Configuration/Warehouse Management",
+  "arPath": "المخزون والمستودعات/التهيئة /إدارة المخازن و المستودعات"
+ },
+ {
+  "id": 227,
+  "en": "Warehouses",
+  "ar": "المستودعات ",
+  "enPath": "Inventory/Configuration/Warehouse Management/Warehouses",
+  "arPath": "المخزون والمستودعات/التهيئة /إدارة المخازن و المستودعات/المستودعات "
+ },
+ {
+  "id": 235,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Inventory/Products/Products",
+  "arPath": "المخزون والمستودعات/المنتجات/المنتجات"
+ },
+ {
+  "id": 271,
+  "en": "PoS Product Categories",
+  "ar": "فئات منتجات نقطة البيع ",
+  "enPath": "Point of Sale/Configuration/Products/PoS Product Categories",
+  "arPath": "نقطة البيع/التهيئة /المنتجات/فئات منتجات نقطة البيع "
+ },
+ {
+  "id": 273,
+  "en": "Dashboard",
+  "ar": "لوحة البيانات ",
+  "enPath": "Point of Sale/Dashboard",
+  "arPath": "نقطة البيع/لوحة البيانات "
+ },
+ {
+  "id": 283,
+  "en": "Employees",
+  "ar": "الموظفون",
+  "enPath": "Employees/Employees/Employees",
+  "arPath": "الموظفون/الموظفون/الموظفون"
+ },
+ {
+  "id": 296,
+  "en": "Job Positions",
+  "ar": "المناصب الوظيفية",
+  "enPath": "Employees/Configuration/Recruitment/Job Positions",
+  "arPath": "الموظفون/التهيئة /التوظيف/المناصب الوظيفية"
+ },
+ {
+  "id": 316,
+  "en": "Orders",
+  "ar": "الطلبات ",
+  "enPath": "Purchase/Orders",
+  "arPath": "المشتريات/الطلبات "
+ },
+ {
+  "id": 319,
+  "en": "Vendor Pricelists",
+  "ar": "قوائم أسعار المورد",
+  "enPath": "Purchase/Configuration/Vendor Pricelists",
+  "arPath": "المشتريات/التهيئة /قوائم أسعار المورد"
+ },
+ {
+  "id": 360,
+  "en": "Asset Models",
+  "ar": "نماذج الأصل ",
+  "enPath": "Accounting/Configuration/Management/Asset Models",
+  "arPath": "المحاسبة /التهيئة /الإدارة/نماذج الأصل "
+ },
+ {
+  "id": 407,
+  "en": "Quotation Templates",
+  "ar": "قوالب عرض السعر",
+  "enPath": "Sales/Configuration/Sales Orders/Quotation Templates",
+  "arPath": "المبيعات/التهيئة /أوامر البيع/قوالب عرض السعر"
+ },
+ {
+  "id": 423,
+  "en": "Calendar",
+  "ar": "التقويم",
+  "enPath": "Calendar/Calendar",
+  "arPath": "التقويم/التقويم"
+ },
+ {
+  "id": 433,
+  "en": "Contact Tags",
+  "ar": "علامات تصنيف جهة الاتصال",
+  "enPath": "Contacts/Configuration/Contact Tags",
+  "arPath": "جهات الاتصال/التهيئة /علامات تصنيف جهة الاتصال"
+ },
+ {
+  "id": 437,
+  "en": "Countries",
+  "ar": "الدول",
+  "enPath": "Contacts/Configuration/Localization/Countries",
+  "arPath": "جهات الاتصال/التهيئة /الأقلمة /الدول"
+ },
+ {
+  "id": 441,
+  "en": "Banks",
+  "ar": "البنوك",
+  "enPath": "Contacts/Configuration/Bank Accounts/Banks",
+  "arPath": "جهات الاتصال/التهيئة /الحسابات البنكية/البنوك"
+ },
+ {
+  "id": 453,
+  "en": "Events",
+  "ar": "الفعاليات",
+  "enPath": "Events/Events",
+  "arPath": "الفعاليات/الفعاليات"
+ },
+ {
+  "id": 456,
+  "en": "Event Templates",
+  "ar": "قوالب الفعاليات ",
+  "enPath": "Events/Configuration/Event Templates",
+  "arPath": "الفعاليات/التهيئة /قوالب الفعاليات "
+ },
+ {
+  "id": 464,
+  "en": "Sales",
+  "ar": "المبيعات",
+  "enPath": "CRM/Sales",
+  "arPath": "إدارة علاقات العملاء /المبيعات"
+ },
+ {
+  "id": 465,
+  "en": "My Pipeline",
+  "ar": "مخطط سير عملي ",
+  "enPath": "CRM/Sales/My Pipeline",
+  "arPath": "إدارة علاقات العملاء /المبيعات/مخطط سير عملي "
+ },
+ {
+  "id": 471,
+  "en": "Forecast",
+  "ar": "المتوقع ",
+  "enPath": "CRM/Reporting/Forecast",
+  "arPath": "إدارة علاقات العملاء /إعداد التقارير /المتوقع "
+ },
+ {
+  "id": 486,
+  "en": "Tags",
+  "ar": "علامات التصنيف ",
+  "enPath": "CRM/Configuration/Pipeline/Tags",
+  "arPath": "إدارة علاقات العملاء /التهيئة /مخطط سير العمل /علامات التصنيف "
+ },
+ {
+  "id": 490,
+  "en": "Mailings",
+  "ar": "المراسلات",
+  "enPath": "Email Marketing/Mailings",
+  "arPath": "التسويق بالبريد الإلكتروني/المراسلات"
+ },
+ {
+  "id": 492,
+  "en": "Mailing Lists",
+  "ar": "القوائم البريدية",
+  "enPath": "Email Marketing/Mailing Lists/Mailing Lists",
+  "arPath": "التسويق بالبريد الإلكتروني/القوائم البريدية/القوائم البريدية"
+ },
+ {
+  "id": 496,
+  "en": "Mass Mailing Analysis",
+  "ar": "تحليل المراسلات الجماعية",
+  "enPath": "Email Marketing/Reporting/Mass Mailing Analysis",
+  "arPath": "التسويق بالبريد الإلكتروني/إعداد التقارير /تحليل المراسلات الجماعية"
+ },
+ {
+  "id": 509,
+  "en": "Projects",
+  "ar": "المشاريع ",
+  "enPath": "Project/Projects",
+  "arPath": "إدارة المشاريع/المشاريع "
+ },
+ {
+  "id": 512,
+  "en": "My Tasks",
+  "ar": "مهامي ",
+  "enPath": "Project/Tasks/My Tasks",
+  "arPath": "إدارة المشاريع/المهام/مهامي "
+ },
+ {
+  "id": 528,
+  "en": "My Expenses",
+  "ar": "نفقاتي ",
+  "enPath": "Expenses/My Expenses",
+  "arPath": "المصاريف والعهد/نفقاتي "
+ },
+ {
+  "id": 529,
+  "en": "My Expenses",
+  "ar": "نفقاتي ",
+  "enPath": "Expenses/My Expenses/My Expenses",
+  "arPath": "المصاريف والعهد/نفقاتي /نفقاتي "
+ },
+ {
+  "id": 544,
+  "en": "My Time",
+  "ar": "وقتي ",
+  "enPath": "Time Off/My Time",
+  "arPath": "الإجازات /وقتي "
+ },
+ {
+  "id": 545,
+  "en": "Dashboard",
+  "ar": "لوحة البيانات ",
+  "enPath": "Time Off/My Time/Dashboard",
+  "arPath": "الإجازات /وقتي /لوحة البيانات "
+ },
+ {
+  "id": 553,
+  "en": "by Employee",
+  "ar": "حسب الموظف ",
+  "enPath": "Time Off/Reporting/by Employee",
+  "arPath": "الإجازات /إعداد التقارير /حسب الموظف "
+ },
+ {
+  "id": 557,
+  "en": "Time Off Types",
+  "ar": "أنواع الإجازات ",
+  "enPath": "Time Off/Configuration/Time Off Types",
+  "arPath": "الإجازات /التهيئة /أنواع الإجازات "
+ },
+ {
+  "id": 564,
+  "en": "By Job Positions",
+  "ar": "حسب مناصب العمل ",
+  "enPath": "Recruitment/Applications/By Job Positions",
+  "arPath": "التوظيف/التطبيقات /حسب مناصب العمل "
+ },
+ {
+  "id": 565,
+  "en": "By Job Positions",
+  "ar": "حسب مناصب العمل ",
+  "enPath": "Recruitment/Applications/By Job Positions",
+  "arPath": "التوظيف/التطبيقات /حسب مناصب العمل "
+ },
+ {
+  "id": 579,
+  "en": "Degrees",
+  "ar": "الشهادات ",
+  "enPath": "Recruitment/Configuration/Applications/Degrees",
+  "arPath": "التوظيف/التهيئة /التطبيقات /الشهادات "
+ },
+ {
+  "id": 601,
+  "en": "Manufacturing Orders",
+  "ar": "أوامر التصنيع",
+  "enPath": "Manufacturing/Operations/Manufacturing Orders",
+  "arPath": "التصنيع/العمليات/أوامر التصنيع"
+ },
+ {
+  "id": 605,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Manufacturing/Products/Products",
+  "arPath": "التصنيع/المنتجات/المنتجات"
+ },
+ {
+  "id": 621,
+  "en": "Courses",
+  "ar": "الدورات",
+  "enPath": "eLearning/Courses",
+  "arPath": "التعلم الإلكتروني /الدورات"
+ },
+ {
+  "id": 624,
+  "en": "Courses",
+  "ar": "الدورات",
+  "enPath": "eLearning/Courses/Courses",
+  "arPath": "التعلم الإلكتروني /الدورات/الدورات"
+ },
+ {
+  "id": 626,
+  "en": "Courses",
+  "ar": "الدورات",
+  "enPath": "eLearning/Reporting/Courses",
+  "arPath": "التعلم الإلكتروني /إعداد التقارير /الدورات"
+ },
+ {
+  "id": 631,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "eLearning/Configuration/Settings",
+  "arPath": "التعلم الإلكتروني /التهيئة /الإعدادات"
+ },
+ {
+  "id": 636,
+  "en": "Delivery Methods",
+  "ar": "طرق التوصيل ",
+  "enPath": "Inventory/Configuration/Delivery/Delivery Methods",
+  "arPath": "المخزون والمستودعات/التهيئة /التوصيل /طرق التوصيل "
+ },
+ {
+  "id": 640,
+  "en": "Orders",
+  "ar": "الطلبات ",
+  "enPath": "Website/eCommerce/Orders/Orders",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/الطلبات /الطلبات "
+ },
+ {
+  "id": 645,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Website/eCommerce/Products/Products",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/المنتجات/المنتجات"
+ },
+ {
+  "id": 669,
+  "en": "Maintenance",
+  "ar": "الصيانة",
+  "enPath": "Maintenance/Maintenance",
+  "arPath": "الصيانة/الصيانة"
+ },
+ {
+  "id": 670,
+  "en": "Maintenance Requests",
+  "ar": "طلبات الصيانة",
+  "enPath": "Maintenance/Maintenance/Maintenance Requests",
+  "arPath": "الصيانة/الصيانة/طلبات الصيانة"
+ },
+ {
+  "id": 679,
+  "en": "Maintenance Teams",
+  "ar": "فرق الصيانة",
+  "enPath": "Maintenance/Configuration/Maintenance Teams",
+  "arPath": "الصيانة/التهيئة /فرق الصيانة"
+ },
+ {
+  "id": 686,
+  "en": "Surveys",
+  "ar": "الاستطلاعات ",
+  "enPath": "Surveys/Surveys",
+  "arPath": "الاستطلاعات /الاستطلاعات "
+ },
+ {
+  "id": 687,
+  "en": "Participations",
+  "ar": "المشاركين ",
+  "enPath": "Surveys/Participations",
+  "arPath": "الاستطلاعات /المشاركين "
+ },
+ {
+  "id": 694,
+  "en": "SMS Marketing",
+  "ar": "التسويق عبر الرسائل النصية القصيرة ",
+  "enPath": "SMS Marketing/SMS Marketing",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة /التسويق عبر الرسائل النصية القصيرة "
+ },
+ {
+  "id": 696,
+  "en": "Mailing Lists",
+  "ar": "القوائم البريدية",
+  "enPath": "SMS Marketing/Mailing Lists/Mailing Lists",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة /القوائم البريدية/القوائم البريدية"
+ },
+ {
+  "id": 701,
+  "en": "Blacklisted Phone Numbers",
+  "ar": "أرقام الهواتف المدرجة في القائمة السوداء ",
+  "enPath": "SMS Marketing/Configuration/Blacklisted Phone Numbers",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة /التهيئة /أرقام الهواتف المدرجة في القائمة السوداء "
+ },
+ {
+  "id": 721,
+  "en": "Manufacturers",
+  "ar": "المصنّعين ",
+  "enPath": "Fleet/Configuration/Models/Manufacturers",
+  "arPath": "الأسطول/التهيئة /النماذج/المصنّعين "
+ },
+ {
+  "id": 735,
+  "en": "Costs",
+  "ar": "التكاليف",
+  "enPath": "Fleet/Reporting/Costs",
+  "arPath": "الأسطول/إعداد التقارير /التكاليف"
+ },
+ {
+  "id": 768,
+  "en": "Dashboard",
+  "ar": "لوحة المعلومات",
+  "enPath": "Franchise Management/Dashboard",
+  "arPath": "إدارة الامتياز التجاري/لوحة المعلومات"
+ },
+ {
+  "id": 769,
+  "en": "Admin Dashboard",
+  "ar": "لوحة معلومات الإدارة",
+  "enPath": "Franchise Management/Dashboard/Admin Dashboard",
+  "arPath": "إدارة الامتياز التجاري/لوحة المعلومات/لوحة معلومات الإدارة"
+ },
+ {
+  "id": 791,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Franchise Management/Configuration/Settings",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/الإعدادات"
+ },
+ {
+  "id": 852,
+  "en": "Floor",
+  "ar": "الطابق ",
+  "enPath": "Hotel Management/Configuration/Floor",
+  "arPath": "إدارة الفندق/التهيئة /الطابق "
+ },
+ {
+  "id": 891,
+  "en": "Booking History",
+  "ar": "سجل الحجوزات",
+  "enPath": "Accounting/Dashboard/Hotel Management/Dashboard/Booking History",
+  "arPath": "المحاسبة /لوحة البيانات /إدارة الفندق/Dashboard/سجل الحجوزات"
+ },
+ {
+  "id": 899,
+  "en": "Hotel Dashboard",
+  "ar": "لوحة معلومات الفندق",
+  "enPath": "Hotel Dashboard",
+  "arPath": "لوحة معلومات الفندق"
+ },
+ {
+  "id": 900,
+  "en": "Hotel dashboard",
+  "ar": "لوحة معلومات الفندق",
+  "enPath": "Hotel Dashboard/Hotel dashboard",
+  "arPath": "لوحة معلومات الفندق/لوحة معلومات الفندق"
+ },
+ {
+  "id": 28,
+  "en": "Scheduled Actions",
+  "ar": "الإجراءات المجدولة ",
+  "enPath": "Settings/Technical/Automation/Scheduled Actions",
+  "arPath": "الإعدادات/تقني/تشغيل تلقائي/الإجراءات المجدولة "
+ },
+ {
+  "id": 44,
+  "en": "Views",
+  "ar": "أدوات العرض",
+  "enPath": "Settings/Technical/User Interface/Views",
+  "arPath": "الإعدادات/تقني/واجهة المستخدم/أدوات العرض"
+ },
+ {
+  "id": 73,
+  "en": "Resource Time Off",
+  "ar": "إجازة المَورِد ",
+  "enPath": "Settings/Technical/Resource/Resource Time Off",
+  "arPath": "الإعدادات/تقني/المورد/إجازة المَورِد "
+ },
+ {
+  "id": 95,
+  "en": "Scheduled Messages",
+  "ar": "الرسائل المجدولة ",
+  "enPath": "Settings/Technical/Discuss/Scheduled Messages",
+  "arPath": "الإعدادات/تقني/المناقشة /الرسائل المجدولة "
+ },
+ {
+  "id": 108,
+  "en": "Activities",
+  "ar": "الأنشطة",
+  "enPath": "Settings/Technical/Activities",
+  "arPath": "الإعدادات/تقني/الأنشطة"
+ },
+ {
+  "id": 118,
+  "en": "SMS Templates",
+  "ar": "قوالب الرسائل النصية القصيرة ",
+  "enPath": "Settings/Technical/Phone / SMS/SMS Templates",
+  "arPath": "الإعدادات/تقني/الهاتف / الرسائل النصية القصيرة /قوالب الرسائل النصية القصيرة "
+ },
+ {
+  "id": 149,
+  "en": "Customers",
+  "ar": "العملاء",
+  "enPath": "Accounting/Customers",
+  "arPath": "المحاسبة /العملاء"
+ },
+ {
+  "id": 151,
+  "en": "Credit Notes",
+  "ar": "إشعارات دائنة ",
+  "enPath": "Accounting/Customers/Credit Notes",
+  "arPath": "المحاسبة /العملاء/إشعارات دائنة "
+ },
+ {
+  "id": 158,
+  "en": "Refunds",
+  "ar": "الاستردادات ",
+  "enPath": "Accounting/Vendors/Refunds",
+  "arPath": "المحاسبة /الموردين/الاستردادات "
+ },
+ {
+  "id": 178,
+  "en": "Banks",
+  "ar": "البنوك",
+  "enPath": "Accounting/Configuration/Banks",
+  "arPath": "المحاسبة /التهيئة /البنوك"
+ },
+ {
+  "id": 183,
+  "en": "Taxes",
+  "ar": "الضرائب",
+  "enPath": "Accounting/Configuration/Accounting/Taxes",
+  "arPath": "المحاسبة /التهيئة /المحاسبة /الضرائب"
+ },
+ {
+  "id": 197,
+  "en": "Analytic Plans",
+  "ar": "الخطط التحليلية ",
+  "enPath": "Accounting/Configuration/Analytic Accounting/Analytic Plans",
+  "arPath": "المحاسبة /التهيئة /المحاسبة التحليلية /الخطط التحليلية "
+ },
+ {
+  "id": 205,
+  "en": "Operations",
+  "ar": "العمليات",
+  "enPath": "Inventory/Operations",
+  "arPath": "المخزون والمستودعات/العمليات"
+ },
+ {
+  "id": 214,
+  "en": "Product Categories",
+  "ar": "فئات المنتجات",
+  "enPath": "Inventory/Configuration/Products/Product Categories",
+  "arPath": "المخزون والمستودعات/التهيئة /المنتجات/فئات المنتجات"
+ },
+ {
+  "id": 233,
+  "en": "Operations Types",
+  "ar": "أنواع العمليات",
+  "enPath": "Inventory/Configuration/Warehouse Management/Operations Types",
+  "arPath": "المخزون والمستودعات/التهيئة /إدارة المخازن و المستودعات/أنواع العمليات"
+ },
+ {
+  "id": 262,
+  "en": "Orders",
+  "ar": "الطلبات ",
+  "enPath": "Point of Sale/Orders/Orders",
+  "arPath": "نقطة البيع/الطلبات /الطلبات "
+ },
+ {
+  "id": 276,
+  "en": "Sessions",
+  "ar": "الجلسات",
+  "enPath": "Point of Sale/Orders/Sessions",
+  "arPath": "نقطة البيع/الطلبات /الجلسات"
+ },
+ {
+  "id": 297,
+  "en": "Employment Types",
+  "ar": "أنواع التوظيف ",
+  "enPath": "Employees/Configuration/Recruitment/Employment Types",
+  "arPath": "الموظفون/التهيئة /التوظيف/أنواع التوظيف "
+ },
+ {
+  "id": 342,
+  "en": "Audit Reports",
+  "ar": "تقارير التدقيق",
+  "enPath": "Accounting/Reporting/Audit Reports",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير التدقيق"
+ },
+ {
+  "id": 365,
+  "en": "Follow-up Levels",
+  "ar": "مستويات المتابعة",
+  "enPath": "Accounting/Configuration/Invoicing/Follow-up Levels",
+  "arPath": "المحاسبة /التهيئة /الفوترة/مستويات المتابعة"
+ },
+ {
+  "id": 421,
+  "en": "Headers/Footers",
+  "ar": "الترويسات / التذييلات ",
+  "enPath": "Sales/Configuration/Sales Orders/Headers/Footers",
+  "arPath": "المبيعات/التهيئة /أوامر البيع/الترويسات / التذييلات "
+ },
+ {
+  "id": 431,
+  "en": "Contacts",
+  "ar": "جهات الاتصال",
+  "enPath": "Contacts/Contacts",
+  "arPath": "جهات الاتصال/جهات الاتصال"
+ },
+ {
+  "id": 432,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Contacts/Configuration",
+  "arPath": "جهات الاتصال/التهيئة "
+ },
+ {
+  "id": 439,
+  "en": "Fed. States",
+  "ar": "الولايات الفيدرالية",
+  "enPath": "Contacts/Configuration/Localization/Fed. States",
+  "arPath": "جهات الاتصال/التهيئة /الأقلمة /الولايات الفيدرالية"
+ },
+ {
+  "id": 442,
+  "en": "Bank Accounts",
+  "ar": "الحسابات البنكية",
+  "enPath": "Contacts/Configuration/Bank Accounts/Bank Accounts",
+  "arPath": "جهات الاتصال/التهيئة /الحسابات البنكية/الحسابات البنكية"
+ },
+ {
+  "id": 457,
+  "en": "Event Stages",
+  "ar": "مراحل الفعالية ",
+  "enPath": "Events/Configuration/Event Stages",
+  "arPath": "الفعاليات/التهيئة /مراحل الفعالية "
+ },
+ {
+  "id": 466,
+  "en": "My Activities",
+  "ar": "أنشطتي",
+  "enPath": "CRM/Sales/My Activities",
+  "arPath": "إدارة علاقات العملاء /المبيعات/أنشطتي"
+ },
+ {
+  "id": 472,
+  "en": "Pipeline",
+  "ar": "مخطط سير العمل ",
+  "enPath": "CRM/Reporting/Pipeline",
+  "arPath": "إدارة علاقات العملاء /إعداد التقارير /مخطط سير العمل "
+ },
+ {
+  "id": 491,
+  "en": "Mailing Lists",
+  "ar": "القوائم البريدية",
+  "enPath": "Email Marketing/Mailing Lists",
+  "arPath": "التسويق بالبريد الإلكتروني/القوائم البريدية"
+ },
+ {
+  "id": 493,
+  "en": "Mailing List Contacts",
+  "ar": "جهات اتصال القائمة البريدية",
+  "enPath": "Email Marketing/Mailing Lists/Mailing List Contacts",
+  "arPath": "التسويق بالبريد الإلكتروني/القوائم البريدية/جهات اتصال القائمة البريدية"
+ },
+ {
+  "id": 497,
+  "en": "Opt-Out Report",
+  "ar": "تقرير الانسحاب من الخدمات ",
+  "enPath": "Email Marketing/Reporting/Opt-Out Report",
+  "arPath": "التسويق بالبريد الإلكتروني/إعداد التقارير /تقرير الانسحاب من الخدمات "
+ },
+ {
+  "id": 507,
+  "en": "Mailing Traces",
+  "ar": "آثار المراسلات ",
+  "enPath": "Settings/Technical/Mass Mailing/Mailing Traces",
+  "arPath": "الإعدادات/تقني/المراسلات الجماعية/آثار المراسلات "
+ },
+ {
+  "id": 511,
+  "en": "Tasks",
+  "ar": "المهام",
+  "enPath": "Project/Tasks",
+  "arPath": "إدارة المشاريع/المهام"
+ },
+ {
+  "id": 513,
+  "en": "All Tasks",
+  "ar": "كافة المهام",
+  "enPath": "Project/Tasks/All Tasks",
+  "arPath": "إدارة المشاريع/المهام/كافة المهام"
+ },
+ {
+  "id": 530,
+  "en": "My Reports",
+  "ar": "تقاريري",
+  "enPath": "Expenses/My Expenses/My Reports",
+  "arPath": "المصاريف والعهد/نفقاتي /تقاريري"
+ },
+ {
+  "id": 531,
+  "en": "Expense Reports",
+  "ar": "تقارير النفقات ",
+  "enPath": "Expenses/Expense Reports",
+  "arPath": "المصاريف والعهد/تقارير النفقات "
+ },
+ {
+  "id": 546,
+  "en": "My Time Off",
+  "ar": "أيام إجازتي ",
+  "enPath": "Time Off/My Time/My Time Off",
+  "arPath": "الإجازات /وقتي /أيام إجازتي "
+ },
+ {
+  "id": 548,
+  "en": "Overview",
+  "ar": "نظرة عامة",
+  "enPath": "Time Off/Overview",
+  "arPath": "الإجازات /نظرة عامة"
+ },
+ {
+  "id": 558,
+  "en": "Accrual Plans",
+  "ar": "خطط الاستحقاق ",
+  "enPath": "Time Off/Configuration/Accrual Plans",
+  "arPath": "الإجازات /التهيئة /خطط الاستحقاق "
+ },
+ {
+  "id": 563,
+  "en": "Applications",
+  "ar": "التطبيقات ",
+  "enPath": "Recruitment/Applications",
+  "arPath": "التوظيف/التطبيقات "
+ },
+ {
+  "id": 566,
+  "en": "All Applications",
+  "ar": "كافة طلبات التقديم ",
+  "enPath": "Recruitment/Applications/All Applications",
+  "arPath": "التوظيف/التطبيقات /كافة طلبات التقديم "
+ },
+ {
+  "id": 574,
+  "en": "Employment Types",
+  "ar": "أنواع التوظيف ",
+  "enPath": "Recruitment/Configuration/Job Positions/Employment Types",
+  "arPath": "التوظيف/التهيئة /المناصب الوظيفية/أنواع التوظيف "
+ },
+ {
+  "id": 619,
+  "en": "My Quotations",
+  "ar": "عروض أسعاري",
+  "enPath": "CRM/Sales/My Quotations",
+  "arPath": "إدارة علاقات العملاء /المبيعات/عروض أسعاري"
+ },
+ {
+  "id": 625,
+  "en": "Contents",
+  "ar": "المحتويات",
+  "enPath": "eLearning/Courses/Contents",
+  "arPath": "التعلم الإلكتروني /الدورات/المحتويات"
+ },
+ {
+  "id": 627,
+  "en": "Contents",
+  "ar": "المحتويات",
+  "enPath": "eLearning/Reporting/Contents",
+  "arPath": "التعلم الإلكتروني /إعداد التقارير /المحتويات"
+ },
+ {
+  "id": 632,
+  "en": "Course Groups",
+  "ar": "مجموعات الدورات ",
+  "enPath": "eLearning/Configuration/Course Groups",
+  "arPath": "التعلم الإلكتروني /التهيئة /مجموعات الدورات "
+ },
+ {
+  "id": 639,
+  "en": "Orders",
+  "ar": "الطلبات ",
+  "enPath": "Website/eCommerce/Orders",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/الطلبات "
+ },
+ {
+  "id": 641,
+  "en": "Unpaid Orders",
+  "ar": "الطلبات غير المدفوعة ",
+  "enPath": "Website/eCommerce/Orders/Unpaid Orders",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/الطلبات /الطلبات غير المدفوعة "
+ },
+ {
+  "id": 671,
+  "en": "Maintenance Calendar",
+  "ar": "تقويم الصيانة",
+  "enPath": "Maintenance/Maintenance/Maintenance Calendar",
+  "arPath": "الصيانة/الصيانة/تقويم الصيانة"
+ },
+ {
+  "id": 672,
+  "en": "Equipment",
+  "ar": "المعدات ",
+  "enPath": "Maintenance/Equipment",
+  "arPath": "الصيانة/المعدات "
+ },
+ {
+  "id": 680,
+  "en": "Equipment Categories",
+  "ar": "فئات المعدات",
+  "enPath": "Maintenance/Configuration/Equipment Categories",
+  "arPath": "الصيانة/التهيئة /فئات المعدات"
+ },
+ {
+  "id": 688,
+  "en": "Questions",
+  "ar": "الأسئلة",
+  "enPath": "Surveys/Questions & Answers/Questions",
+  "arPath": "الاستطلاعات /الأسئلة والأجوبة /الأسئلة"
+ },
+ {
+  "id": 695,
+  "en": "Mailing Lists",
+  "ar": "القوائم البريدية",
+  "enPath": "SMS Marketing/Mailing Lists",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة /القوائم البريدية"
+ },
+ {
+  "id": 697,
+  "en": "Mailing List Contacts",
+  "ar": "جهات اتصال القائمة البريدية",
+  "enPath": "SMS Marketing/Mailing Lists/Mailing List Contacts",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة /القوائم البريدية/جهات اتصال القائمة البريدية"
+ },
+ {
+  "id": 702,
+  "en": "Link Tracker",
+  "ar": "متتبع الرابط",
+  "enPath": "SMS Marketing/Configuration/Link Tracker",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة /التهيئة /متتبع الرابط"
+ },
+ {
+  "id": 724,
+  "en": "Fleet",
+  "ar": "الأسطول",
+  "enPath": "Fleet/Fleet",
+  "arPath": "الأسطول/الأسطول"
+ },
+ {
+  "id": 732,
+  "en": "Contracts",
+  "ar": "العقود",
+  "enPath": "Fleet/Fleet/Contracts",
+  "arPath": "الأسطول/الأسطول/العقود"
+ },
+ {
+  "id": 770,
+  "en": "Franchise Dashboard",
+  "ar": "لوحة معلومات الامتياز",
+  "enPath": "Franchise Management/Dashboard/Franchise Dashboard",
+  "arPath": "إدارة الامتياز التجاري/لوحة المعلومات/لوحة معلومات الامتياز"
+ },
+ {
+  "id": 855,
+  "en": "Amenities",
+  "ar": "وسائل الراحة",
+  "enPath": "Hotel Management/Configuration/Amenity Defination/Amenities",
+  "arPath": "إدارة الفندق/التهيئة /تعريف وسيلة الراحة/وسائل الراحة"
+ },
+ {
+  "id": 878,
+  "en": "Apartment",
+  "ar": "الشقة",
+  "enPath": "Hotel Management/Configuration/Apartment",
+  "arPath": "إدارة الفندق/التهيئة /الشقة"
+ },
+ {
+  "id": 10,
+  "en": "Email",
+  "ar": "البريد الإلكتروني",
+  "enPath": "Settings/Technical/Email",
+  "arPath": "الإعدادات/تقني/البريد الإلكتروني"
+ },
+ {
+  "id": 29,
+  "en": "Scheduled Actions Triggers",
+  "ar": "مشغلات الإجراءات المجدولة ",
+  "enPath": "Settings/Technical/Automation/Scheduled Actions Triggers",
+  "arPath": "الإعدادات/تقني/تشغيل تلقائي/مشغلات الإجراءات المجدولة "
+ },
+ {
+  "id": 41,
+  "en": "Record Rules",
+  "ar": "قواعد السجلات",
+  "enPath": "Settings/Technical/Security/Record Rules",
+  "arPath": "الإعدادات/تقني/الأمن/قواعد السجلات"
+ },
+ {
+  "id": 45,
+  "en": "Customized Views",
+  "ar": "طرق العرض المخصصة",
+  "enPath": "Settings/Technical/User Interface/Customized Views",
+  "arPath": "الإعدادات/تقني/واجهة المستخدم/طرق العرض المخصصة"
+ },
+ {
+  "id": 74,
+  "en": "Resources",
+  "ar": "الموارد",
+  "enPath": "Settings/Technical/Resource/Resources",
+  "arPath": "الإعدادات/تقني/المورد/الموارد"
+ },
+ {
+  "id": 113,
+  "en": "Phone / SMS",
+  "ar": "الهاتف / الرسائل النصية القصيرة ",
+  "enPath": "Settings/Technical/Phone / SMS",
+  "arPath": "الإعدادات/تقني/الهاتف / الرسائل النصية القصيرة "
+ },
+ {
+  "id": 114,
+  "en": "Phone Blacklist",
+  "ar": "القائمة السوداء لأرقام الهواتف ",
+  "enPath": "Settings/Technical/Phone / SMS/Phone Blacklist",
+  "arPath": "الإعدادات/تقني/الهاتف / الرسائل النصية القصيرة /القائمة السوداء لأرقام الهواتف "
+ },
+ {
+  "id": 156,
+  "en": "Vendors",
+  "ar": "الموردين",
+  "enPath": "Accounting/Vendors",
+  "arPath": "المحاسبة /الموردين"
+ },
+ {
+  "id": 168,
+  "en": "Partner Reports",
+  "ar": "تقارير الشركاء",
+  "enPath": "Accounting/Reporting/Partner Reports",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير الشركاء"
+ },
+ {
+  "id": 180,
+  "en": "Reconciliation Models",
+  "ar": "نماذج التسوية",
+  "enPath": "Accounting/Configuration/Banks/Reconciliation Models",
+  "arPath": "المحاسبة /التهيئة /البنوك/نماذج التسوية"
+ },
+ {
+  "id": 181,
+  "en": "Accounting",
+  "ar": "المحاسبة ",
+  "enPath": "Accounting/Configuration/Accounting",
+  "arPath": "المحاسبة /التهيئة /المحاسبة "
+ },
+ {
+  "id": 184,
+  "en": "Journals",
+  "ar": "دفاتر اليومية",
+  "enPath": "Accounting/Configuration/Accounting/Journals",
+  "arPath": "المحاسبة /التهيئة /المحاسبة /دفاتر اليومية"
+ },
+ {
+  "id": 192,
+  "en": "Product Categories",
+  "ar": "فئات المنتجات",
+  "enPath": "Accounting/Configuration/Management/Product Categories",
+  "arPath": "المحاسبة /التهيئة /الإدارة/فئات المنتجات"
+ },
+ {
+  "id": 207,
+  "en": "Adjustments",
+  "ar": "التعديلات",
+  "enPath": "Inventory/Operations/Adjustments",
+  "arPath": "المخزون والمستودعات/العمليات/التعديلات"
+ },
+ {
+  "id": 239,
+  "en": "Locations",
+  "ar": "المواقع ",
+  "enPath": "Inventory/Configuration/Warehouse Management/Locations",
+  "arPath": "المخزون والمستودعات/التهيئة /إدارة المخازن و المستودعات/المواقع "
+ },
+ {
+  "id": 269,
+  "en": "Payment Methods",
+  "ar": "طرق الدفع ",
+  "enPath": "Point of Sale/Configuration/Payment Methods",
+  "arPath": "نقطة البيع/التهيئة /طرق الدفع "
+ },
+ {
+  "id": 270,
+  "en": "Payments",
+  "ar": "الدفعات",
+  "enPath": "Point of Sale/Orders/Payments",
+  "arPath": "نقطة البيع/الطلبات /الدفعات"
+ },
+ {
+  "id": 277,
+  "en": "Orders",
+  "ar": "الطلبات ",
+  "enPath": "Point of Sale/Reporting/Orders",
+  "arPath": "نقطة البيع/إعداد التقارير /الطلبات "
+ },
+ {
+  "id": 282,
+  "en": "Employees",
+  "ar": "الموظفون",
+  "enPath": "Employees/Employees",
+  "arPath": "الموظفون/الموظفون"
+ },
+ {
+  "id": 322,
+  "en": "Product Categories",
+  "ar": "فئات المنتجات",
+  "enPath": "Purchase/Configuration/Products/Product Categories",
+  "arPath": "المشتريات/التهيئة /المنتجات/فئات المنتجات"
+ },
+ {
+  "id": 434,
+  "en": "Contact Titles",
+  "ar": "ألقاب جهات الاتصال",
+  "enPath": "Contacts/Configuration/Contact Titles",
+  "arPath": "جهات الاتصال/التهيئة /ألقاب جهات الاتصال"
+ },
+ {
+  "id": 438,
+  "en": "Country Group",
+  "ar": "مجموعات الدول",
+  "enPath": "Contacts/Configuration/Localization/Country Group",
+  "arPath": "جهات الاتصال/التهيئة /الأقلمة /مجموعات الدول"
+ },
+ {
+  "id": 459,
+  "en": "Event Tags Categories",
+  "ar": "فئان علامات تصنيف الفعاليات ",
+  "enPath": "Events/Configuration/Event Tags Categories",
+  "arPath": "الفعاليات/التهيئة /فئان علامات تصنيف الفعاليات "
+ },
+ {
+  "id": 473,
+  "en": "Leads",
+  "ar": "العملاء المهتمين ",
+  "enPath": "CRM/Reporting/Leads",
+  "arPath": "إدارة علاقات العملاء /إعداد التقارير /العملاء المهتمين "
+ },
+ {
+  "id": 547,
+  "en": "My Allocations",
+  "ar": "رصيد إجازاتي",
+  "enPath": "Time Off/My Time/My Allocations",
+  "arPath": "الإجازات /وقتي /رصيد إجازاتي"
+ },
+ {
+  "id": 549,
+  "en": "Management",
+  "ar": "الإدارة",
+  "enPath": "Time Off/Management",
+  "arPath": "الإجازات /الإدارة"
+ },
+ {
+  "id": 554,
+  "en": "by Type",
+  "ar": "حسب النوع ",
+  "enPath": "Time Off/Reporting/by Type",
+  "arPath": "الإجازات /إعداد التقارير /حسب النوع "
+ },
+ {
+  "id": 559,
+  "en": "Public Holidays",
+  "ar": "الإجازات الرسمية ",
+  "enPath": "Time Off/Configuration/Public Holidays",
+  "arPath": "الإجازات /التهيئة /الإجازات الرسمية "
+ },
+ {
+  "id": 567,
+  "en": "Candidates",
+  "ar": "المرشحون",
+  "enPath": "Recruitment/Applications/Candidates",
+  "arPath": "التوظيف/التطبيقات /المرشحون"
+ },
+ {
+  "id": 633,
+  "en": "Content Tags",
+  "ar": "علامات تصنيف المحتوى ",
+  "enPath": "eLearning/Configuration/Content Tags",
+  "arPath": "التعلم الإلكتروني /التهيئة /علامات تصنيف المحتوى "
+ },
+ {
+  "id": 642,
+  "en": "Abandoned Carts",
+  "ar": "عربات التسوق المتروكة",
+  "enPath": "Website/eCommerce/Orders/Abandoned Carts",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/الطلبات /عربات التسوق المتروكة"
+ },
+ {
+  "id": 644,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Website/eCommerce/Products",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/المنتجات"
+ },
+ {
+  "id": 646,
+  "en": "Pricelists",
+  "ar": "قوائم الأسعار",
+  "enPath": "Website/eCommerce/Products/Pricelists",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/المنتجات/قوائم الأسعار"
+ },
+ {
+  "id": 689,
+  "en": "Suggested Values",
+  "ar": "القيم المقترحة",
+  "enPath": "Surveys/Questions & Answers/Suggested Values",
+  "arPath": "الاستطلاعات /الأسئلة والأجوبة /القيم المقترحة"
+ },
+ {
+  "id": 692,
+  "en": "Certifications",
+  "ar": "الشهادات",
+  "enPath": "eLearning/Courses/Certifications",
+  "arPath": "التعلم الإلكتروني /الدورات/الشهادات"
+ },
+ {
+  "id": 733,
+  "en": "Services",
+  "ar": "الخدمات",
+  "enPath": "Fleet/Fleet/Services",
+  "arPath": "الأسطول/الأسطول/الخدمات"
+ },
+ {
+  "id": 853,
+  "en": "Amenity Defination",
+  "ar": "تعريف وسيلة الراحة",
+  "enPath": "Hotel Management/Configuration/Amenity Defination",
+  "arPath": "إدارة الفندق/التهيئة /تعريف وسيلة الراحة"
+ },
+ {
+  "id": 854,
+  "en": "Amenity Category",
+  "ar": "فئة وسيلة الراحة",
+  "enPath": "Hotel Management/Configuration/Amenity Defination/Amenity Category",
+  "arPath": "إدارة الفندق/التهيئة /تعريف وسيلة الراحة/فئة وسيلة الراحة"
+ },
+ {
+  "id": 96,
+  "en": "Subtypes",
+  "ar": "الأنواع الفرعية",
+  "enPath": "Settings/Technical/Discuss/Subtypes",
+  "arPath": "الإعدادات/تقني/المناقشة /الأنواع الفرعية"
+ },
+ {
+  "id": 163,
+  "en": "Accounting",
+  "ar": "المحاسبة ",
+  "enPath": "Accounting/Accounting",
+  "arPath": "المحاسبة /المحاسبة "
+ },
+ {
+  "id": 169,
+  "en": "Management",
+  "ar": "الإدارة",
+  "enPath": "Accounting/Reporting/Management",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة"
+ },
+ {
+  "id": 186,
+  "en": "Currencies",
+  "ar": "العملات",
+  "enPath": "Accounting/Configuration/Accounting/Currencies",
+  "arPath": "المحاسبة /التهيئة /المحاسبة /العملات"
+ },
+ {
+  "id": 190,
+  "en": "Online Payments",
+  "ar": "المدفوعات عبر الإنترنت ",
+  "enPath": "Accounting/Configuration/Online Payments",
+  "arPath": "المحاسبة /التهيئة /المدفوعات عبر الإنترنت "
+ },
+ {
+  "id": 208,
+  "en": "Procurement",
+  "ar": "الشراء ",
+  "enPath": "Inventory/Operations/Procurement",
+  "arPath": "المخزون والمستودعات/العمليات/الشراء "
+ },
+ {
+  "id": 211,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Inventory/Configuration/Products",
+  "arPath": "المخزون والمستودعات/التهيئة /المنتجات"
+ },
+ {
+  "id": 219,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Inventory/Products",
+  "arPath": "المخزون والمستودعات/المنتجات"
+ },
+ {
+  "id": 240,
+  "en": "Routes",
+  "ar": "المسارات ",
+  "enPath": "Inventory/Configuration/Warehouse Management/Routes",
+  "arPath": "المخزون والمستودعات/التهيئة /إدارة المخازن و المستودعات/المسارات "
+ },
+ {
+  "id": 275,
+  "en": "Coins/Bills",
+  "ar": "العملات المعدنية/الأوراق النقدية ",
+  "enPath": "Point of Sale/Configuration/Coins/Bills",
+  "arPath": "نقطة البيع/التهيئة /العملات المعدنية/الأوراق النقدية "
+ },
+ {
+  "id": 278,
+  "en": "Sales Details",
+  "ar": "تفاصيل المبيعات",
+  "enPath": "Point of Sale/Reporting/Sales Details",
+  "arPath": "نقطة البيع/إعداد التقارير /تفاصيل المبيعات"
+ },
+ {
+  "id": 284,
+  "en": "Directory",
+  "ar": "الدليل ",
+  "enPath": "Employees/Directory",
+  "arPath": "الموظفون/الدليل "
+ },
+ {
+  "id": 435,
+  "en": "Industries",
+  "ar": "مجالات العمل ",
+  "enPath": "Contacts/Configuration/Industries",
+  "arPath": "جهات الاتصال/التهيئة /مجالات العمل "
+ },
+ {
+  "id": 460,
+  "en": "Attendees",
+  "ar": "الحاضرين ",
+  "enPath": "Events/Reporting/Attendees",
+  "arPath": "الفعاليات/إعداد التقارير /الحاضرين "
+ },
+ {
+  "id": 467,
+  "en": "Teams",
+  "ar": "الفِرَق ",
+  "enPath": "CRM/Sales/Teams",
+  "arPath": "إدارة علاقات العملاء /المبيعات/الفِرَق "
+ },
+ {
+  "id": 474,
+  "en": "Activities",
+  "ar": "الأنشطة",
+  "enPath": "CRM/Reporting/Activities",
+  "arPath": "إدارة علاقات العملاء /إعداد التقارير /الأنشطة"
+ },
+ {
+  "id": 506,
+  "en": "Mass Mailing",
+  "ar": "المراسلات الجماعية",
+  "enPath": "Settings/Technical/Mass Mailing",
+  "arPath": "الإعدادات/تقني/المراسلات الجماعية"
+ },
+ {
+  "id": 532,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Expenses/Reporting",
+  "arPath": "المصاريف والعهد/إعداد التقارير "
+ },
+ {
+  "id": 552,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Time Off/Reporting",
+  "arPath": "الإجازات /إعداد التقارير "
+ },
+ {
+  "id": 555,
+  "en": "Balance",
+  "ar": "الرصيد",
+  "enPath": "Time Off/Reporting/Balance",
+  "arPath": "الإجازات /إعداد التقارير /الرصيد"
+ },
+ {
+  "id": 560,
+  "en": "Mandatory Days",
+  "ar": "أيام إلزامية ",
+  "enPath": "Time Off/Configuration/Mandatory Days",
+  "arPath": "الإجازات /التهيئة /أيام إلزامية "
+ },
+ {
+  "id": 618,
+  "en": "Delivery Methods",
+  "ar": "طرق التوصيل ",
+  "enPath": "Sales/Configuration/Sales Orders/Delivery Methods",
+  "arPath": "المبيعات/التهيئة /أوامر البيع/طرق التوصيل "
+ },
+ {
+  "id": 643,
+  "en": "Customers",
+  "ar": "العملاء",
+  "enPath": "Website/eCommerce/Orders/Customers",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/الطلبات /العملاء"
+ },
+ {
+  "id": 647,
+  "en": "eCommerce Categories",
+  "ar": "فئات المتجر الإلكتروني",
+  "enPath": "Website/eCommerce/Products/eCommerce Categories",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/المنتجات/فئات المتجر الإلكتروني"
+ },
+ {
+  "id": 665,
+  "en": "Intrastat Code",
+  "ar": "رمز نظام Intrastat",
+  "enPath": "Accounting/Configuration/Invoicing/Intrastat Code",
+  "arPath": "المحاسبة /التهيئة /الفوترة/رمز نظام Intrastat"
+ },
+ {
+  "id": 690,
+  "en": "Detailed Answers",
+  "ar": "الأجوبة المفصلة ",
+  "enPath": "Surveys/Questions & Answers/Detailed Answers",
+  "arPath": "الاستطلاعات /الأسئلة والأجوبة /الأجوبة المفصلة "
+ },
+ {
+  "id": 802,
+  "en": "Loyalty",
+  "ar": "الولاء ",
+  "enPath": "Website/eCommerce/Loyalty",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/الولاء "
+ },
+ {
+  "id": 18,
+  "en": "Actions",
+  "ar": "الإجراءات",
+  "enPath": "Settings/Technical/Actions",
+  "arPath": "الإعدادات/تقني/الإجراءات"
+ },
+ {
+  "id": 30,
+  "en": "User-defined Filters",
+  "ar": "عوامل التصفية التي يحددها المستخدم ",
+  "enPath": "Settings/Technical/User Interface/User-defined Filters",
+  "arPath": "الإعدادات/تقني/واجهة المستخدم/عوامل التصفية التي يحددها المستخدم "
+ },
+ {
+  "id": 49,
+  "en": "Main Apps",
+  "ar": "التطبيقات الرئيسية ",
+  "enPath": "Apps/Apps/Main Apps",
+  "arPath": "التطبيقات /التطبيقات /التطبيقات الرئيسية "
+ },
+ {
+  "id": 68,
+  "en": "Tours",
+  "ar": "الجولات ",
+  "enPath": "Settings/Technical/User Interface/Tours",
+  "arPath": "الإعدادات/تقني/واجهة المستخدم/الجولات "
+ },
+ {
+  "id": 69,
+  "en": "IAP",
+  "ar": "الوكيل المدرك للهوية (IAP) ",
+  "enPath": "Settings/Technical/IAP",
+  "arPath": "الإعدادات/تقني/الوكيل المدرك للهوية (IAP) "
+ },
+ {
+  "id": 80,
+  "en": "Chat",
+  "ar": "الدردشة",
+  "enPath": "Chat",
+  "arPath": "الدردشة"
+ },
+ {
+  "id": 83,
+  "en": "Voice & Video",
+  "ar": "الصوت والصورة ",
+  "enPath": "Chat/Configuration/Voice & Video",
+  "arPath": "الدردشة/التهيئة /الصوت والصورة "
+ },
+ {
+  "id": 97,
+  "en": "Tracking Values",
+  "ar": "قيم التتبع",
+  "enPath": "Settings/Technical/Discuss/Tracking Values",
+  "arPath": "الإعدادات/تقني/المناقشة /قيم التتبع"
+ },
+ {
+  "id": 187,
+  "en": "Fiscal Positions",
+  "ar": "الأوضاع المالية ",
+  "enPath": "Accounting/Configuration/Accounting/Fiscal Positions",
+  "arPath": "المحاسبة /التهيئة /المحاسبة /الأوضاع المالية "
+ },
+ {
+  "id": 191,
+  "en": "Management",
+  "ar": "الإدارة",
+  "enPath": "Accounting/Configuration/Management",
+  "arPath": "المحاسبة /التهيئة /الإدارة"
+ },
+ {
+  "id": 216,
+  "en": "UoM Categories",
+  "ar": "فئات وحدات القياس",
+  "enPath": "Inventory/Configuration/Units of Measures/UoM Categories",
+  "arPath": "المخزون والمستودعات/التهيئة /وحدات القياس/فئات وحدات القياس"
+ },
+ {
+  "id": 238,
+  "en": "Stock",
+  "ar": "المخزون ",
+  "enPath": "Inventory/Reporting/Stock",
+  "arPath": "المخزون والمستودعات/إعداد التقارير /المخزون "
+ },
+ {
+  "id": 241,
+  "en": "Replenishment",
+  "ar": "تجديد المخزون ",
+  "enPath": "Inventory/Operations/Procurement/Replenishment",
+  "arPath": "المخزون والمستودعات/العمليات/الشراء /تجديد المخزون "
+ },
+ {
+  "id": 244,
+  "en": "Rules",
+  "ar": "القواعد",
+  "enPath": "Inventory/Configuration/Warehouse Management/Rules",
+  "arPath": "المخزون والمستودعات/التهيئة /إدارة المخازن و المستودعات/القواعد"
+ },
+ {
+  "id": 257,
+  "en": "Session Report",
+  "ar": "تقرير الجلسة ",
+  "enPath": "Point of Sale/Reporting/Session Report",
+  "arPath": "نقطة البيع/إعداد التقارير /تقرير الجلسة "
+ },
+ {
+  "id": 264,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Point of Sale/Products/Products",
+  "arPath": "نقطة البيع/المنتجات/المنتجات"
+ },
+ {
+  "id": 291,
+  "en": "Work Locations",
+  "ar": "مواقع العمل ",
+  "enPath": "Employees/Configuration/Employee/Work Locations",
+  "arPath": "الموظفون/التهيئة /الموظف/مواقع العمل "
+ },
+ {
+  "id": 302,
+  "en": "Overview",
+  "ar": "نظرة عامة",
+  "enPath": "Attendances/Overview",
+  "arPath": "الحضور/نظرة عامة"
+ },
+ {
+  "id": 305,
+  "en": "Org Chart",
+  "ar": "المخطط التنظيمي ",
+  "enPath": "Employees/Employees/Org Chart",
+  "arPath": "الموظفون/الموظفون/المخطط التنظيمي "
+ },
+ {
+  "id": 326,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Purchase/Products",
+  "arPath": "المشتريات/المنتجات"
+ },
+ {
+  "id": 436,
+  "en": "Localization",
+  "ar": "الأقلمة ",
+  "enPath": "Contacts/Configuration/Localization",
+  "arPath": "جهات الاتصال/التهيئة /الأقلمة "
+ },
+ {
+  "id": 468,
+  "en": "Customers",
+  "ar": "العملاء",
+  "enPath": "CRM/Sales/Customers",
+  "arPath": "إدارة علاقات العملاء /المبيعات/العملاء"
+ },
+ {
+  "id": 469,
+  "en": "Leads",
+  "ar": "العملاء المهتمين ",
+  "enPath": "CRM/Leads",
+  "arPath": "إدارة علاقات العملاء /العملاء المهتمين "
+ },
+ {
+  "id": 478,
+  "en": "Sales Teams",
+  "ar": "فرق المبيعات",
+  "enPath": "CRM/Configuration/Sales Teams",
+  "arPath": "إدارة علاقات العملاء /التهيئة /فرق المبيعات"
+ },
+ {
+  "id": 520,
+  "en": "Projects",
+  "ar": "المشاريع ",
+  "enPath": "Project/Configuration/Projects",
+  "arPath": "إدارة المشاريع/التهيئة /المشاريع "
+ },
+ {
+  "id": 550,
+  "en": "Time Off",
+  "ar": "الإجازات ",
+  "enPath": "Time Off/Management/Time Off",
+  "arPath": "الإجازات /الإدارة/الإجازات "
+ },
+ {
+  "id": 556,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Time Off/Configuration",
+  "arPath": "الإجازات /التهيئة "
+ },
+ {
+  "id": 628,
+  "en": "Attendees",
+  "ar": "الحاضرين ",
+  "enPath": "eLearning/Reporting/Attendees",
+  "arPath": "التعلم الإلكتروني /إعداد التقارير /الحاضرين "
+ },
+ {
+  "id": 635,
+  "en": "Revenues",
+  "ar": "الإيرادات ",
+  "enPath": "Events/Reporting/Revenues",
+  "arPath": "الفعاليات/إعداد التقارير /الإيرادات "
+ },
+ {
+  "id": 705,
+  "en": "Contracts",
+  "ar": "العقود",
+  "enPath": "Employees/Contracts",
+  "arPath": "الموظفون/العقود"
+ },
+ {
+  "id": 722,
+  "en": "Models",
+  "ar": "النماذج",
+  "enPath": "Fleet/Configuration/Models/Models",
+  "arPath": "الأسطول/التهيئة /النماذج/النماذج"
+ },
+ {
+  "id": 858,
+  "en": "Rooms",
+  "ar": "الغرف ",
+  "enPath": "Hotel Management/Configuration/Room Definations/Rooms",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الغرف/الغرف "
+ },
+ {
+  "id": 864,
+  "en": "Memberships",
+  "ar": "العضويات",
+  "enPath": "Hotel Management/Memberships",
+  "arPath": "إدارة الفندق/العضويات"
+ },
+ {
+  "id": 898,
+  "en": "Agent Commission Invoice",
+  "ar": "فاتورة عمولة الوكيل",
+  "enPath": "Hotel Management/Agent Commission/Agent Commission Invoice",
+  "arPath": "إدارة الفندق/عمولة الوكيل/فاتورة عمولة الوكيل"
+ },
+ {
+  "id": 194,
+  "en": "Analytic Accounting",
+  "ar": "المحاسبة التحليلية ",
+  "enPath": "Accounting/Configuration/Analytic Accounting",
+  "arPath": "المحاسبة /التهيئة /المحاسبة التحليلية "
+ },
+ {
+  "id": 242,
+  "en": "Storage Categories",
+  "ar": "فئات التخزين ",
+  "enPath": "Inventory/Configuration/Warehouse Management/Storage Categories",
+  "arPath": "المخزون والمستودعات/التهيئة /إدارة المخازن و المستودعات/فئات التخزين "
+ },
+ {
+  "id": 292,
+  "en": "Working Schedules",
+  "ar": "جداول العمل ",
+  "enPath": "Employees/Configuration/Contracts/Working Schedules",
+  "arPath": "الموظفون/التهيئة /العقود/جداول العمل "
+ },
+ {
+  "id": 303,
+  "en": "Management",
+  "ar": "الإدارة",
+  "enPath": "Attendances/Management",
+  "arPath": "الحضور/الإدارة"
+ },
+ {
+  "id": 330,
+  "en": "Purchase Orders",
+  "ar": "أوامر الشراء",
+  "enPath": "Purchase/Orders/Purchase Orders",
+  "arPath": "المشتريات/الطلبات /أوامر الشراء"
+ },
+ {
+  "id": 440,
+  "en": "Bank Accounts",
+  "ar": "الحسابات البنكية",
+  "enPath": "Contacts/Configuration/Bank Accounts",
+  "arPath": "جهات الاتصال/التهيئة /الحسابات البنكية"
+ },
+ {
+  "id": 487,
+  "en": "Lost Reasons",
+  "ar": "أسباب الضياع ",
+  "enPath": "CRM/Configuration/Pipeline/Lost Reasons",
+  "arPath": "إدارة علاقات العملاء /التهيئة /مخطط سير العمل /أسباب الضياع "
+ },
+ {
+  "id": 649,
+  "en": "Combo Choices",
+  "ar": "خيارات التركيبات ",
+  "enPath": "Website/eCommerce/Products/Combo Choices",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/المنتجات/خيارات التركيبات "
+ },
+ {
+  "id": 704,
+  "en": "Contracts",
+  "ar": "العقود",
+  "enPath": "Employees/Employees/Contracts",
+  "arPath": "الموظفون/الموظفون/العقود"
+ },
+ {
+  "id": 856,
+  "en": "Room Definations",
+  "ar": "تعريفات الغرف",
+  "enPath": "Hotel Management/Configuration/Room Definations",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الغرف"
+ },
+ {
+  "id": 188,
+  "en": "Multi-Ledger",
+  "ar": "دفتر الأستاذ المتعدد ",
+  "enPath": "Accounting/Configuration/Accounting/Multi-Ledger",
+  "arPath": "المحاسبة /التهيئة /المحاسبة /دفتر الأستاذ المتعدد "
+ },
+ {
+  "id": 293,
+  "en": "Departure Reasons",
+  "ar": "أسباب المغادرة ",
+  "enPath": "Employees/Configuration/Employee/Departure Reasons",
+  "arPath": "الموظفون/التهيئة /الموظف/أسباب المغادرة "
+ },
+ {
+  "id": 308,
+  "en": "Skill Types",
+  "ar": "أنواع المهارات ",
+  "enPath": "Employees/Configuration/Employee/Skill Types",
+  "arPath": "الموظفون/التهيئة /الموظف/أنواع المهارات "
+ },
+ {
+  "id": 857,
+  "en": "Room Categories",
+  "ar": "فئات الغرف",
+  "enPath": "Hotel Management/Configuration/Room Definations/Room Categories",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الغرف/فئات الغرف"
+ },
+ {
+  "id": 221,
+  "en": "Putaway Rules",
+  "ar": "قواعد التخزين ",
+  "enPath": "Inventory/Configuration/Warehouse Management/Putaway Rules",
+  "arPath": "المخزون والمستودعات/التهيئة /إدارة المخازن و المستودعات/قواعد التخزين "
+ },
+ {
+  "id": 480,
+  "en": "Activities",
+  "ar": "الأنشطة",
+  "enPath": "CRM/Configuration/Activities",
+  "arPath": "إدارة علاقات العملاء /التهيئة /الأنشطة"
+ },
+ {
+  "id": 861,
+  "en": "Services",
+  "ar": "الخدمات",
+  "enPath": "Hotel Management/Configuration/Service Definations/Services",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الخدمات/الخدمات"
+ },
+ {
+  "id": 871,
+  "en": "Activities",
+  "ar": "الأنشطة",
+  "enPath": "Hotel Management/Configuration/Activity Definations/Activities",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الأنشطة/الأنشطة"
+ },
+ {
+  "id": 877,
+  "en": "Food Items",
+  "ar": "الأصناف الغذائية",
+  "enPath": "Hotel Management/Configuration/FoodItem Definations/Food Items",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الأصناف الغذائية/الأصناف الغذائية"
+ },
+ {
+  "id": 288,
+  "en": "Activity Plan",
+  "ar": "خطة النشاط ",
+  "enPath": "Employees/Configuration/Activity Plan",
+  "arPath": "الموظفون/التهيئة /خطة النشاط "
+ },
+ {
+  "id": 622,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "eLearning/Reporting",
+  "arPath": "التعلم الإلكتروني /إعداد التقارير "
+ },
+ {
+  "id": 859,
+  "en": "Service Definations",
+  "ar": "تعريفات الخدمات",
+  "enPath": "Hotel Management/Configuration/Service Definations",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الخدمات"
+ },
+ {
+  "id": 869,
+  "en": "Activity Definations",
+  "ar": "تعريفات الأنشطة",
+  "enPath": "Hotel Management/Configuration/Activity Definations",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الأنشطة"
+ },
+ {
+  "id": 870,
+  "en": "Activity Categories",
+  "ar": "فئات الأنشطة",
+  "enPath": "Hotel Management/Configuration/Activity Definations/Activity Categories",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الأنشطة/فئات الأنشطة"
+ },
+ {
+  "id": 875,
+  "en": "FoodItem Definations",
+  "ar": "تعريفات الأصناف الغذائية",
+  "enPath": "Hotel Management/Configuration/FoodItem Definations",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الأصناف الغذائية"
+ },
+ {
+  "id": 876,
+  "en": "FoodItem Categories",
+  "ar": "فئات الأصناف الغذائية",
+  "enPath": "Hotel Management/Configuration/FoodItem Definations/FoodItem Categories",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الأصناف الغذائية/فئات الأصناف الغذائية"
+ },
+ {
+  "id": 9,
+  "en": "User Interface",
+  "ar": "واجهة المستخدم",
+  "enPath": "Settings/Technical/User Interface",
+  "arPath": "الإعدادات/تقني/واجهة المستخدم"
+ },
+ {
+  "id": 11,
+  "en": "Database Structure",
+  "ar": "هيكل قاعدة البيانات",
+  "enPath": "Settings/Technical/Database Structure",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات"
+ },
+ {
+  "id": 12,
+  "en": "Automation",
+  "ar": "تشغيل تلقائي",
+  "enPath": "Settings/Technical/Automation",
+  "arPath": "الإعدادات/تقني/تشغيل تلقائي"
+ },
+ {
+  "id": 17,
+  "en": "Decimal Accuracy",
+  "ar": "الدقة العشرية ",
+  "enPath": "Settings/Technical/Database Structure/Decimal Accuracy",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات/الدقة العشرية "
+ },
+ {
+  "id": 19,
+  "en": "Actions",
+  "ar": "الإجراءات",
+  "enPath": "Settings/Technical/Actions/Actions",
+  "arPath": "الإعدادات/تقني/الإجراءات/الإجراءات"
+ },
+ {
+  "id": 20,
+  "en": "Reports",
+  "ar": "التقارير",
+  "enPath": "Settings/Technical/Actions/Reports",
+  "arPath": "الإعدادات/تقني/الإجراءات/التقارير"
+ },
+ {
+  "id": 21,
+  "en": "Window Actions",
+  "ar": "إجراءات النافذة",
+  "enPath": "Settings/Technical/Actions/Window Actions",
+  "arPath": "الإعدادات/تقني/الإجراءات/إجراءات النافذة"
+ },
+ {
+  "id": 22,
+  "en": "Client Actions",
+  "ar": "إجراءات العميل ",
+  "enPath": "Settings/Technical/Actions/Client Actions",
+  "arPath": "الإعدادات/تقني/الإجراءات/إجراءات العميل "
+ },
+ {
+  "id": 23,
+  "en": "Server Actions",
+  "ar": "إجراءات الخادم ",
+  "enPath": "Settings/Technical/Actions/Server Actions",
+  "arPath": "الإعدادات/تقني/الإجراءات/إجراءات الخادم "
+ },
+ {
+  "id": 24,
+  "en": "Embedded Actions",
+  "ar": "الإجراءات المضمنة ",
+  "enPath": "Settings/Technical/Actions/Embedded Actions",
+  "arPath": "الإعدادات/تقني/الإجراءات/الإجراءات المضمنة "
+ },
+ {
+  "id": 25,
+  "en": "Configuration Wizards",
+  "ar": "معالِجات التهيئة ",
+  "enPath": "Settings/Technical/Actions/Configuration Wizards",
+  "arPath": "الإعدادات/تقني/الإجراءات/معالِجات التهيئة "
+ },
+ {
+  "id": 26,
+  "en": "Assets",
+  "ar": "أصول ",
+  "enPath": "Settings/Technical/Database Structure/Assets",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات/أصول "
+ },
+ {
+  "id": 27,
+  "en": "System Parameters",
+  "ar": "معايير النظام ",
+  "enPath": "Settings/Technical/Parameters/System Parameters",
+  "arPath": "الإعدادات/تقني/المعايير /معايير النظام "
+ },
+ {
+  "id": 32,
+  "en": "Models",
+  "ar": "النماذج",
+  "enPath": "Settings/Technical/Database Structure/Models",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات/النماذج"
+ },
+ {
+  "id": 33,
+  "en": "Fields",
+  "ar": "الحقول",
+  "enPath": "Settings/Technical/Database Structure/Fields",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات/الحقول"
+ },
+ {
+  "id": 34,
+  "en": "Fields Selection",
+  "ar": "اختيار الحقول",
+  "enPath": "Settings/Technical/Database Structure/Fields Selection",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات/اختيار الحقول"
+ },
+ {
+  "id": 39,
+  "en": "Access Rights",
+  "ar": "صلاحيات الوصول",
+  "enPath": "Settings/Technical/Security/Access Rights",
+  "arPath": "الإعدادات/تقني/الأمن/صلاحيات الوصول"
+ },
+ {
+  "id": 40,
+  "en": "Attachments",
+  "ar": "المرفقات ",
+  "enPath": "Settings/Technical/Database Structure/Attachments",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات/المرفقات "
+ },
+ {
+  "id": 42,
+  "en": "Sequences",
+  "ar": "التسلسلات ",
+  "enPath": "Settings/Technical/Sequences & Identifiers/Sequences",
+  "arPath": "الإعدادات/تقني/التسلسلات والمُعرّفات /التسلسلات "
+ },
+ {
+  "id": 46,
+  "en": "User-defined Defaults",
+  "ar": "القيم الافتراضية التي يحددها المستخدم",
+  "enPath": "Settings/Technical/Actions/User-defined Defaults",
+  "arPath": "الإعدادات/تقني/الإجراءات/القيم الافتراضية التي يحددها المستخدم"
+ },
+ {
+  "id": 47,
+  "en": "Logging",
+  "ar": "تسجيل",
+  "enPath": "Settings/Technical/Database Structure/Logging",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات/تسجيل"
+ },
+ {
+  "id": 52,
+  "en": "Theme Store",
+  "ar": "متجر السمات ",
+  "enPath": "Apps/Apps/Theme Store",
+  "arPath": "التطبيقات /التطبيقات /متجر السمات "
+ },
+ {
+  "id": 54,
+  "en": "Import Translation",
+  "ar": "استيراد ترجمة",
+  "enPath": "Settings/Translations/Import / Export/Import Translation",
+  "arPath": "الإعدادات/الترجمات/استيراد / تصدير/استيراد ترجمة"
+ },
+ {
+  "id": 56,
+  "en": "Export Translation",
+  "ar": "تصدير ترجمة",
+  "enPath": "Settings/Translations/Import / Export/Export Translation",
+  "arPath": "الإعدادات/الترجمات/استيراد / تصدير/تصدير ترجمة"
+ },
+ {
+  "id": 57,
+  "en": "Profiling",
+  "ar": "التحليل ",
+  "enPath": "Settings/Technical/Database Structure/Profiling",
+  "arPath": "الإعدادات/تقني/هيكل قاعدة البيانات/التحليل "
+ },
+ {
+  "id": 58,
+  "en": "Companies",
+  "ar": "الشركات",
+  "enPath": "Settings/Users & Companies/Companies",
+  "arPath": "الإعدادات/المستخدمون والشركات /الشركات"
+ },
+ {
+  "id": 62,
+  "en": "User Devices",
+  "ar": "أجهزة المستخدم ",
+  "enPath": "Settings/Technical/Security/User Devices",
+  "arPath": "الإعدادات/تقني/الأمن/أجهزة المستخدم "
+ },
+ {
+  "id": 70,
+  "en": "IAP Accounts",
+  "ar": "حسابات IAP",
+  "enPath": "Settings/Technical/IAP/IAP Accounts",
+  "arPath": "الإعدادات/تقني/الوكيل المدرك للهوية (IAP) /حسابات IAP"
+ },
+ {
+  "id": 89,
+  "en": "Email Templates",
+  "ar": "قوالب البريد الإلكتروني ",
+  "enPath": "Settings/Technical/Email/Email Templates",
+  "arPath": "الإعدادات/تقني/البريد الإلكتروني/قوالب البريد الإلكتروني "
+ },
+ {
+  "id": 109,
+  "en": "Activity Overview",
+  "ar": "نظرة عامة على النشاط ",
+  "enPath": "Settings/Technical/Activities/Activity Overview",
+  "arPath": "الإعدادات/تقني/الأنشطة/نظرة عامة على النشاط "
+ },
+ {
+  "id": 123,
+  "en": "Site",
+  "ar": "الموقع ",
+  "enPath": "Website/Site",
+  "arPath": "الموقع الإلكتروني/الموقع "
+ },
+ {
+  "id": 124,
+  "en": "Homepage",
+  "ar": "الصفحة الرئيسية",
+  "enPath": "Website/Site/Homepage",
+  "arPath": "الموقع الإلكتروني/الموقع /الصفحة الرئيسية"
+ },
+ {
+  "id": 128,
+  "en": "Properties",
+  "ar": "الخصائص ",
+  "enPath": "Website/Site/This page/Properties",
+  "arPath": "الموقع الإلكتروني/الموقع /هذه الصفحة /الخصائص "
+ },
+ {
+  "id": 134,
+  "en": "Analytics",
+  "ar": "التحليلات",
+  "enPath": "Website/Reporting/Analytics",
+  "arPath": "الموقع الإلكتروني/إعداد التقارير /التحليلات"
+ },
+ {
+  "id": 135,
+  "en": "Pages",
+  "ar": "الصفحات ",
+  "enPath": "Website/Site/Content/Pages",
+  "arPath": "الموقع الإلكتروني/الموقع /المحتوى/الصفحات "
+ },
+ {
+  "id": 140,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Website/Configuration/Settings",
+  "arPath": "الموقع الإلكتروني/التهيئة /الإعدادات"
+ },
+ {
+  "id": 165,
+  "en": "Journal Items",
+  "ar": "عناصر اليومية",
+  "enPath": "Accounting/Accounting/Journal Items",
+  "arPath": "المحاسبة /المحاسبة /عناصر اليومية"
+ },
+ {
+  "id": 171,
+  "en": "Analytic Report",
+  "ar": "تقرير تحليلي",
+  "enPath": "Accounting/Reporting/Management/Analytic Report",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/تقرير تحليلي"
+ },
+ {
+  "id": 199,
+  "en": "Audit Trail",
+  "ar": "سجل المراجعة ",
+  "enPath": "Accounting/Reporting/Management/Audit Trail",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/سجل المراجعة "
+ },
+ {
+  "id": 203,
+  "en": "Dashboards",
+  "ar": "لوحات البيانات ",
+  "enPath": "Dashboards/Configuration/Dashboards",
+  "arPath": "لوحات البيانات /التهيئة /لوحات البيانات "
+ },
+ {
+  "id": 224,
+  "en": "Physical Inventory",
+  "ar": "الجرد المادي ",
+  "enPath": "Inventory/Operations/Adjustments/Physical Inventory",
+  "arPath": "المخزون والمستودعات/العمليات/التعديلات/الجرد المادي "
+ },
+ {
+  "id": 237,
+  "en": "Product Packagings",
+  "ar": "تعبئات المنتج ",
+  "enPath": "Inventory/Configuration/Products/Product Packagings",
+  "arPath": "المخزون والمستودعات/التهيئة /المنتجات/تعبئات المنتج "
+ },
+ {
+  "id": 247,
+  "en": "Package Types",
+  "ar": "أنواع الطرود ",
+  "enPath": "Inventory/Configuration/Delivery/Package Types",
+  "arPath": "المخزون والمستودعات/التهيئة /التوصيل /أنواع الطرود "
+ },
+ {
+  "id": 248,
+  "en": "Payment Providers",
+  "ar": "مزودي الدفع ",
+  "enPath": "Accounting/Configuration/Online Payments/Payment Providers",
+  "arPath": "المحاسبة /التهيئة /المدفوعات عبر الإنترنت /مزودي الدفع "
+ },
+ {
+  "id": 254,
+  "en": "Orders",
+  "ar": "الطلبات ",
+  "enPath": "Point of Sale/Orders",
+  "arPath": "نقطة البيع/الطلبات "
+ },
+ {
+  "id": 263,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Point of Sale/Products",
+  "arPath": "نقطة البيع/المنتجات"
+ },
+ {
+  "id": 274,
+  "en": "Point of Sales",
+  "ar": "نقاط البيع",
+  "enPath": "Point of Sale/Configuration/Point of Sales",
+  "arPath": "نقطة البيع/التهيئة /نقاط البيع"
+ },
+ {
+  "id": 289,
+  "en": "Employee",
+  "ar": "الموظف",
+  "enPath": "Employees/Configuration/Employee",
+  "arPath": "الموظفون/التهيئة /الموظف"
+ },
+ {
+  "id": 290,
+  "en": "Departments",
+  "ar": "الأقسام",
+  "enPath": "Employees/Departments",
+  "arPath": "الموظفون/الأقسام"
+ },
+ {
+  "id": 300,
+  "en": "Kiosk Mode",
+  "ar": "وضع الكشك",
+  "enPath": "Attendances/Kiosk Mode",
+  "arPath": "الحضور/وضع الكشك"
+ },
+ {
+  "id": 338,
+  "en": "Budget Report",
+  "ar": "تقرير الميزانية ",
+  "enPath": "Accounting/Reporting/Management/Budget Report",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/تقرير الميزانية "
+ },
+ {
+  "id": 339,
+  "en": "Partner Ledger",
+  "ar": "دفتر الأستاذ العام للشركاء",
+  "enPath": "Accounting/Reporting/Partner Reports/Partner Ledger",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير الشركاء/دفتر الأستاذ العام للشركاء"
+ },
+ {
+  "id": 340,
+  "en": "Aged Receivable",
+  "ar": "المتأخر المدين",
+  "enPath": "Accounting/Reporting/Partner Reports/Aged Receivable",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير الشركاء/المتأخر المدين"
+ },
+ {
+  "id": 341,
+  "en": "Aged Payable",
+  "ar": "حسابات دائنة مستحقة متأخرة ",
+  "enPath": "Accounting/Reporting/Partner Reports/Aged Payable",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير الشركاء/حسابات دائنة مستحقة متأخرة "
+ },
+ {
+  "id": 343,
+  "en": "General Ledger",
+  "ar": "دفتر الأستاذ العام",
+  "enPath": "Accounting/Reporting/Audit Reports/General Ledger",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير التدقيق/دفتر الأستاذ العام"
+ },
+ {
+  "id": 344,
+  "en": "Trial Balance",
+  "ar": "ميزان المراجعة",
+  "enPath": "Accounting/Reporting/Audit Reports/Trial Balance",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير التدقيق/ميزان المراجعة"
+ },
+ {
+  "id": 345,
+  "en": "Journal Audit",
+  "ar": "تدقيق دفتر اليومية ",
+  "enPath": "Accounting/Reporting/Audit Reports/Journal Audit",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير التدقيق/تدقيق دفتر اليومية "
+ },
+ {
+  "id": 348,
+  "en": "Unrealized Currency Gains/Losses",
+  "ar": "الأرباح/الخسائر غير المُدرَكة للعملة ",
+  "enPath": "Accounting/Reporting/Management/Unrealized Currency Gains/Losses",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/الأرباح/الخسائر غير المُدرَكة للعملة "
+ },
+ {
+  "id": 349,
+  "en": "Balance Sheet",
+  "ar": "الميزانية العمومية",
+  "enPath": "Accounting/Reporting/Statement Reports/Balance Sheet",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير كشف الحساب /الميزانية العمومية"
+ },
+ {
+  "id": 350,
+  "en": "Profit and Loss",
+  "ar": "الربح والخسارة ",
+  "enPath": "Accounting/Reporting/Statement Reports/Profit and Loss",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير كشف الحساب /الربح والخسارة "
+ },
+ {
+  "id": 351,
+  "en": "Cash Flow Statement",
+  "ar": "كشف التدفقات النقدية",
+  "enPath": "Accounting/Reporting/Statement Reports/Cash Flow Statement",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير كشف الحساب /كشف التدفقات النقدية"
+ },
+ {
+  "id": 352,
+  "en": "Executive Summary",
+  "ar": "الملخص التنفيذي",
+  "enPath": "Accounting/Reporting/Statement Reports/Executive Summary",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير كشف الحساب /الملخص التنفيذي"
+ },
+ {
+  "id": 353,
+  "en": "Deferred Revenue",
+  "ar": "الإيرادات المؤجلة ",
+  "enPath": "Accounting/Reporting/Management/Deferred Revenue",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/الإيرادات المؤجلة "
+ },
+ {
+  "id": 354,
+  "en": "Deferred Expense",
+  "ar": "النفقات المؤجلة ",
+  "enPath": "Accounting/Reporting/Management/Deferred Expense",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/النفقات المؤجلة "
+ },
+ {
+  "id": 362,
+  "en": "Depreciation Schedule",
+  "ar": "جدول الإهلاك ",
+  "enPath": "Accounting/Reporting/Management/Depreciation Schedule",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/جدول الإهلاك "
+ },
+ {
+  "id": 363,
+  "en": "Disallowed Expenses Categories",
+  "ar": "فئات النفقات غير المسموح بها ",
+  "enPath": "Accounting/Configuration/Management/Disallowed Expenses Categories",
+  "arPath": "المحاسبة /التهيئة /الإدارة/فئات النفقات غير المسموح بها "
+ },
+ {
+  "id": 364,
+  "en": "Disallowed Expenses",
+  "ar": "النفقات غير المسموح بها ",
+  "enPath": "Accounting/Reporting/Management/Disallowed Expenses",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/النفقات غير المسموح بها "
+ },
+ {
+  "id": 367,
+  "en": "Loans Analysis",
+  "ar": "تحليل القروض ",
+  "enPath": "Accounting/Reporting/Management/Loans Analysis",
+  "arPath": "المحاسبة /إعداد التقارير /الإدارة/تحليل القروض "
+ },
+ {
+  "id": 369,
+  "en": "Orders",
+  "ar": "الطلبات ",
+  "enPath": "Sales/Orders",
+  "arPath": "المبيعات/الطلبات "
+ },
+ {
+  "id": 370,
+  "en": "Quotations",
+  "ar": "عروض الأسعار",
+  "enPath": "Sales/Orders/Quotations",
+  "arPath": "المبيعات/الطلبات /عروض الأسعار"
+ },
+ {
+  "id": 375,
+  "en": "Orders to Invoice",
+  "ar": "الطلبات بانتظار الفوترة ",
+  "enPath": "Sales/To Invoice/Orders to Invoice",
+  "arPath": "المبيعات/بانتظار الفوترة/الطلبات بانتظار الفوترة "
+ },
+ {
+  "id": 378,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Sales/Products/Products",
+  "arPath": "المبيعات/المنتجات/المنتجات"
+ },
+ {
+  "id": 382,
+  "en": "Sales",
+  "ar": "المبيعات",
+  "enPath": "Sales/Reporting/Sales",
+  "arPath": "المبيعات/إعداد التقارير /المبيعات"
+ },
+ {
+  "id": 387,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Sales/Configuration/Settings",
+  "arPath": "المبيعات/التهيئة /الإعدادات"
+ },
+ {
+  "id": 390,
+  "en": "Tags",
+  "ar": "علامات التصنيف ",
+  "enPath": "Sales/Configuration/Sales Orders/Tags",
+  "arPath": "المبيعات/التهيئة /أوامر البيع/علامات التصنيف "
+ },
+ {
+  "id": 397,
+  "en": "Payment Providers",
+  "ar": "مزودي الدفع ",
+  "enPath": "Sales/Configuration/Online Payments/Payment Providers",
+  "arPath": "المبيعات/التهيئة /المدفوعات عبر الإنترنت /مزودي الدفع "
+ },
+ {
+  "id": 422,
+  "en": "Calendar",
+  "ar": "التقويم",
+  "enPath": "Calendar",
+  "arPath": "التقويم"
+ },
+ {
+  "id": 445,
+  "en": "Goals",
+  "ar": "الأهداف",
+  "enPath": "Settings/Gamification Tools/Goals",
+  "arPath": "الإعدادات/أدوات التلعيب /الأهداف"
+ },
+ {
+  "id": 481,
+  "en": "Activity Types",
+  "ar": "أنواع الأنشطة ",
+  "enPath": "CRM/Configuration/Activities/Activity Types",
+  "arPath": "إدارة علاقات العملاء /التهيئة /الأنشطة/أنواع الأنشطة "
+ },
+ {
+  "id": 502,
+  "en": "Link Tracker",
+  "ar": "متتبع الرابط",
+  "enPath": "Email Marketing/Configuration/Link Tracker",
+  "arPath": "التسويق بالبريد الإلكتروني/التهيئة /متتبع الرابط"
+ },
+ {
+  "id": 515,
+  "en": "Tasks Analysis",
+  "ar": "تحليل المهام",
+  "enPath": "Project/Reporting/Tasks Analysis",
+  "arPath": "إدارة المشاريع/إعداد التقارير /تحليل المهام"
+ },
+ {
+  "id": 523,
+  "en": "Tags",
+  "ar": "علامات التصنيف ",
+  "enPath": "Project/Configuration/Tags",
+  "arPath": "إدارة المشاريع/التهيئة /علامات التصنيف "
+ },
+ {
+  "id": 524,
+  "en": "Activity Types",
+  "ar": "أنواع الأنشطة ",
+  "enPath": "Project/Configuration/Activity Types",
+  "arPath": "إدارة المشاريع/التهيئة /أنواع الأنشطة "
+ },
+ {
+  "id": 525,
+  "en": "Activity Plans",
+  "ar": "خطط النشاط ",
+  "enPath": "Project/Configuration/Activity Plans",
+  "arPath": "إدارة المشاريع/التهيئة /خطط النشاط "
+ },
+ {
+  "id": 526,
+  "en": "Lead Generation",
+  "ar": "إنشاء العملاء المهتمين ",
+  "enPath": "Events/Configuration/Lead Generation",
+  "arPath": "الفعاليات/التهيئة /إنشاء العملاء المهتمين "
+ },
+ {
+  "id": 535,
+  "en": "Expense Categories",
+  "ar": "فئات النفقة",
+  "enPath": "Expenses/Configuration/Expense Categories",
+  "arPath": "المصاريف والعهد/التهيئة /فئات النفقة"
+ },
+ {
+  "id": 540,
+  "en": "Badges",
+  "ar": "الشارات",
+  "enPath": "Employees/Configuration/Challenges/Badges",
+  "arPath": "الموظفون/التهيئة /التحديات/الشارات"
+ },
+ {
+  "id": 541,
+  "en": "Challenges",
+  "ar": "التحديات",
+  "enPath": "Employees/Configuration/Challenges/Challenges",
+  "arPath": "الموظفون/التهيئة /التحديات/التحديات"
+ },
+ {
+  "id": 542,
+  "en": "Goals History",
+  "ar": "سجل الأهداف ",
+  "enPath": "Employees/Configuration/Challenges/Goals History",
+  "arPath": "الموظفون/التهيئة /التحديات/سجل الأهداف "
+ },
+ {
+  "id": 572,
+  "en": "Job Positions",
+  "ar": "المناصب الوظيفية",
+  "enPath": "Recruitment/Configuration/Job Positions",
+  "arPath": "التوظيف/التهيئة /المناصب الوظيفية"
+ },
+ {
+  "id": 580,
+  "en": "Refuse Reasons",
+  "ar": "أسباب الرفض ",
+  "enPath": "Recruitment/Configuration/Applications/Refuse Reasons",
+  "arPath": "التوظيف/التهيئة /التطبيقات /أسباب الرفض "
+ },
+ {
+  "id": 583,
+  "en": "Departments",
+  "ar": "الأقسام",
+  "enPath": "Recruitment/Configuration/Employees/Departments",
+  "arPath": "التوظيف/التهيئة /الموظفون/الأقسام"
+ },
+ {
+  "id": 585,
+  "en": "Activity Types",
+  "ar": "أنواع الأنشطة ",
+  "enPath": "Recruitment/Configuration/Activities/Activity Types",
+  "arPath": "التوظيف/التهيئة /الأنشطة/أنواع الأنشطة "
+ },
+ {
+  "id": 590,
+  "en": "Operations",
+  "ar": "العمليات",
+  "enPath": "Manufacturing/Operations",
+  "arPath": "التصنيع/العمليات"
+ },
+ {
+  "id": 610,
+  "en": "To-do",
+  "ar": "المهام المراد تنفيذها",
+  "enPath": "To-do",
+  "arPath": "المهام المراد تنفيذها"
+ },
+ {
+  "id": 629,
+  "en": "Reviews",
+  "ar": "التقييمات ",
+  "enPath": "eLearning/Reporting/Reviews",
+  "arPath": "التعلم الإلكتروني /إعداد التقارير /التقييمات "
+ },
+ {
+  "id": 650,
+  "en": "Product Tags",
+  "ar": "علامات تصنيف المنتج ",
+  "enPath": "Website/eCommerce/Products/Product Tags",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/المنتجات/علامات تصنيف المنتج "
+ },
+ {
+  "id": 651,
+  "en": "Product Ribbons",
+  "ar": "شرائط المنتجات ",
+  "enPath": "Website/eCommerce/Products/Product Ribbons",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/المنتجات/شرائط المنتجات "
+ },
+ {
+  "id": 653,
+  "en": "Payment Providers",
+  "ar": "مزودي الدفع ",
+  "enPath": "Website/Configuration/eCommerce/Payment Providers",
+  "arPath": "الموقع الإلكتروني/التهيئة /المتجر الإلكتروني/مزودي الدفع "
+ },
+ {
+  "id": 661,
+  "en": "Floor Plans",
+  "ar": "مخططات الطابق",
+  "enPath": "Point of Sale/Configuration/Floor Plans",
+  "arPath": "نقطة البيع/التهيئة /مخططات الطابق"
+ },
+ {
+  "id": 666,
+  "en": "Intrastat Report",
+  "ar": "تقرير نظام الإحصاءات البيئية الأوروبية ",
+  "enPath": "Accounting/Reporting/Audit Reports/Intrastat Report",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير التدقيق/تقرير نظام الإحصاءات البيئية الأوروبية "
+ },
+ {
+  "id": 677,
+  "en": "Maintenance Requests",
+  "ar": "طلبات الصيانة",
+  "enPath": "Maintenance/Reporting/Maintenance Requests",
+  "arPath": "الصيانة/إعداد التقارير /طلبات الصيانة"
+ },
+ {
+  "id": 720,
+  "en": "Models",
+  "ar": "النماذج",
+  "enPath": "Fleet/Configuration/Models",
+  "arPath": "الأسطول/التهيئة /النماذج"
+ },
+ {
+  "id": 723,
+  "en": "Categories",
+  "ar": "الفئات",
+  "enPath": "Fleet/Configuration/Models/Categories",
+  "arPath": "الأسطول/التهيئة /النماذج/الفئات"
+ },
+ {
+  "id": 726,
+  "en": "Odometers",
+  "ar": "عدادات السرعة ",
+  "enPath": "Fleet/Fleet/Odometers",
+  "arPath": "الأسطول/الأسطول/عدادات السرعة "
+ },
+ {
+  "id": 771,
+  "en": "Franchise",
+  "ar": "الامتياز التجاري",
+  "enPath": "Franchise Management/Franchise",
+  "arPath": "إدارة الامتياز التجاري/الامتياز التجاري"
+ },
+ {
+  "id": 772,
+  "en": "Applications",
+  "ar": "المتقدمين",
+  "enPath": "Franchise Management/Franchise/Applications",
+  "arPath": "إدارة الامتياز التجاري/الامتياز التجاري/المتقدمين"
+ },
+ {
+  "id": 780,
+  "en": "Royalty Invoices",
+  "ar": "فواتير الإتاوة",
+  "enPath": "Franchise Management/Finance/Royalty Invoices",
+  "arPath": "إدارة الامتياز التجاري/المالية/فواتير الإتاوة"
+ },
+ {
+  "id": 782,
+  "en": "Audits",
+  "ar": "عمليات التدقيق",
+  "enPath": "Franchise Management/Compliance & Training/Audits",
+  "arPath": "إدارة الامتياز التجاري/الامتثال والتدريب/عمليات التدقيق"
+ },
+ {
+  "id": 786,
+  "en": "Agreements Analysis",
+  "ar": "تحليل الاتفاقيات",
+  "enPath": "Franchise Management/Reporting/Agreements Analysis",
+  "arPath": "إدارة الامتياز التجاري/التقارير/تحليل الاتفاقيات"
+ },
+ {
+  "id": 792,
+  "en": "Franchise Plans",
+  "ar": "خطط الامتياز",
+  "enPath": "Franchise Management/Configuration/Franchise Plans",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/خطط الامتياز"
+ },
+ {
+  "id": 803,
+  "en": "Discount & Loyalty",
+  "ar": "الخصم والولاء ",
+  "enPath": "Website/eCommerce/Loyalty/Discount & Loyalty",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/الولاء /الخصم والولاء "
+ },
+ {
+  "id": 804,
+  "en": "Gift cards & eWallet",
+  "ar": "بطاقات الهدايا والمحفظة الإلكترونية ",
+  "enPath": "Website/eCommerce/Loyalty/Gift cards & eWallet",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني/الولاء /بطاقات الهدايا والمحفظة الإلكترونية "
+ },
+ {
+  "id": 806,
+  "en": "Payroll",
+  "ar": "الرواتب",
+  "enPath": "Jawab Payroll/Payroll",
+  "arPath": "رواتب Jawab/الرواتب"
+ },
+ {
+  "id": 807,
+  "en": "Payslips",
+  "ar": "قسائم الرواتب",
+  "enPath": "Jawab Payroll/Payroll/Payslips",
+  "arPath": "رواتب Jawab/الرواتب/قسائم الرواتب"
+ },
+ {
+  "id": 812,
+  "en": "Employees",
+  "ar": "الموظفون",
+  "enPath": "Jawab Payroll/Employees/Employees",
+  "arPath": "رواتب Jawab/الموظفون/الموظفون"
+ },
+ {
+  "id": 817,
+  "en": "All Loans",
+  "ar": "جميع القروض",
+  "enPath": "Jawab Payroll/Loans/All Loans",
+  "arPath": "رواتب Jawab/القروض/جميع القروض"
+ },
+ {
+  "id": 819,
+  "en": "All Documents",
+  "ar": "جميع المستندات",
+  "enPath": "Jawab Payroll/Documents/All Documents",
+  "arPath": "رواتب Jawab/المستندات/جميع المستندات"
+ },
+ {
+  "id": 822,
+  "en": "Warnings",
+  "ar": "الإنذارات",
+  "enPath": "Jawab Payroll/Discipline/Warnings",
+  "arPath": "رواتب Jawab/الشؤون التأديبية/الإنذارات"
+ },
+ {
+  "id": 824,
+  "en": "Asset Allocations",
+  "ar": "تسليم العهد",
+  "enPath": "Jawab Payroll/Assets/Asset Allocations",
+  "arPath": "رواتب Jawab/العهد/تسليم العهد"
+ },
+ {
+  "id": 826,
+  "en": "Attendances",
+  "ar": "سجلات الحضور",
+  "enPath": "Jawab Payroll/Attendance/Attendances",
+  "arPath": "رواتب Jawab/الحضور/سجلات الحضور"
+ },
+ {
+  "id": 829,
+  "en": "Payslip Lines",
+  "ar": "بنود قسائم الرواتب",
+  "enPath": "Jawab Payroll/Reporting/Payslip Lines",
+  "arPath": "رواتب Jawab/التقارير/بنود قسائم الرواتب"
+ },
+ {
+  "id": 832,
+  "en": "Salary Structures",
+  "ar": "هياكل الرواتب",
+  "enPath": "Jawab Payroll/Configuration/Salary Structures",
+  "arPath": "رواتب Jawab/التهيئة/هياكل الرواتب"
+ },
+ {
+  "id": 842,
+  "en": "Requests",
+  "ar": "الطلبات",
+  "enPath": "Employee Portal/Requests",
+  "arPath": "بوابة الموظف/الطلبات"
+ },
+ {
+  "id": 843,
+  "en": "To Approve",
+  "ar": "بانتظار الموافقة",
+  "enPath": "Employee Portal/Requests/To Approve",
+  "arPath": "بوابة الموظف/الطلبات/بانتظار الموافقة"
+ },
+ {
+  "id": 849,
+  "en": "Hotel Management",
+  "ar": "إدارة الفندق",
+  "enPath": "Hotel Management",
+  "arPath": "إدارة الفندق"
+ },
+ {
+  "id": 860,
+  "en": "Service Categories",
+  "ar": "فئات الخدمات",
+  "enPath": "Hotel Management/Configuration/Service Definations/Service Categories",
+  "arPath": "إدارة الفندق/التهيئة /تعريفات الخدمات/فئات الخدمات"
+ },
+ {
+  "id": 863,
+  "en": "Folio",
+  "ar": "كشف الحساب",
+  "enPath": "Hotel Management/All Folio/Folio",
+  "arPath": "إدارة الفندق/جميع كشوف الحساب/كشف الحساب"
+ },
+ {
+  "id": 865,
+  "en": "Membership Discounts",
+  "ar": "خصومات العضوية",
+  "enPath": "Hotel Management/Configuration/Membership Discounts",
+  "arPath": "إدارة الفندق/التهيئة /خصومات العضوية"
+ },
+ {
+  "id": 866,
+  "en": "Membership Report",
+  "ar": "تقرير العضوية",
+  "enPath": "Hotel Management/Reports/Membership Report",
+  "arPath": "إدارة الفندق/التقارير/تقرير العضوية"
+ },
+ {
+  "id": 868,
+  "en": "New HouseKeeping",
+  "ar": "طلب تدبير فندقي جديد",
+  "enPath": "Hotel Management/Housekeeping/New HouseKeeping",
+  "arPath": "إدارة الفندق/التدبير الفندقي/طلب تدبير فندقي جديد"
+ },
+ {
+  "id": 873,
+  "en": "Tables",
+  "ar": "الطاولات",
+  "enPath": "Hotel Management/Configuration/Tables",
+  "arPath": "إدارة الفندق/التهيئة /الطاولات"
+ },
+ {
+  "id": 879,
+  "en": "Hotel Management",
+  "ar": "إدارة الفندق",
+  "enPath": "Accounting/Dashboard/Hotel Management",
+  "arPath": "المحاسبة /لوحة البيانات /إدارة الفندق"
+ },
+ {
+  "id": 881,
+  "en": "Customer Arrival/ Departure List",
+  "ar": "قائمة وصول ومغادرة العملاء",
+  "enPath": "Hotel Management/Reports/Customer Arrival/ Departure List",
+  "arPath": "إدارة الفندق/التقارير/قائمة وصول ومغادرة العملاء"
+ },
+ {
+  "id": 882,
+  "en": "Room and Guestwise Report",
+  "ar": "تقرير حسب الغرفة والنزيل",
+  "enPath": "Hotel Management/Reports/Room and Guestwise Report",
+  "arPath": "إدارة الفندق/التقارير/تقرير حسب الغرفة والنزيل"
+ },
+ {
+  "id": 883,
+  "en": "Monthly Occupancy Report",
+  "ar": "تقرير الإشغال الشهري",
+  "enPath": "Hotel Management/Reports/Monthly Occupancy Report",
+  "arPath": "إدارة الفندق/التقارير/تقرير الإشغال الشهري"
+ },
+ {
+  "id": 884,
+  "en": "ID Master",
+  "ar": "أنواع الهويات",
+  "enPath": "Hotel Management/Configuration/ID Master",
+  "arPath": "إدارة الفندق/التهيئة /أنواع الهويات"
+ },
+ {
+  "id": 885,
+  "en": "Checkout Policy",
+  "ar": "سياسة المغادرة",
+  "enPath": "Hotel Management/Configuration/Checkout Policy",
+  "arPath": "إدارة الفندق/التهيئة /سياسة المغادرة"
+ },
+ {
+  "id": 894,
+  "en": "Database Configuration",
+  "ar": "إعدادات قاعدة البيانات",
+  "enPath": "Hotel Management/Configuration/Database Configuration",
+  "arPath": "إدارة الفندق/التهيئة /إعدادات قاعدة البيانات"
+ },
+ {
+  "id": 895,
+  "en": "Request for Repair / Replacement",
+  "ar": "طلب إصلاح / استبدال",
+  "enPath": "Hotel Management/Housekeeping/Request for Repair / Replacement",
+  "arPath": "إدارة الفندق/التدبير الفندقي/طلب إصلاح / استبدال"
+ },
+ {
+  "id": 896,
+  "en": "Issue Material",
+  "ar": "صرف المواد",
+  "enPath": "Hotel Management/Housekeeping/Issue Material",
+  "arPath": "إدارة الفندق/التدبير الفندقي/صرف المواد"
+ },
+ {
+  "id": 261,
+  "en": "Note Models",
+  "ar": "نماذج الملاحظات ",
+  "enPath": "Point of Sale/Configuration/Note Models",
+  "arPath": "نقطة البيع/التهيئة /نماذج الملاحظات "
+ },
+ {
+  "id": 357,
+  "en": "Financial Budgets",
+  "ar": "الميزانيات المالية ",
+  "enPath": "Accounting/Configuration/Accounting/Financial Budgets",
+  "arPath": "المحاسبة /التهيئة /المحاسبة /الميزانيات المالية "
+ },
+ {
+  "id": 482,
+  "en": "Activity Plans",
+  "ar": "خطط النشاط ",
+  "enPath": "CRM/Configuration/Activities/Activity Plans",
+  "arPath": "إدارة علاقات العملاء /التهيئة /الأنشطة/خطط النشاط "
+ },
+ {
+  "id": 874,
+  "en": "Table Order",
+  "ar": "طلب الطاولة",
+  "enPath": "Hotel Management/Restaurant/Table Order",
+  "arPath": "إدارة الفندق/مطعم/طلب الطاولة"
+ },
+ {
+  "id": 259,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Point of Sale/Configuration/Products",
+  "arPath": "نقطة البيع/التهيئة /المنتجات"
+ },
+ {
+  "id": 892,
+  "en": "KOT",
+  "ar": "تذكرة طلب المطبخ",
+  "enPath": "Hotel Management/Restaurant/KOT",
+  "arPath": "إدارة الفندق/مطعم/تذكرة طلب المطبخ"
+ },
+ {
+  "id": 600,
+  "en": "Bills of Materials",
+  "ar": "قوائم المواد ",
+  "enPath": "Manufacturing/Products/Bills of Materials",
+  "arPath": "التصنيع/المنتجات/قوائم المواد "
+ },
+ {
+  "id": 893,
+  "en": "BOT",
+  "ar": "تذكرة طلب المشروبات",
+  "enPath": "Hotel Management/Restaurant/BOT",
+  "arPath": "إدارة الفندق/مطعم/تذكرة طلب المشروبات"
+ },
+ {
+  "id": 84,
+  "en": "Canned Responses",
+  "ar": "الردود الجاهزة",
+  "enPath": "Chat/Configuration/Canned Responses",
+  "arPath": "الدردشة/التهيئة /الردود الجاهزة"
+ },
+ {
+  "id": 153,
+  "en": "Payments",
+  "ar": "الدفعات",
+  "enPath": "Accounting/Customers/Payments",
+  "arPath": "المحاسبة /العملاء/الدفعات"
+ },
+ {
+  "id": 249,
+  "en": "Payment Methods",
+  "ar": "طرق الدفع ",
+  "enPath": "Accounting/Configuration/Online Payments/Payment Methods",
+  "arPath": "المحاسبة /التهيئة /المدفوعات عبر الإنترنت /طرق الدفع "
+ },
+ {
+  "id": 266,
+  "en": "Combo Choices",
+  "ar": "خيارات التركيبات ",
+  "enPath": "Point of Sale/Products/Combo Choices",
+  "arPath": "نقطة البيع/المنتجات/خيارات التركيبات "
+ },
+ {
+  "id": 301,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Attendances/Reporting",
+  "arPath": "الحضور/إعداد التقارير "
+ },
+ {
+  "id": 309,
+  "en": "Skills",
+  "ar": "المهارات ",
+  "enPath": "Employees/Reporting/Skills",
+  "arPath": "الموظفون/إعداد التقارير /المهارات "
+ },
+ {
+  "id": 317,
+  "en": "Vendors",
+  "ar": "الموردين",
+  "enPath": "Purchase/Orders/Vendors",
+  "arPath": "المشتريات/الطلبات /الموردين"
+ },
+ {
+  "id": 393,
+  "en": "Combo Choices",
+  "ar": "خيارات التركيبات ",
+  "enPath": "Sales/Configuration/Products/Combo Choices",
+  "arPath": "المبيعات/التهيئة /المنتجات/خيارات التركيبات "
+ },
+ {
+  "id": 484,
+  "en": "Pipeline",
+  "ar": "مخطط سير العمل ",
+  "enPath": "CRM/Configuration/Pipeline",
+  "arPath": "إدارة علاقات العملاء /التهيئة /مخطط سير العمل "
+ },
+ {
+  "id": 551,
+  "en": "Allocations",
+  "ar": "المخصصات",
+  "enPath": "Time Off/Management/Allocations",
+  "arPath": "الإجازات /الإدارة/المخصصات"
+ },
+ {
+  "id": 630,
+  "en": "Quizzes",
+  "ar": "الاختبارات القصيرة ",
+  "enPath": "eLearning/Reporting/Quizzes",
+  "arPath": "التعلم الإلكتروني /إعداد التقارير /الاختبارات القصيرة "
+ },
+ {
+  "id": 846,
+  "en": "Spreadsheets",
+  "ar": "Spreadsheets",
+  "enPath": "Spreadsheets",
+  "arPath": "Spreadsheets"
+ },
+ {
+  "id": 847,
+  "en": "Configuration",
+  "ar": "Configuration",
+  "enPath": "Spreadsheets/Configuration",
+  "arPath": "Spreadsheets/Configuration"
+ },
+ {
+  "id": 848,
+  "en": "Spreadsheets Tags",
+  "ar": "Spreadsheets Tags",
+  "enPath": "Spreadsheets/Configuration/Spreadsheets Tags",
+  "arPath": "Spreadsheets/Configuration/Spreadsheets Tags"
+ },
+ {
+  "id": 887,
+  "en": "All Draft Reservation",
+  "ar": "جميع الحجوزات المسودة",
+  "enPath": "Hotel Management/Reservation/All Draft Reservation",
+  "arPath": "إدارة الفندق/الحجز/جميع الحجوزات المسودة"
+ },
+ {
+  "id": 662,
+  "en": "Batch Payments",
+  "ar": "الدفعات المجمعة ",
+  "enPath": "Accounting/Customers/Batch Payments",
+  "arPath": "المحاسبة /العملاء/الدفعات المجمعة "
+ },
+ {
+  "id": 888,
+  "en": "All Confirm Reservation",
+  "ar": "جميع الحجوزات المؤكدة",
+  "enPath": "Hotel Management/Reservation/All Confirm Reservation",
+  "arPath": "إدارة الفندق/الحجز/جميع الحجوزات المؤكدة"
+ },
+ {
+  "id": 889,
+  "en": "All Done Reservation",
+  "ar": "جميع الحجوزات المنجزة",
+  "enPath": "Hotel Management/Reservation/All Done Reservation",
+  "arPath": "إدارة الفندق/الحجز/جميع الحجوزات المنجزة"
+ },
+ {
+  "id": 51,
+  "en": "Third-Party Apps",
+  "ar": "تطبيقات الطرف الثالث ",
+  "enPath": "Apps/Apps/Third-Party Apps",
+  "arPath": "التطبيقات /التطبيقات /تطبيقات الطرف الثالث "
+ },
+ {
+  "id": 110,
+  "en": "Activity Types",
+  "ar": "أنواع الأنشطة ",
+  "enPath": "Settings/Technical/Activities/Activity Types",
+  "arPath": "الإعدادات/تقني/الأنشطة/أنواع الأنشطة "
+ },
+ {
+  "id": 125,
+  "en": "Menu Editor",
+  "ar": "محرر القائمة ",
+  "enPath": "Website/Site/Menu Editor",
+  "arPath": "الموقع الإلكتروني/الموقع /محرر القائمة "
+ },
+ {
+  "id": 129,
+  "en": "Optimize SEO",
+  "ar": "تحسين محركات البحث",
+  "enPath": "Website/Site/This page/Optimize SEO",
+  "arPath": "الموقع الإلكتروني/الموقع /هذه الصفحة /تحسين محركات البحث"
+ },
+ {
+  "id": 141,
+  "en": "Apps",
+  "ar": "التطبيقات ",
+  "enPath": "Website/Configuration/Apps",
+  "arPath": "الموقع الإلكتروني/التهيئة /التطبيقات "
+ },
+ {
+  "id": 160,
+  "en": "Payments",
+  "ar": "الدفعات",
+  "enPath": "Accounting/Vendors/Payments",
+  "arPath": "المحاسبة /الموردين/الدفعات"
+ },
+ {
+  "id": 167,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Accounting/Reporting",
+  "arPath": "المحاسبة /إعداد التقارير "
+ },
+ {
+  "id": 230,
+  "en": "Receipts",
+  "ar": "الإيصالات",
+  "enPath": "Inventory/Operations/Transfers/Receipts",
+  "arPath": "المخزون والمستودعات/العمليات/التحويلات /الإيصالات"
+ },
+ {
+  "id": 267,
+  "en": "Pricelists",
+  "ar": "قوائم الأسعار",
+  "enPath": "Point of Sale/Products/Pricelists",
+  "arPath": "نقطة البيع/المنتجات/قوائم الأسعار"
+ },
+ {
+  "id": 295,
+  "en": "Recruitment",
+  "ar": "التوظيف",
+  "enPath": "Employees/Configuration/Recruitment",
+  "arPath": "الموظفون/التهيئة /التوظيف"
+ },
+ {
+  "id": 327,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Purchase/Products/Products",
+  "arPath": "المشتريات/المنتجات/المنتجات"
+ },
+ {
+  "id": 371,
+  "en": "Orders",
+  "ar": "الطلبات ",
+  "enPath": "Sales/Orders/Orders",
+  "arPath": "المبيعات/الطلبات /الطلبات "
+ },
+ {
+  "id": 374,
+  "en": "To Invoice",
+  "ar": "بانتظار الفوترة",
+  "enPath": "Sales/To Invoice",
+  "arPath": "المبيعات/بانتظار الفوترة"
+ },
+ {
+  "id": 376,
+  "en": "Orders to Upsell",
+  "ar": "الطلبات المراد الارتقاء بالصفقة فيها ",
+  "enPath": "Sales/To Invoice/Orders to Upsell",
+  "arPath": "المبيعات/بانتظار الفوترة/الطلبات المراد الارتقاء بالصفقة فيها "
+ },
+ {
+  "id": 383,
+  "en": "Salespersons",
+  "ar": "مندوبي المبيعات ",
+  "enPath": "Sales/Reporting/Salespersons",
+  "arPath": "المبيعات/إعداد التقارير /مندوبي المبيعات "
+ },
+ {
+  "id": 388,
+  "en": "Sales Teams",
+  "ar": "فرق المبيعات",
+  "enPath": "Sales/Configuration/Sales Teams",
+  "arPath": "المبيعات/التهيئة /فرق المبيعات"
+ },
+ {
+  "id": 394,
+  "en": "Product Categories",
+  "ar": "فئات المنتجات",
+  "enPath": "Sales/Configuration/Products/Product Categories",
+  "arPath": "المبيعات/التهيئة /المنتجات/فئات المنتجات"
+ },
+ {
+  "id": 398,
+  "en": "Payment Methods",
+  "ar": "طرق الدفع ",
+  "enPath": "Sales/Configuration/Online Payments/Payment Methods",
+  "arPath": "المبيعات/التهيئة /المدفوعات عبر الإنترنت /طرق الدفع "
+ },
+ {
+  "id": 403,
+  "en": "Units of Measure Categories",
+  "ar": "فئات وحدات القياس ",
+  "enPath": "Sales/Configuration/Units of Measure/Units of Measure Categories",
+  "arPath": "المبيعات/التهيئة /وحدات القياس/فئات وحدات القياس "
+ },
+ {
+  "id": 406,
+  "en": "Activity Plans",
+  "ar": "خطط النشاط ",
+  "enPath": "Sales/Configuration/Activities/Activity Plans",
+  "arPath": "المبيعات/التهيئة /الأنشطة/خطط النشاط "
+ },
+ {
+  "id": 430,
+  "en": "Contacts",
+  "ar": "جهات الاتصال",
+  "enPath": "Contacts",
+  "arPath": "جهات الاتصال"
+ },
+ {
+  "id": 446,
+  "en": "Goal Definitions",
+  "ar": "تعريفات الهدف",
+  "enPath": "Settings/Gamification Tools/Goal Definitions",
+  "arPath": "الإعدادات/أدوات التلعيب /تعريفات الهدف"
+ },
+ {
+  "id": 470,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "CRM/Reporting",
+  "arPath": "إدارة علاقات العملاء /إعداد التقارير "
+ },
+ {
+  "id": 503,
+  "en": "Blacklisted Email Addresses",
+  "ar": "عناوين البريد الإلكتروني المدرجة في القائمة السوداء",
+  "enPath": "Email Marketing/Configuration/Blacklisted Email Addresses",
+  "arPath": "التسويق بالبريد الإلكتروني/التهيئة /عناوين البريد الإلكتروني المدرجة في القائمة السوداء"
+ },
+ {
+  "id": 578,
+  "en": "Applications",
+  "ar": "التطبيقات ",
+  "enPath": "Recruitment/Configuration/Applications",
+  "arPath": "التوظيف/التهيئة /التطبيقات "
+ },
+ {
+  "id": 581,
+  "en": "Tags",
+  "ar": "علامات التصنيف ",
+  "enPath": "Recruitment/Configuration/Applications/Tags",
+  "arPath": "التوظيف/التهيئة /التطبيقات /علامات التصنيف "
+ },
+ {
+  "id": 586,
+  "en": "Activity Plans",
+  "ar": "خطط النشاط ",
+  "enPath": "Recruitment/Configuration/Activities/Activity Plans",
+  "arPath": "التوظيف/التهيئة /الأنشطة/خطط النشاط "
+ },
+ {
+  "id": 592,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Manufacturing/Products",
+  "arPath": "التصنيع/المنتجات"
+ },
+ {
+  "id": 608,
+  "en": "Unbuild Orders",
+  "ar": "أوامر التفكيك ",
+  "enPath": "Manufacturing/Operations/Unbuild Orders",
+  "arPath": "التصنيع/العمليات/أوامر التفكيك "
+ },
+ {
+  "id": 612,
+  "en": "Lead Generation",
+  "ar": "إنشاء العملاء المهتمين ",
+  "enPath": "CRM/Configuration/Lead Generation",
+  "arPath": "إدارة علاقات العملاء /التهيئة /إنشاء العملاء المهتمين "
+ },
+ {
+  "id": 638,
+  "en": "eCommerce",
+  "ar": "المتجر الإلكتروني",
+  "enPath": "Website/eCommerce",
+  "arPath": "الموقع الإلكتروني/المتجر الإلكتروني"
+ },
+ {
+  "id": 654,
+  "en": "Payment Methods",
+  "ar": "طرق الدفع ",
+  "enPath": "Website/Configuration/eCommerce/Payment Methods",
+  "arPath": "الموقع الإلكتروني/التهيئة /المتجر الإلكتروني/طرق الدفع "
+ },
+ {
+  "id": 676,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Maintenance/Reporting",
+  "arPath": "الصيانة/إعداد التقارير "
+ },
+ {
+  "id": 691,
+  "en": "Certifications",
+  "ar": "الشهادات",
+  "enPath": "Employees/Reporting/Certifications",
+  "arPath": "الموظفون/إعداد التقارير /الشهادات"
+ },
+ {
+  "id": 773,
+  "en": "Franchisees",
+  "ar": "أصحاب الامتياز",
+  "enPath": "Franchise Management/Franchise/Franchisees",
+  "arPath": "إدارة الامتياز التجاري/الامتياز التجاري/أصحاب الامتياز"
+ },
+ {
+  "id": 779,
+  "en": "Finance",
+  "ar": "المالية",
+  "enPath": "Franchise Management/Finance",
+  "arPath": "إدارة الامتياز التجاري/المالية"
+ },
+ {
+  "id": 783,
+  "en": "Training Enrollments",
+  "ar": "التسجيلات التدريبية",
+  "enPath": "Franchise Management/Compliance & Training/Training Enrollments",
+  "arPath": "إدارة الامتياز التجاري/الامتثال والتدريب/التسجيلات التدريبية"
+ },
+ {
+  "id": 787,
+  "en": "Royalty Analysis",
+  "ar": "تحليل الإتاوات",
+  "enPath": "Franchise Management/Reporting/Royalty Analysis",
+  "arPath": "إدارة الامتياز التجاري/التقارير/تحليل الإتاوات"
+ },
+ {
+  "id": 793,
+  "en": "Audit Categories",
+  "ar": "فئات التدقيق",
+  "enPath": "Franchise Management/Configuration/Audit Categories",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/فئات التدقيق"
+ },
+ {
+  "id": 808,
+  "en": "Payroll Batches",
+  "ar": "دفعات الرواتب",
+  "enPath": "Jawab Payroll/Payroll/Payroll Batches",
+  "arPath": "رواتب Jawab/الرواتب/دفعات الرواتب"
+ },
+ {
+  "id": 811,
+  "en": "Employees",
+  "ar": "الموظفون",
+  "enPath": "Jawab Payroll/Employees",
+  "arPath": "رواتب Jawab/الموظفون"
+ },
+ {
+  "id": 813,
+  "en": "Contracts",
+  "ar": "العقود",
+  "enPath": "Jawab Payroll/Employees/Contracts",
+  "arPath": "رواتب Jawab/الموظفون/العقود"
+ },
+ {
+  "id": 816,
+  "en": "To Approve",
+  "ar": "بانتظار الموافقة",
+  "enPath": "Jawab Payroll/Loans/To Approve",
+  "arPath": "رواتب Jawab/القروض/بانتظار الموافقة"
+ },
+ {
+  "id": 820,
+  "en": "Expiring Soon",
+  "ar": "تنتهي قريبًا",
+  "enPath": "Jawab Payroll/Documents/Expiring Soon",
+  "arPath": "رواتب Jawab/المستندات/تنتهي قريبًا"
+ },
+ {
+  "id": 827,
+  "en": "GPS Work Locations",
+  "ar": "مواقع العمل الجغرافية",
+  "enPath": "Jawab Payroll/Attendance/GPS Work Locations",
+  "arPath": "رواتب Jawab/الحضور/مواقع العمل الجغرافية"
+ },
+ {
+  "id": 833,
+  "en": "Salary Rules",
+  "ar": "قواعد الرواتب",
+  "enPath": "Jawab Payroll/Configuration/Salary Rules",
+  "arPath": "رواتب Jawab/التهيئة/قواعد الرواتب"
+ },
+ {
+  "id": 844,
+  "en": "All Requests",
+  "ar": "جميع الطلبات",
+  "enPath": "Employee Portal/Requests/All Requests",
+  "arPath": "بوابة الموظف/الطلبات/جميع الطلبات"
+ },
+ {
+  "id": 890,
+  "en": "All Cancelled Reservation",
+  "ar": "جميع الحجوزات الملغاة",
+  "enPath": "Hotel Management/Reservation/All Cancelled Reservation",
+  "arPath": "إدارة الفندق/الحجز/جميع الحجوزات الملغاة"
+ },
+ {
+  "id": 231,
+  "en": "Deliveries",
+  "ar": "التوصيلات ",
+  "enPath": "Inventory/Operations/Transfers/Deliveries",
+  "arPath": "المخزون والمستودعات/العمليات/التحويلات /التوصيلات "
+ },
+ {
+  "id": 504,
+  "en": "Optout Reasons",
+  "ar": "أسباب الانسحاب ",
+  "enPath": "Email Marketing/Configuration/Optout Reasons",
+  "arPath": "التسويق بالبريد الإلكتروني/التهيئة /أسباب الانسحاب "
+ },
+ {
+  "id": 663,
+  "en": "Batch Payments",
+  "ar": "الدفعات المجمعة ",
+  "enPath": "Accounting/Vendors/Batch Payments",
+  "arPath": "المحاسبة /الموردين/الدفعات المجمعة "
+ },
+ {
+  "id": 100,
+  "en": "Email Blacklist",
+  "ar": "القائمة السوداء للبريد الإلكتروني ",
+  "enPath": "Settings/Technical/Discuss/Email Blacklist",
+  "arPath": "الإعدادات/تقني/المناقشة /القائمة السوداء للبريد الإلكتروني "
+ },
+ {
+  "id": 232,
+  "en": "Internal",
+  "ar": "داخلي",
+  "enPath": "Inventory/Operations/Transfers/Internal",
+  "arPath": "المخزون والمستودعات/العمليات/التحويلات /داخلي"
+ },
+ {
+  "id": 536,
+  "en": "Employee Expenses",
+  "ar": "نفقات الموظف ",
+  "enPath": "Accounting/Vendors/Employee Expenses",
+  "arPath": "المحاسبة /الموردين/نفقات الموظف "
+ },
+ {
+  "id": 14,
+  "en": "Parameters",
+  "ar": "المعايير ",
+  "enPath": "Settings/Technical/Parameters",
+  "arPath": "الإعدادات/تقني/المعايير "
+ },
+ {
+  "id": 13,
+  "en": "Security",
+  "ar": "الأمن",
+  "enPath": "Settings/Technical/Security",
+  "arPath": "الإعدادات/تقني/الأمن"
+ },
+ {
+  "id": 463,
+  "en": "CRM",
+  "ar": "إدارة علاقات العملاء ",
+  "enPath": "CRM",
+  "arPath": "إدارة علاقات العملاء "
+ },
+ {
+  "id": 475,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "CRM/Configuration",
+  "arPath": "إدارة علاقات العملاء /التهيئة "
+ },
+ {
+  "id": 596,
+  "en": "Scrap",
+  "ar": "مخلفات التصنيع ",
+  "enPath": "Manufacturing/Operations/Scrap",
+  "arPath": "التصنيع/العمليات/مخلفات التصنيع "
+ },
+ {
+  "id": 607,
+  "en": "Manufacturings",
+  "ar": "التصنيعات ",
+  "enPath": "Inventory/Operations/Transfers/Manufacturings",
+  "arPath": "المخزون والمستودعات/العمليات/التحويلات /التصنيعات "
+ },
+ {
+  "id": 611,
+  "en": "Link Tracker",
+  "ar": "متتبع الرابط",
+  "enPath": "Website/Site/This page/Link Tracker",
+  "arPath": "الموقع الإلكتروني/الموقع /هذه الصفحة /متتبع الرابط"
+ },
+ {
+  "id": 703,
+  "en": "Contracts",
+  "ar": "العقود",
+  "enPath": "Employees/Configuration/Contracts",
+  "arPath": "الموظفون/التهيئة /العقود"
+ },
+ {
+  "id": 839,
+  "en": "To Disburse",
+  "ar": "بانتظار الصرف",
+  "enPath": "Jawab Payroll/Loans/To Disburse",
+  "arPath": "رواتب Jawab/القروض/بانتظار الصرف"
+ },
+ {
+  "id": 840,
+  "en": "Input Types",
+  "ar": "أنواع المُدخلات",
+  "enPath": "Jawab Payroll/Configuration/Input Types",
+  "arPath": "رواتب Jawab/التهيئة/أنواع المُدخلات"
+ },
+ {
+  "id": 115,
+  "en": "Privacy",
+  "ar": "الخصوصية",
+  "enPath": "Settings/Technical/Privacy",
+  "arPath": "الإعدادات/تقني/الخصوصية"
+ },
+ {
+  "id": 71,
+  "en": "Resource",
+  "ar": "المورد",
+  "enPath": "Settings/Technical/Resource",
+  "arPath": "الإعدادات/تقني/المورد"
+ },
+ {
+  "id": 111,
+  "en": "Activity Plans",
+  "ar": "خطط النشاط ",
+  "enPath": "Settings/Technical/Activities/Activity Plans",
+  "arPath": "الإعدادات/تقني/الأنشطة/خطط النشاط "
+ },
+ {
+  "id": 126,
+  "en": "Content",
+  "ar": "المحتوى",
+  "enPath": "Website/Site/Content",
+  "arPath": "الموقع الإلكتروني/الموقع /المحتوى"
+ },
+ {
+  "id": 130,
+  "en": "HTML / CSS Editor",
+  "ar": "محرر HTML / CSS ",
+  "enPath": "Website/Site/This page/HTML / CSS Editor",
+  "arPath": "الموقع الإلكتروني/الموقع /هذه الصفحة /محرر HTML / CSS "
+ },
+ {
+  "id": 132,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Website/Reporting",
+  "arPath": "الموقع الإلكتروني/إعداد التقارير "
+ },
+ {
+  "id": 320,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Purchase/Configuration/Products",
+  "arPath": "المشتريات/التهيئة /المنتجات"
+ },
+ {
+  "id": 334,
+  "en": "Transfers",
+  "ar": "التحويلات ",
+  "enPath": "Accounting/Accounting/Transfers",
+  "arPath": "المحاسبة /المحاسبة /التحويلات "
+ },
+ {
+  "id": 368,
+  "en": "Sales",
+  "ar": "المبيعات",
+  "enPath": "Sales",
+  "arPath": "المبيعات"
+ },
+ {
+  "id": 372,
+  "en": "Sales Teams",
+  "ar": "فرق المبيعات",
+  "enPath": "Sales/Orders/Sales Teams",
+  "arPath": "المبيعات/الطلبات /فرق المبيعات"
+ },
+ {
+  "id": 377,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Sales/Products",
+  "arPath": "المبيعات/المنتجات"
+ },
+ {
+  "id": 380,
+  "en": "Pricelists",
+  "ar": "قوائم الأسعار",
+  "enPath": "Sales/Products/Pricelists",
+  "arPath": "المبيعات/المنتجات/قوائم الأسعار"
+ },
+ {
+  "id": 384,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Sales/Reporting/Products",
+  "arPath": "المبيعات/إعداد التقارير /المنتجات"
+ },
+ {
+  "id": 389,
+  "en": "Sales Orders",
+  "ar": "أوامر البيع",
+  "enPath": "Sales/Configuration/Sales Orders",
+  "arPath": "المبيعات/التهيئة /أوامر البيع"
+ },
+ {
+  "id": 395,
+  "en": "Product Tags",
+  "ar": "علامات تصنيف المنتج ",
+  "enPath": "Sales/Configuration/Products/Product Tags",
+  "arPath": "المبيعات/التهيئة /المنتجات/علامات تصنيف المنتج "
+ },
+ {
+  "id": 447,
+  "en": "Badges",
+  "ar": "الشارات",
+  "enPath": "Settings/Gamification Tools/Badges",
+  "arPath": "الإعدادات/أدوات التلعيب /الشارات"
+ },
+ {
+  "id": 451,
+  "en": "Ratings",
+  "ar": "التقييمات ",
+  "enPath": "Settings/Technical/Discuss/Ratings",
+  "arPath": "الإعدادات/تقني/المناقشة /التقييمات "
+ },
+ {
+  "id": 461,
+  "en": "Registration Desk",
+  "ar": "مكتب التسجيل ",
+  "enPath": "Events/Registration Desk",
+  "arPath": "الفعاليات/مكتب التسجيل "
+ },
+ {
+  "id": 505,
+  "en": "Favorite Filters",
+  "ar": "الفلاتر المفضلة ",
+  "enPath": "Email Marketing/Configuration/Favorite Filters",
+  "arPath": "التسويق بالبريد الإلكتروني/التهيئة /الفلاتر المفضلة "
+ },
+ {
+  "id": 582,
+  "en": "Employees",
+  "ar": "الموظفون",
+  "enPath": "Recruitment/Configuration/Employees",
+  "arPath": "التوظيف/التهيئة /الموظفون"
+ },
+ {
+  "id": 659,
+  "en": "Online Sales",
+  "ar": "المبيعات عبر الإنترنت ",
+  "enPath": "Website/Reporting/Online Sales",
+  "arPath": "الموقع الإلكتروني/إعداد التقارير /المبيعات عبر الإنترنت "
+ },
+ {
+  "id": 660,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Website/Site/Content/Products",
+  "arPath": "الموقع الإلكتروني/الموقع /المحتوى/المنتجات"
+ },
+ {
+  "id": 774,
+  "en": "Agreements",
+  "ar": "الاتفاقيات",
+  "enPath": "Franchise Management/Franchise/Agreements",
+  "arPath": "إدارة الامتياز التجاري/الامتياز التجاري/الاتفاقيات"
+ },
+ {
+  "id": 781,
+  "en": "Compliance & Training",
+  "ar": "الامتثال والتدريب",
+  "enPath": "Franchise Management/Compliance & Training",
+  "arPath": "إدارة الامتياز التجاري/الامتثال والتدريب"
+ },
+ {
+  "id": 784,
+  "en": "KPI Scores",
+  "ar": "درجات المؤشرات",
+  "enPath": "Franchise Management/Compliance & Training/KPI Scores",
+  "arPath": "إدارة الامتياز التجاري/الامتثال والتدريب/درجات المؤشرات"
+ },
+ {
+  "id": 788,
+  "en": "Audit Analysis",
+  "ar": "تحليل عمليات التدقيق",
+  "enPath": "Franchise Management/Reporting/Audit Analysis",
+  "arPath": "إدارة الامتياز التجاري/التقارير/تحليل عمليات التدقيق"
+ },
+ {
+  "id": 794,
+  "en": "KPI Definitions",
+  "ar": "تعريفات مؤشرات الأداء",
+  "enPath": "Franchise Management/Configuration/KPI Definitions",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/تعريفات مؤشرات الأداء"
+ },
+ {
+  "id": 809,
+  "en": "Run Monthly Payroll",
+  "ar": "تشغيل مسير الرواتب الشهري",
+  "enPath": "Jawab Payroll/Payroll/Run Monthly Payroll",
+  "arPath": "رواتب Jawab/الرواتب/تشغيل مسير الرواتب الشهري"
+ },
+ {
+  "id": 814,
+  "en": "Loans",
+  "ar": "القروض",
+  "enPath": "Jawab Payroll/Loans",
+  "arPath": "رواتب Jawab/القروض"
+ },
+ {
+  "id": 815,
+  "en": "My Loans",
+  "ar": "قروضي",
+  "enPath": "Jawab Payroll/Loans/My Loans",
+  "arPath": "رواتب Jawab/القروض/قروضي"
+ },
+ {
+  "id": 834,
+  "en": "Salary Rule Categories",
+  "ar": "فئات قواعد الرواتب",
+  "enPath": "Jawab Payroll/Configuration/Salary Rule Categories",
+  "arPath": "رواتب Jawab/التهيئة/فئات قواعد الرواتب"
+ },
+ {
+  "id": 166,
+  "en": "Analytic Items",
+  "ar": "العناصر التحليلية",
+  "enPath": "Accounting/Accounting/Analytic Items",
+  "arPath": "المحاسبة /المحاسبة /العناصر التحليلية"
+ },
+ {
+  "id": 775,
+  "en": "Agreement Renewals",
+  "ar": "تجديدات الاتفاقيات",
+  "enPath": "Franchise Management/Franchise/Agreement Renewals",
+  "arPath": "إدارة الامتياز التجاري/الامتياز التجاري/تجديدات الاتفاقيات"
+ },
+ {
+  "id": 173,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Accounting/Configuration",
+  "arPath": "المحاسبة /التهيئة "
+ },
+ {
+  "id": 614,
+  "en": "Skill Types",
+  "ar": "أنواع المهارات ",
+  "enPath": "Recruitment/Configuration/Employees/Skill Types",
+  "arPath": "التوظيف/التهيئة /الموظفون/أنواع المهارات "
+ },
+ {
+  "id": 776,
+  "en": "Outlets",
+  "ar": "المنافذ",
+  "enPath": "Franchise Management/Franchise/Outlets",
+  "arPath": "إدارة الامتياز التجاري/الامتياز التجاري/المنافذ"
+ },
+ {
+  "id": 200,
+  "en": "Dashboards",
+  "ar": "لوحات البيانات ",
+  "enPath": "Dashboards",
+  "arPath": "لوحات البيانات "
+ },
+ {
+  "id": 127,
+  "en": "This page",
+  "ar": "هذه الصفحة ",
+  "enPath": "Website/Site/This page",
+  "arPath": "الموقع الإلكتروني/الموقع /هذه الصفحة "
+ },
+ {
+  "id": 131,
+  "en": "Edit Menu",
+  "ar": "تحرير القائمة",
+  "enPath": "Website/Site/This page/Edit Menu",
+  "arPath": "الموقع الإلكتروني/الموقع /هذه الصفحة /تحرير القائمة"
+ },
+ {
+  "id": 137,
+  "en": "Visitors",
+  "ar": "الزائرين ",
+  "enPath": "Website/Reporting/Visitors",
+  "arPath": "الموقع الإلكتروني/إعداد التقارير /الزائرين "
+ },
+ {
+  "id": 373,
+  "en": "Customers",
+  "ar": "العملاء",
+  "enPath": "Sales/Orders/Customers",
+  "arPath": "المبيعات/الطلبات /العملاء"
+ },
+ {
+  "id": 381,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Sales/Reporting",
+  "arPath": "المبيعات/إعداد التقارير "
+ },
+ {
+  "id": 385,
+  "en": "Customers",
+  "ar": "العملاء",
+  "enPath": "Sales/Reporting/Customers",
+  "arPath": "المبيعات/إعداد التقارير /العملاء"
+ },
+ {
+  "id": 391,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Sales/Configuration/Products",
+  "arPath": "المبيعات/التهيئة /المنتجات"
+ },
+ {
+  "id": 424,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Calendar/Configuration",
+  "arPath": "التقويم/التهيئة "
+ },
+ {
+  "id": 448,
+  "en": "Ranks",
+  "ar": "الرتب ",
+  "enPath": "Settings/Gamification Tools/Ranks",
+  "arPath": "الإعدادات/أدوات التلعيب /الرتب "
+ },
+ {
+  "id": 584,
+  "en": "Activities",
+  "ar": "الأنشطة",
+  "enPath": "Recruitment/Configuration/Activities",
+  "arPath": "التوظيف/التهيئة /الأنشطة"
+ },
+ {
+  "id": 616,
+  "en": "Events",
+  "ar": "الفعاليات",
+  "enPath": "Website/Site/Content/Events",
+  "arPath": "الموقع الإلكتروني/الموقع /المحتوى/الفعاليات"
+ },
+ {
+  "id": 765,
+  "en": "Discount & Loyalty",
+  "ar": "الخصم والولاء ",
+  "enPath": "Sales/Products/Discount & Loyalty",
+  "arPath": "المبيعات/المنتجات/الخصم والولاء "
+ },
+ {
+  "id": 777,
+  "en": "Territories",
+  "ar": "المناطق",
+  "enPath": "Franchise Management/Franchise/Territories",
+  "arPath": "إدارة الامتياز التجاري/الامتياز التجاري/المناطق"
+ },
+ {
+  "id": 785,
+  "en": "Reporting",
+  "ar": "التقارير",
+  "enPath": "Franchise Management/Reporting",
+  "arPath": "إدارة الامتياز التجاري/التقارير"
+ },
+ {
+  "id": 789,
+  "en": "KPI Analysis",
+  "ar": "تحليل مؤشرات الأداء",
+  "enPath": "Franchise Management/Reporting/KPI Analysis",
+  "arPath": "إدارة الامتياز التجاري/التقارير/تحليل مؤشرات الأداء"
+ },
+ {
+  "id": 795,
+  "en": "Training Programs",
+  "ar": "البرامج التدريبية",
+  "enPath": "Franchise Management/Configuration/Training Programs",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/البرامج التدريبية"
+ },
+ {
+  "id": 810,
+  "en": "WPS / MUDAD Export",
+  "ar": "تصدير حماية الأجور / مدد",
+  "enPath": "Jawab Payroll/Payroll/WPS / MUDAD Export",
+  "arPath": "رواتب Jawab/الرواتب/تصدير حماية الأجور / مدد"
+ },
+ {
+  "id": 818,
+  "en": "Documents",
+  "ar": "المستندات",
+  "enPath": "Jawab Payroll/Documents",
+  "arPath": "رواتب Jawab/المستندات"
+ },
+ {
+  "id": 835,
+  "en": "Contribution Registers",
+  "ar": "سجلات الاشتراكات",
+  "enPath": "Jawab Payroll/Configuration/Contribution Registers",
+  "arPath": "رواتب Jawab/التهيئة/سجلات الاشتراكات"
+ },
+ {
+  "id": 396,
+  "en": "Online Payments",
+  "ar": "المدفوعات عبر الإنترنت ",
+  "enPath": "Sales/Configuration/Online Payments",
+  "arPath": "المبيعات/التهيئة /المدفوعات عبر الإنترنت "
+ },
+ {
+  "id": 425,
+  "en": "Settings",
+  "ar": "الإعدادات",
+  "enPath": "Calendar/Configuration/Settings",
+  "arPath": "التقويم/التهيئة /الإعدادات"
+ },
+ {
+  "id": 101,
+  "en": "User Settings",
+  "ar": "إعدادات المستخدم ",
+  "enPath": "Settings/Technical/Discuss/User Settings",
+  "arPath": "الإعدادات/تقني/المناقشة /إعدادات المستخدم "
+ },
+ {
+  "id": 119,
+  "en": "Snailmail Letters",
+  "ar": "رسائل البريد العادي ",
+  "enPath": "Settings/Technical/Email/Snailmail Letters",
+  "arPath": "الإعدادات/تقني/البريد الإلكتروني/رسائل البريد العادي "
+ },
+ {
+  "id": 138,
+  "en": "Page Views",
+  "ar": "طرق عرض الصفحة ",
+  "enPath": "Website/Reporting/Page Views",
+  "arPath": "الموقع الإلكتروني/إعداد التقارير /طرق عرض الصفحة "
+ },
+ {
+  "id": 246,
+  "en": "Delivery",
+  "ar": "التوصيل ",
+  "enPath": "Inventory/Configuration/Delivery",
+  "arPath": "المخزون والمستودعات/التهيئة /التوصيل "
+ },
+ {
+  "id": 253,
+  "en": "Point of Sale",
+  "ar": "نقطة البيع",
+  "enPath": "Point of Sale",
+  "arPath": "نقطة البيع"
+ },
+ {
+  "id": 346,
+  "en": "Tax Return",
+  "ar": "الإقرار الضريبي ",
+  "enPath": "Accounting/Reporting/Statement Reports/Tax Return",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير كشف الحساب /الإقرار الضريبي "
+ },
+ {
+  "id": 386,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Sales/Configuration",
+  "arPath": "المبيعات/التهيئة "
+ },
+ {
+  "id": 449,
+  "en": "Karma Tracking",
+  "ar": "تتبع الكارما ",
+  "enPath": "Settings/Gamification Tools/Karma Tracking",
+  "arPath": "الإعدادات/أدوات التلعيب /تتبع الكارما "
+ },
+ {
+  "id": 454,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Events/Reporting",
+  "arPath": "الفعاليات/إعداد التقارير "
+ },
+ {
+  "id": 569,
+  "en": "Recruitment Analysis",
+  "ar": "تحليل التوظيف",
+  "enPath": "Recruitment/Reporting/Recruitment Analysis",
+  "arPath": "التوظيف/إعداد التقارير /تحليل التوظيف"
+ },
+ {
+  "id": 587,
+  "en": "Job Boards",
+  "ar": "مواقع التوظيف ",
+  "enPath": "Recruitment/Configuration/Job Boards",
+  "arPath": "التوظيف/التهيئة /مواقع التوظيف "
+ },
+ {
+  "id": 588,
+  "en": "Emails",
+  "ar": "عناوين البريد الإلكتروني ",
+  "enPath": "Recruitment/Configuration/Job Boards/Emails",
+  "arPath": "التوظيف/التهيئة /مواقع التوظيف /عناوين البريد الإلكتروني "
+ },
+ {
+  "id": 634,
+  "en": "Courses",
+  "ar": "الدورات",
+  "enPath": "Website/Site/Content/Courses",
+  "arPath": "الموقع الإلكتروني/الموقع /المحتوى/الدورات"
+ },
+ {
+  "id": 652,
+  "en": "eCommerce",
+  "ar": "المتجر الإلكتروني",
+  "enPath": "Website/Configuration/eCommerce",
+  "arPath": "الموقع الإلكتروني/التهيئة /المتجر الإلكتروني"
+ },
+ {
+  "id": 664,
+  "en": "Direct Debit Mandates",
+  "ar": "توكيلات الخصم المباشر ",
+  "enPath": "Accounting/Customers/Direct Debit Mandates",
+  "arPath": "المحاسبة /العملاء/توكيلات الخصم المباشر "
+ },
+ {
+  "id": 766,
+  "en": "Gift cards & eWallet",
+  "ar": "بطاقات الهدايا والمحفظة الإلكترونية ",
+  "enPath": "Sales/Products/Gift cards & eWallet",
+  "arPath": "المبيعات/المنتجات/بطاقات الهدايا والمحفظة الإلكترونية "
+ },
+ {
+  "id": 767,
+  "en": "Franchise Management",
+  "ar": "إدارة الامتياز التجاري",
+  "enPath": "Franchise Management",
+  "arPath": "إدارة الامتياز التجاري"
+ },
+ {
+  "id": 796,
+  "en": "Terms & Conditions",
+  "ar": "الشروط والأحكام",
+  "enPath": "Franchise Management/Configuration/Terms & Conditions",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/الشروط والأحكام"
+ },
+ {
+  "id": 821,
+  "en": "Discipline",
+  "ar": "الشؤون التأديبية",
+  "enPath": "Jawab Payroll/Discipline",
+  "arPath": "رواتب Jawab/الشؤون التأديبية"
+ },
+ {
+  "id": 836,
+  "en": "Contract Advantages",
+  "ar": "مزايا العقود",
+  "enPath": "Jawab Payroll/Configuration/Contract Advantages",
+  "arPath": "رواتب Jawab/التهيئة/مزايا العقود"
+ },
+ {
+  "id": 886,
+  "en": "Reservation",
+  "ar": "الحجز",
+  "enPath": "Hotel Management/Reservation",
+  "arPath": "إدارة الفندق/الحجز"
+ },
+ {
+  "id": 102,
+  "en": "Guests",
+  "ar": "ضيوف",
+  "enPath": "Settings/Technical/Discuss/Guests",
+  "arPath": "الإعدادات/تقني/المناقشة /ضيوف"
+ },
+ {
+  "id": 103,
+  "en": "RTC sessions",
+  "ar": "جلسات RTC ",
+  "enPath": "Settings/Technical/Discuss/RTC sessions",
+  "arPath": "الإعدادات/تقني/المناقشة /جلسات RTC "
+ },
+ {
+  "id": 104,
+  "en": "ICE servers",
+  "ar": "خوادم ICE ",
+  "enPath": "Settings/Technical/Discuss/ICE servers",
+  "arPath": "الإعدادات/تقني/المناقشة /خوادم ICE "
+ },
+ {
+  "id": 105,
+  "en": "Message Reactions",
+  "ar": "تعبيرات الرسائل ",
+  "enPath": "Settings/Technical/Discuss/Message Reactions",
+  "arPath": "الإعدادات/تقني/المناقشة /تعبيرات الرسائل "
+ },
+ {
+  "id": 106,
+  "en": "Link Previews",
+  "ar": "معاينات الروابط ",
+  "enPath": "Settings/Technical/Discuss/Link Previews",
+  "arPath": "الإعدادات/تقني/المناقشة /معاينات الروابط "
+ },
+ {
+  "id": 337,
+  "en": "Analytic Budget",
+  "ar": "الميزانية التحليلية ",
+  "enPath": "Accounting/Accounting/Analytic Budget",
+  "arPath": "المحاسبة /المحاسبة /الميزانية التحليلية "
+ },
+ {
+  "id": 404,
+  "en": "Activities",
+  "ar": "الأنشطة",
+  "enPath": "Sales/Configuration/Activities",
+  "arPath": "المبيعات/التهيئة /الأنشطة"
+ },
+ {
+  "id": 797,
+  "en": "Document Types",
+  "ar": "أنواع المستندات",
+  "enPath": "Franchise Management/Configuration/Document Types",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/أنواع المستندات"
+ },
+ {
+  "id": 107,
+  "en": "GIF favorite",
+  "ar": "GIF المفضلة ",
+  "enPath": "Settings/Technical/Discuss/GIF favorite",
+  "arPath": "الإعدادات/تقني/المناقشة /GIF المفضلة "
+ },
+ {
+  "id": 336,
+  "en": "Accounting",
+  "ar": "المحاسبة ",
+  "enPath": "Accounting",
+  "arPath": "المحاسبة "
+ },
+ {
+  "id": 347,
+  "en": "EC Sales List",
+  "ar": "قائمة مبيعات EC",
+  "enPath": "Accounting/Reporting/Statement Reports/EC Sales List",
+  "arPath": "المحاسبة /إعداد التقارير /تقارير كشف الحساب /قائمة مبيعات EC"
+ },
+ {
+  "id": 359,
+  "en": "Assets",
+  "ar": "أصول ",
+  "enPath": "Accounting/Accounting/Assets",
+  "arPath": "المحاسبة /المحاسبة /أصول "
+ },
+ {
+  "id": 778,
+  "en": "Communications",
+  "ar": "التعاميم",
+  "enPath": "Franchise Management/Franchise/Communications",
+  "arPath": "إدارة الامتياز التجاري/الامتياز التجاري/التعاميم"
+ },
+ {
+  "id": 798,
+  "en": "Checklist Templates",
+  "ar": "قوالب قوائم التحقق",
+  "enPath": "Franchise Management/Configuration/Checklist Templates",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/قوالب قوائم التحقق"
+ },
+ {
+  "id": 823,
+  "en": "Assets",
+  "ar": "العهد",
+  "enPath": "Jawab Payroll/Assets",
+  "arPath": "رواتب Jawab/العهد"
+ },
+ {
+  "id": 837,
+  "en": "GPS Work Locations",
+  "ar": "مواقع العمل الجغرافية",
+  "enPath": "Jawab Payroll/Configuration/GPS Work Locations",
+  "arPath": "رواتب Jawab/التهيئة/مواقع العمل الجغرافية"
+ },
+ {
+  "id": 366,
+  "en": "Loans",
+  "ar": "القروض ",
+  "enPath": "Accounting/Accounting/Loans",
+  "arPath": "المحاسبة /المحاسبة /القروض "
+ },
+ {
+  "id": 310,
+  "en": "Reconcile",
+  "ar": "تسوية",
+  "enPath": "Accounting/Accounting/Reconcile",
+  "arPath": "المحاسبة /المحاسبة /تسوية"
+ },
+ {
+  "id": 862,
+  "en": "All Folio",
+  "ar": "جميع كشوف الحساب",
+  "enPath": "Hotel Management/All Folio",
+  "arPath": "إدارة الفندق/جميع كشوف الحساب"
+ },
+ {
+  "id": 314,
+  "en": "Lock Dates",
+  "ar": "تواريخ الإقفال",
+  "enPath": "Accounting/Accounting/Lock Dates",
+  "arPath": "المحاسبة /المحاسبة /تواريخ الإقفال"
+ },
+ {
+  "id": 508,
+  "en": "Project",
+  "ar": "إدارة المشاريع",
+  "enPath": "Project",
+  "arPath": "إدارة المشاريع"
+ },
+ {
+  "id": 617,
+  "en": "Jobs",
+  "ar": "الوظائف",
+  "enPath": "Website/Site/Content/Jobs",
+  "arPath": "الموقع الإلكتروني/الموقع /المحتوى/الوظائف"
+ },
+ {
+  "id": 799,
+  "en": "Onboarding Plans",
+  "ar": "خطط التهيئة",
+  "enPath": "Franchise Management/Configuration/Onboarding Plans",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/خطط التهيئة"
+ },
+ {
+  "id": 825,
+  "en": "Attendance",
+  "ar": "الحضور",
+  "enPath": "Jawab Payroll/Attendance",
+  "arPath": "رواتب Jawab/الحضور"
+ },
+ {
+  "id": 838,
+  "en": "Contract Types",
+  "ar": "أنواع العقود",
+  "enPath": "Jawab Payroll/Configuration/Contract Types",
+  "arPath": "رواتب Jawab/التهيئة/أنواع العقود"
+ },
+ {
+  "id": 872,
+  "en": "Restaurant",
+  "ar": "مطعم",
+  "enPath": "Hotel Management/Restaurant",
+  "arPath": "إدارة الفندق/مطعم"
+ },
+ {
+  "id": 805,
+  "en": "Jawab Payroll",
+  "ar": "رواتب Jawab",
+  "enPath": "Jawab Payroll",
+  "arPath": "رواتب Jawab"
+ },
+ {
+  "id": 841,
+  "en": "Employee Portal",
+  "ar": "بوابة الموظف",
+  "enPath": "Employee Portal",
+  "arPath": "بوابة الموظف"
+ },
+ {
+  "id": 120,
+  "en": "Digest Emails",
+  "ar": "رسائل البريد الإلكتروني الموجزة ",
+  "enPath": "Settings/Technical/Email/Digest Emails",
+  "arPath": "الإعدادات/تقني/البريد الإلكتروني/رسائل البريد الإلكتروني الموجزة "
+ },
+ {
+  "id": 198,
+  "en": "Secure Entries",
+  "ar": "تأمين القيود ",
+  "enPath": "Accounting/Accounting/Secure Entries",
+  "arPath": "المحاسبة /المحاسبة /تأمين القيود "
+ },
+ {
+  "id": 699,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "SMS Marketing/Reporting",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة /إعداد التقارير "
+ },
+ {
+  "id": 800,
+  "en": "Catalogs",
+  "ar": "الكتالوجات",
+  "enPath": "Franchise Management/Configuration/Catalogs",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/الكتالوجات"
+ },
+ {
+  "id": 828,
+  "en": "Reporting",
+  "ar": "التقارير",
+  "enPath": "Jawab Payroll/Reporting",
+  "arPath": "رواتب Jawab/التقارير"
+ },
+ {
+  "id": 867,
+  "en": "Housekeeping",
+  "ar": "التدبير الفندقي",
+  "enPath": "Hotel Management/Housekeeping",
+  "arPath": "إدارة الفندق/التدبير الفندقي"
+ },
+ {
+  "id": 121,
+  "en": "Digest Tips",
+  "ar": "نصائح الموجز ",
+  "enPath": "Settings/Technical/Email/Digest Tips",
+  "arPath": "الإعدادات/تقني/البريد الإلكتروني/نصائح الموجز "
+ },
+ {
+  "id": 851,
+  "en": "Reports",
+  "ar": "التقارير",
+  "enPath": "Hotel Management/Reports",
+  "arPath": "إدارة الفندق/التقارير"
+ },
+ {
+  "id": 256,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Point of Sale/Reporting",
+  "arPath": "نقطة البيع/إعداد التقارير "
+ },
+ {
+  "id": 495,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Email Marketing/Reporting",
+  "arPath": "التسويق بالبريد الإلكتروني/إعداد التقارير "
+ },
+ {
+  "id": 657,
+  "en": "Delivery Methods",
+  "ar": "طرق التوصيل ",
+  "enPath": "Website/Configuration/eCommerce/Delivery Methods",
+  "arPath": "الموقع الإلكتروني/التهيئة /المتجر الإلكتروني/طرق التوصيل "
+ },
+ {
+  "id": 685,
+  "en": "Questions & Answers",
+  "ar": "الأسئلة والأجوبة ",
+  "enPath": "Surveys/Questions & Answers",
+  "arPath": "الاستطلاعات /الأسئلة والأجوبة "
+ },
+ {
+  "id": 801,
+  "en": "Franchise Coupons",
+  "ar": "قسائم الامتياز",
+  "enPath": "Franchise Management/Configuration/Franchise Coupons",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات/قسائم الامتياز"
+ },
+ {
+  "id": 845,
+  "en": "My Portal",
+  "ar": "بوابتي",
+  "enPath": "Employee Portal/My Portal",
+  "arPath": "بوابة الموظف/بوابتي"
+ },
+ {
+  "id": 897,
+  "en": "Agent Commission",
+  "ar": "عمولة الوكيل",
+  "enPath": "Hotel Management/Agent Commission",
+  "arPath": "إدارة الفندق/عمولة الوكيل"
+ },
+ {
+  "id": 763,
+  "en": "Discount & Loyalty",
+  "ar": "الخصم والولاء ",
+  "enPath": "Point of Sale/Products/Discount & Loyalty",
+  "arPath": "نقطة البيع/المنتجات/الخصم والولاء "
+ },
+ {
+  "id": 764,
+  "en": "Gift cards & eWallet",
+  "ar": "بطاقات الهدايا والمحفظة الإلكترونية ",
+  "enPath": "Point of Sale/Products/Gift cards & eWallet",
+  "arPath": "نقطة البيع/المنتجات/بطاقات الهدايا والمحفظة الإلكترونية "
+ },
+ {
+  "id": 122,
+  "en": "Website",
+  "ar": "الموقع الإلكتروني",
+  "enPath": "Website",
+  "arPath": "الموقع الإلكتروني"
+ },
+ {
+  "id": 285,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Employees/Reporting",
+  "arPath": "الموظفون/إعداد التقارير "
+ },
+ {
+  "id": 880,
+  "en": "Dashboard",
+  "ar": "Dashboard",
+  "enPath": "Accounting/Dashboard/Hotel Management/Dashboard",
+  "arPath": "المحاسبة /لوحة البيانات /إدارة الفندق/Dashboard"
+ },
+ {
+  "id": 220,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Inventory/Reporting",
+  "arPath": "المخزون والمستودعات/إعداد التقارير "
+ },
+ {
+  "id": 223,
+  "en": "Scrap",
+  "ar": "مخلفات التصنيع ",
+  "enPath": "Inventory/Operations/Adjustments/Scrap",
+  "arPath": "المخزون والمستودعات/العمليات/التعديلات/مخلفات التصنيع "
+ },
+ {
+  "id": 304,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Attendances/Configuration",
+  "arPath": "الحضور/التهيئة "
+ },
+ {
+  "id": 332,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Purchase/Reporting",
+  "arPath": "المشتريات/إعداد التقارير "
+ },
+ {
+  "id": 333,
+  "en": "Purchase",
+  "ar": "الشراء",
+  "enPath": "Purchase/Reporting/Purchase",
+  "arPath": "المشتريات/إعداد التقارير /الشراء"
+ },
+ {
+  "id": 455,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Events/Configuration",
+  "arPath": "الفعاليات/التهيئة "
+ },
+ {
+  "id": 514,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Project/Reporting",
+  "arPath": "إدارة المشاريع/إعداد التقارير "
+ },
+ {
+  "id": 568,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Recruitment/Reporting",
+  "arPath": "التوظيف/إعداد التقارير "
+ },
+ {
+  "id": 623,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "eLearning/Configuration",
+  "arPath": "التعلم الإلكتروني /التهيئة "
+ },
+ {
+  "id": 734,
+  "en": "Reporting",
+  "ar": "إعداد التقارير ",
+  "enPath": "Fleet/Reporting",
+  "arPath": "الأسطول/إعداد التقارير "
+ },
+ {
+  "id": 901,
+  "en": "Hotel Calendar",
+  "ar": "تقويم الفندق",
+  "enPath": "Hotel Dashboard/Hotel Calendar",
+  "arPath": "لوحة معلومات الفندق/تقويم الفندق"
+ },
+ {
+  "id": 139,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Website/Configuration",
+  "arPath": "الموقع الإلكتروني/التهيئة "
+ },
+ {
+  "id": 154,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Accounting/Customers/Products",
+  "arPath": "المحاسبة /العملاء/المنتجات"
+ },
+ {
+  "id": 161,
+  "en": "Products",
+  "ar": "المنتجات",
+  "enPath": "Accounting/Vendors/Products",
+  "arPath": "المحاسبة /الموردين/المنتجات"
+ },
+ {
+  "id": 209,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Inventory/Configuration",
+  "arPath": "المخزون والمستودعات/التهيئة "
+ },
+ {
+  "id": 255,
+  "en": "Customers",
+  "ar": "العملاء",
+  "enPath": "Point of Sale/Orders/Customers",
+  "arPath": "نقطة البيع/الطلبات /العملاء"
+ },
+ {
+  "id": 258,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Point of Sale/Configuration",
+  "arPath": "نقطة البيع/التهيئة "
+ },
+ {
+  "id": 287,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Employees/Configuration",
+  "arPath": "الموظفون/التهيئة "
+ },
+ {
+  "id": 318,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Purchase/Configuration",
+  "arPath": "المشتريات/التهيئة "
+ },
+ {
+  "id": 498,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Email Marketing/Configuration",
+  "arPath": "التسويق بالبريد الإلكتروني/التهيئة "
+ },
+ {
+  "id": 517,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Project/Configuration",
+  "arPath": "إدارة المشاريع/التهيئة "
+ },
+ {
+  "id": 534,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Expenses/Configuration",
+  "arPath": "المصاريف والعهد/التهيئة "
+ },
+ {
+  "id": 539,
+  "en": "Challenges",
+  "ar": "التحديات",
+  "enPath": "Employees/Configuration/Challenges",
+  "arPath": "الموظفون/التهيئة /التحديات"
+ },
+ {
+  "id": 570,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Recruitment/Configuration",
+  "arPath": "التوظيف/التهيئة "
+ },
+ {
+  "id": 594,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Manufacturing/Configuration",
+  "arPath": "التصنيع/التهيئة "
+ },
+ {
+  "id": 620,
+  "en": "eLearning",
+  "ar": "التعلم الإلكتروني ",
+  "enPath": "eLearning",
+  "arPath": "التعلم الإلكتروني "
+ },
+ {
+  "id": 678,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Maintenance/Configuration",
+  "arPath": "الصيانة/التهيئة "
+ },
+ {
+  "id": 700,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "SMS Marketing/Configuration",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة /التهيئة "
+ },
+ {
+  "id": 719,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Fleet/Configuration",
+  "arPath": "الأسطول/التهيئة "
+ },
+ {
+  "id": 790,
+  "en": "Configuration",
+  "ar": "الإعدادات",
+  "enPath": "Franchise Management/Configuration",
+  "arPath": "إدارة الامتياز التجاري/الإعدادات"
+ },
+ {
+  "id": 830,
+  "en": "Configuration",
+  "ar": "التهيئة",
+  "enPath": "Jawab Payroll/Configuration",
+  "arPath": "رواتب Jawab/التهيئة"
+ },
+ {
+  "id": 850,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Hotel Management/Configuration",
+  "arPath": "إدارة الفندق/التهيئة "
+ },
+ {
+  "id": 225,
+  "en": "Packages",
+  "ar": "الطرود ",
+  "enPath": "Inventory/Products/Packages",
+  "arPath": "المخزون والمستودعات/المنتجات/الطرود "
+ },
+ {
+  "id": 155,
+  "en": "Customers",
+  "ar": "العملاء",
+  "enPath": "Accounting/Customers/Customers",
+  "arPath": "المحاسبة /العملاء/العملاء"
+ },
+ {
+  "id": 489,
+  "en": "Email Marketing",
+  "ar": "التسويق بالبريد الإلكتروني",
+  "enPath": "Email Marketing",
+  "arPath": "التسويق بالبريد الإلكتروني"
+ },
+ {
+  "id": 693,
+  "en": "SMS Marketing",
+  "ar": "التسويق عبر الرسائل النصية القصيرة ",
+  "enPath": "SMS Marketing",
+  "arPath": "التسويق عبر الرسائل النصية القصيرة "
+ },
+ {
+  "id": 452,
+  "en": "Events",
+  "ar": "الفعاليات",
+  "enPath": "Events",
+  "arPath": "الفعاليات"
+ },
+ {
+  "id": 684,
+  "en": "Surveys",
+  "ar": "الاستطلاعات ",
+  "enPath": "Surveys",
+  "arPath": "الاستطلاعات "
+ },
+ {
+  "id": 315,
+  "en": "Purchase",
+  "ar": "المشتريات",
+  "enPath": "Purchase",
+  "arPath": "المشتريات"
+ },
+ {
+  "id": 204,
+  "en": "Inventory",
+  "ar": "المخزون والمستودعات",
+  "enPath": "Inventory",
+  "arPath": "المخزون والمستودعات"
+ },
+ {
+  "id": 589,
+  "en": "Manufacturing",
+  "ar": "التصنيع",
+  "enPath": "Manufacturing",
+  "arPath": "التصنيع"
+ },
+ {
+  "id": 202,
+  "en": "Configuration",
+  "ar": "التهيئة ",
+  "enPath": "Dashboards/Configuration",
+  "arPath": "لوحات البيانات /التهيئة "
+ },
+ {
+  "id": 226,
+  "en": "Locations",
+  "ar": "المواقع ",
+  "enPath": "Inventory/Reporting/Locations",
+  "arPath": "المخزون والمستودعات/إعداد التقارير /المواقع "
+ },
+ {
+  "id": 667,
+  "en": "Maintenance",
+  "ar": "الصيانة",
+  "enPath": "Maintenance",
+  "arPath": "الصيانة"
+ },
+ {
+  "id": 280,
+  "en": "Employees",
+  "ar": "الموظفون",
+  "enPath": "Employees",
+  "arPath": "الموظفون"
+ },
+ {
+  "id": 162,
+  "en": "Vendors",
+  "ar": "الموردين",
+  "enPath": "Accounting/Vendors/Vendors",
+  "arPath": "المحاسبة /الموردين/الموردين"
+ },
+ {
+  "id": 228,
+  "en": "Moves History",
+  "ar": "سجل الحركات ",
+  "enPath": "Inventory/Reporting/Moves History",
+  "arPath": "المخزون والمستودعات/إعداد التقارير /سجل الحركات "
+ },
+ {
+  "id": 299,
+  "en": "Attendances",
+  "ar": "الحضور",
+  "enPath": "Attendances",
+  "arPath": "الحضور"
+ },
+ {
+  "id": 562,
+  "en": "Recruitment",
+  "ar": "التوظيف",
+  "enPath": "Recruitment",
+  "arPath": "التوظيف"
+ },
+ {
+  "id": 718,
+  "en": "Fleet",
+  "ar": "الأسطول",
+  "enPath": "Fleet",
+  "arPath": "الأسطول"
+ },
+ {
+  "id": 543,
+  "en": "Time Off",
+  "ar": "الإجازات ",
+  "enPath": "Time Off",
+  "arPath": "الإجازات "
+ },
+ {
+  "id": 229,
+  "en": "Moves Analysis",
+  "ar": "تحليل الحركات ",
+  "enPath": "Inventory/Reporting/Moves Analysis",
+  "arPath": "المخزون والمستودعات/إعداد التقارير /تحليل الحركات "
+ },
+ {
+  "id": 527,
+  "en": "Expenses",
+  "ar": "المصاريف والعهد",
+  "enPath": "Expenses",
+  "arPath": "المصاريف والعهد"
+ },
+ {
+  "id": 252,
+  "en": "Valuation",
+  "ar": "التقييم ",
+  "enPath": "Inventory/Reporting/Valuation",
+  "arPath": "المخزون والمستودعات/إعداد التقارير /التقييم "
+ },
+ {
+  "id": 15,
+  "en": "Apps",
+  "ar": "التطبيقات ",
+  "enPath": "Apps",
+  "arPath": "التطبيقات "
+ }
+]

@@ -1,0 +1,22 @@
+// قراءة فقط: عينة من بيانات قاعدة الاستديو لتقييم صلاحيتها للتسجيل (لا تكتب شيئًا)
+import { chromium } from "playwright";
+process.loadEnvFile();
+const u = new URL(process.env.JAWAB_STUDIO_URL);
+if (u.hostname !== "premium.jawab.pro") process.exit(1);
+const base = u.origin;
+const b = await chromium.launch(); const ctx = await b.newContext(); const p = await ctx.newPage();
+await p.goto(process.env.JAWAB_STUDIO_URL);
+await p.fill("input[name=login]", process.env.JAWAB_STUDIO_USER); await p.fill("input[name=password]", process.env.JAWAB_STUDIO_PASSWORD);
+await p.click(".oe_login_form button[type=submit]"); await p.waitForSelector(".o_app, .o_home_menu", { timeout: 60000 });
+const call = async (model, method, args, kwargs = {}) => { const r = await (await ctx.request.post(`${base}/web/dataset/call_kw/${model}/${method}`, { data: { jsonrpc: "2.0", method: "call", params: { model, method, args, kwargs } } })).json(); return r.error ? { error: r.error.data?.message ?? r.error.message } : r.result; };
+const me = await call("res.users", "search_read", [[["login", "=", process.env.JAWAB_STUDIO_USER]]], { fields: ["name", "lang", "company_id", "groups_id"] });
+console.log("user:", me[0]?.name, "| company:", JSON.stringify(me[0]?.company_id), "| groups:", me[0]?.groups_id?.length);
+const co = await call("res.company", "search_read", [[]], { fields: ["name", "country_id", "currency_id", "chart_template"] });
+console.log("companies:", JSON.stringify(co));
+const pr = await call("res.partner", "search_read", [[]], { fields: ["name"], limit: 25, order: "id desc" });
+console.log("partners(last 25):", pr.map?.((x) => x.name).join(" | "));
+const pt = await call("product.template", "search_read", [[]], { fields: ["name"], limit: 12, order: "id desc" });
+console.log("products(last 12):", pt.map?.((x) => x.name).join(" | "));
+const mv = await call("account.move", "search_read", [[]], { fields: ["name", "state", "move_type", "partner_id"], limit: 8, order: "id desc" });
+console.log("moves:", JSON.stringify(mv));
+await b.close();

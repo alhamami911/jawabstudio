@@ -1,0 +1,4649 @@
+{
+ "Custom Object": [
+  "كائن مخصص"
+ ],
+ "binary": [
+  "ثنائي"
+ ],
+ "Custom Field": [
+  "حقل مخصص"
+ ],
+ "Cascade": [
+  "تعاقُب"
+ ],
+ "Standard": [
+  "قياسي"
+ ],
+ "List": [
+  "القائمة"
+ ],
+ "Base view": [
+  "واجهة العرض الأساسية"
+ ],
+ "Restore previous version (soft reset).": [
+  "استعادة النسخة السابقة (إعادة تشغيل)."
+ ],
+ "Append": [
+  "إضافة"
+ ],
+ "Action": [
+  "إجراء"
+ ],
+ "Current Window": [
+  "النافذة الحالية"
+ ],
+ "New Window": [
+  "نافذة جديدة"
+ ],
+ "Server Action": [
+  "إجراء الخادم"
+ ],
+ "Update Record": [
+  "تحديث السجل"
+ ],
+ "Adding": [
+  "جاري إضافة"
+ ],
+ "Yes (True)": [
+  "نعم (صحيح)"
+ ],
+ "Update": [
+  "تحديث"
+ ],
+ "value": [
+  "قيمة"
+ ],
+ "To Do": [
+  "المهام المراد تنفيذها"
+ ],
+ "URL": [
+  "رابط URL"
+ ],
+ "Minutes": [
+  "الدقائق"
+ ],
+ "Username": [
+  "اسم المستخدم"
+ ],
+ "None": [
+  "لا شيء",
+  "بدون"
+ ],
+ "Client": [
+  "العميل"
+ ],
+ "Uninstallable": [
+  "يمكن إلغاء تثبيته"
+ ],
+ "GPL Version 2": [
+  "GPL الإصدار 2"
+ ],
+ "Landscape": [
+  "بالعرض"
+ ],
+ "5 Minutes": [
+  "5 دقائق"
+ ],
+ "Before Address": [
+  "قبل العنوان"
+ ],
+ "Left-to-Right": [
+  "من اليسار إلى اليمين"
+ ],
+ "Monday": [
+  "الاثنين"
+ ],
+ "Contact": [
+  "جهة الاتصال"
+ ],
+ "Individual": [
+  "فرد"
+ ],
+ "After Amount": [
+  "بعد المبلغ"
+ ],
+ "Blank": [
+  "فارغ"
+ ],
+ "Password": [
+  "كلمة المرور"
+ ],
+ "Computer": [
+  "الحاسوب"
+ ],
+ "init": [
+  "إطلاق"
+ ],
+ "CSV File": [
+  "ملف CSV"
+ ],
+ "Module": [
+  "التطبيق"
+ ],
+ "choose": [
+  "اختر"
+ ],
+ "Option": [
+  "الخيار"
+ ],
+ "Official Apps": [
+  "التطبيقات الرسمية"
+ ],
+ "Online": [
+  "عبر الإنترنت"
+ ],
+ "Banned": [
+  "محظور"
+ ],
+ "Morning": [
+  "صباحاً"
+ ],
+ "Second": [
+  "الثاني"
+ ],
+ "Section": [
+  "القسم"
+ ],
+ "Time Off": [
+  "الإجازات"
+ ],
+ "Human": [
+  "إنسان"
+ ],
+ "Everyone": [
+  "الجميع"
+ ],
+ "Not Tested": [
+  "لم يتم اختباره"
+ ],
+ "Overdue": [
+  "متأخر"
+ ],
+ "Alert": [
+  "التنبيه"
+ ],
+ "Not Confirmed": [
+  "غير مؤكد"
+ ],
+ "IMAP Server": [
+  "خادم IMAP"
+ ],
+ "Inbox": [
+  "صندوق الوارد"
+ ],
+ "Ready to Send": [
+  "جاهز للإرسال"
+ ],
+ "Unknown error": [
+  "خطأ غير معروف"
+ ],
+ "days": [
+  "أيام"
+ ],
+ "after completion date": [
+  "بعد تاريخ الإكمال"
+ ],
+ "Suggest Next Activity": [
+  "اقتراح النشاط التالي"
+ ],
+ "Before Plan Date": [
+  "قبل تاريخ الخطة"
+ ],
+ "Ask at launch": [
+  "السؤال عند الإطلاق"
+ ],
+ "Incoming Email": [
+  "البريد الإلكتروني الوارد"
+ ],
+ "Outgoing": [
+  "الصادرة"
+ ],
+ "Base Template": [
+  "القالب الأساسي"
+ ],
+ "stun:": [
+  "إيقاف:"
+ ],
+ "All Messages": [
+  "كافة الرسائل"
+ ],
+ "Email": [
+  "البريد الإلكتروني"
+ ],
+ "Days": [
+  "الأيام",
+  "أيام"
+ ],
+ "Specific User": [
+  "مستخدم معين"
+ ],
+ "High": [
+  "مرتفع"
+ ],
+ "Handle by Emails": [
+  "التعامل عن طريق رسائل البريد الإلكتروني"
+ ],
+ "Open": [
+  "فتح",
+  "غير محدد المدة"
+ ],
+ "Chat": [
+  "الدردشة"
+ ],
+ "Full screen video": [
+  "مقطع فيديو بوضع ملء الشاشة"
+ ],
+ "Post on a document": [
+  "النشر على مستند"
+ ],
+ "Automated Targeted Notification": [
+  "الإشعارات المستهدفة المؤتمتة"
+ ],
+ "Store email and replies in the chatter of each record": [
+  "قم بتجزين البريد والردود في الدردشة لكل سجل"
+ ],
+ "On invitation": [
+  "بدعوة"
+ ],
+ "Never Connected": [
+  "لم يتصل من قبل"
+ ],
+ "Not initialized": [
+  "لم يبدأ"
+ ],
+ "Valid": [
+  "صالح",
+  "سارية"
+ ],
+ "SMS (without note)": [
+  "الرسائل النصية القصيرة (دون ملاحظة)"
+ ],
+ "In Queue": [
+  "في قائمة الانتظار"
+ ],
+ "Send to numbers": [
+  "الإرسال إلى الأرقام"
+ ],
+ "Daily": [
+  "يوميًا",
+  "يومي"
+ ],
+ "Activated": [
+  "مفعل"
+ ],
+ "301 Moved permanently": [
+  "301 تم نقله بشكل دائم"
+ ],
+ "404 Not Found": [
+  "404 لم يتم العثور عليه"
+ ],
+ "Public": [
+  "عام"
+ ],
+ "Grid": [
+  "الشبكة"
+ ],
+ "Bigger than the reference Unit of Measure": [
+  "أكبر من وحدة القياس المرجعية"
+ ],
+ "Never": [
+  "مطلقًا",
+  "مطلقاً"
+ ],
+ "Any": [
+  "أي"
+ ],
+ "Alias": [
+  "لقب"
+ ],
+ "Not done": [
+  "غير منتهي"
+ ],
+ "Date": [
+  "التاريخ"
+ ],
+ "Optional": [
+  "اختياري"
+ ],
+ "Miscellaneous": [
+  "متفرقات"
+ ],
+ "Other": [
+  "غير ذلك",
+  "أخرى"
+ ],
+ "Goods": [
+  "البضائع"
+ ],
+ "Nothing": [
+  "لا شيء"
+ ],
+ "Instantly": [
+  "فوراً"
+ ],
+ "Radio": [
+  "راديو"
+ ],
+ "All Products": [
+  "كافة المنتجات"
+ ],
+ "Product": [
+  "المنتج"
+ ],
+ "Sales Price": [
+  "سعر البيع"
+ ],
+ "Discount": [
+  "الخصم",
+  "خصم"
+ ],
+ "Kilograms": [
+  "كيلوجرامات"
+ ],
+ "Cubic Meters": [
+  "متر مكعب"
+ ],
+ "Add to existing products": [
+  "إضافة إلى المنتجات الموجودة"
+ ],
+ "Unsupported": [
+  "غير مدعوم"
+ ],
+ "No Provider Set": [
+  "لم يتم تعيين مزود"
+ ],
+ "Disabled": [
+  "معطل"
+ ],
+ "Full Only": [
+  "كامل فقط"
+ ],
+ "Draft": [
+  "مسودة"
+ ],
+ "Online payment with redirection": [
+  "الدفع عبر الإنترنت مع إعادة التوجيه"
+ ],
+ "Credit & Debit card (via Stripe)": [
+  "البطاقة الائتمانية وبطاقة الخصم (عن طريق Stripe)"
+ ],
+ "Journal Entry": [
+  "قيد اليومية"
+ ],
+ "No": [
+  "لا"
+ ],
+ "Not Paid": [
+  "غير مدفوع"
+ ],
+ "Sent": [
+  "تم الإرسال"
+ ],
+ "Templates Found": [
+  "القوالب التي تم إيجادها"
+ ],
+ "Good Debtor": [
+  "مدين ملتزم"
+ ],
+ "No Message": [
+  "لا توجد رسالة"
+ ],
+ "Download": [
+  "تنزيل"
+ ],
+ "Always": [
+  "دائمًا"
+ ],
+ "Accounts": [
+  "الحسابات"
+ ],
+ "Receivable": [
+  "المدين"
+ ],
+ "Equity": [
+  "رأس المال"
+ ],
+ "Sales": [
+  "المبيعات"
+ ],
+ "Odoo": [
+  "Jawab ERP"
+ ],
+ "January": [
+  "يناير"
+ ],
+ "Round per Line": [
+  "التقريب لكل بند"
+ ],
+ "Add a Note": [
+  "إضافة ملاحظة"
+ ],
+ "Customer Invoices": [
+  "فواتير العملاء"
+ ],
+ "Tax Included": [
+  "شامل الضريبة"
+ ],
+ "Active": [
+  "نشط",
+  "نشيط"
+ ],
+ "Global Lock Date": [
+  "تاريخ الإقفال العام"
+ ],
+ "Services": [
+  "الخدمات"
+ ],
+ "Group of Taxes": [
+  "مجموعة من الضرائب"
+ ],
+ "Based on Invoice": [
+  "بناءً على الفواتير"
+ ],
+ "Base": [
+  "قاعدة"
+ ],
+ "Invoice": [
+  "الفاتورة"
+ ],
+ "Fixed": [
+  "ثابت"
+ ],
+ "Button to generate counterpart entry": [
+  "زر لإنشاء القيد المقابل"
+ ],
+ "Oldest first": [
+  "الأقدم أولاً"
+ ],
+ "Received": [
+  "تم الاستلام"
+ ],
+ "Is Lower Than": [
+  "أصغر من"
+ ],
+ "Contains": [
+  "يحتوي على"
+ ],
+ "in percentage": [
+  "بالنسبة المئوية"
+ ],
+ "On early payment": [
+  "عند الدفع المبكر"
+ ],
+ "Percent": [
+  "بالمئة"
+ ],
+ "Days after invoice date": [
+  "أيام بعد تاريخ الفاتورة"
+ ],
+ "Send": [
+  "إرسال"
+ ],
+ "Customer": [
+  "العميل"
+ ],
+ "Credit Note": [
+  "إشعار دائن"
+ ],
+ "Inbound": [
+  "واردة"
+ ],
+ "Modify tax amount": [
+  "تعديل مبلغ الضريبة"
+ ],
+ "Up": [
+  "أعلى"
+ ],
+ "Country Matches": [
+  "تطابقات الدول"
+ ],
+ "Nearest": [
+  "الأقرب"
+ ],
+ "This Year": [
+  "هذه السنة"
+ ],
+ "Use the most recent rate at the date of the report": [
+  "استخدم أحدث سعر لصرف العملة في التاريخ الذي صدر فيه التقرير"
+ ],
+ "Enabled by Default": [
+  "مفعّل تلقائياً"
+ ],
+ "Payable and receivable": [
+  "الدائنة والمدينة"
+ ],
+ "Left": [
+  "يسار"
+ ],
+ "Odoo Domain": [
+  "نطاق Jawab ERP"
+ ],
+ "From the very start": [
+  "منذ البداية"
+ ],
+ "Monetary": [
+  "نقدي"
+ ],
+ "Change Period": [
+  "تغيير الفترة الزمنية"
+ ],
+ "Revenue": [
+  "الإيرادات"
+ ],
+ "Keep current order": [
+  "إبقاء الترتيب الحالي"
+ ],
+ "Next Installment": [
+  "القسط التالي"
+ ],
+ "Send Money": [
+  "إرسال المال"
+ ],
+ "Keep open": [
+  "اتركها مفتوحة"
+ ],
+ "Customer Invoice": [
+  "فاتورة العميل"
+ ],
+ "Vendor Location": [
+  "موقع المورّد"
+ ],
+ "Normal": [
+  "عادي"
+ ],
+ "New": [
+  "جديد"
+ ],
+ "Default: Take From Stock": [
+  "الافتراضي : الأخذ من المخزون"
+ ],
+ "Leave Empty": [
+  "اتركه فارغاً"
+ ],
+ "Pull From": [
+  "السحب من"
+ ],
+ "Take From Stock": [
+  "الأخذ من المخزون"
+ ],
+ "Manual Operation": [
+  "العملية اليدوية"
+ ],
+ "Partial": [
+  "جزئي"
+ ],
+ "Auto": [
+  "تلقائي"
+ ],
+ "Receipt": [
+  "الإيصال"
+ ],
+ "At Confirmation": [
+  "عند التأكيد"
+ ],
+ "4 x 12 - One per lot/SN": [
+  "4 x 12 - واحدة لكل رقم مجموعة/رقم تسلسلي"
+ ],
+ "Ask": [
+  "اسأل"
+ ],
+ "As soon as possible": [
+  "في أقرب وقت ممكن"
+ ],
+ "Available": [
+  "متاح",
+  "متاحة"
+ ],
+ "Before": [
+  "قبل"
+ ],
+ "Disposable Box": [
+  "صندوق للاستخدام مرة واحدة"
+ ],
+ "Receive and Store (1 step)": [
+  "الاستلام والتخزين (خطوة واحدة)"
+ ],
+ "Deliver (1 step)": [
+  "التوصيل (خطوة واحدة)"
+ ],
+ "By Unique Serial Number": [
+  "حسب الرقم التسلسلي الفريد"
+ ],
+ "Reserve Only Full Packagings": [
+  "حجز التعبئات الكاملة فقط"
+ ],
+ "If the location is empty": [
+  "إذا كان الموقع فارغاً"
+ ],
+ "Forecasted Stock": [
+  "المخزون المتوقع"
+ ],
+ "Operation Quantities": [
+  "كميات العملية"
+ ],
+ "Product Labels": [
+  "بطاقات عناوين المنتجات"
+ ],
+ "One per lot/SN": [
+  "واحدة لكل رقم مجموعة/رقم تسلسلي"
+ ],
+ "4 x 12": [
+  "4 × 12"
+ ],
+ "1 Day": [
+  "يوم 1"
+ ],
+ "Manual": [
+  "يدوي"
+ ],
+ "Standard Price": [
+  "السعر القياسي"
+ ],
+ "Tax-Excluded Price": [
+  "السعر غير شامل للضريبة"
+ ],
+ "Original": [
+  "أصلي"
+ ],
+ "Opening Control": [
+  "التحكم في الفتح"
+ ],
+ "At the session closing": [
+  "عند إقفال الجلسة"
+ ],
+ "QR code": [
+  "QR Code"
+ ],
+ "Cash": [
+  "نقدي"
+ ],
+ " Use a printer connected to the IoT Box": [
+  "استخدم طابعة متصلة بجهاز IoT"
+ ],
+ "Invisible": [
+  "مخفي"
+ ],
+ "Home": [
+  "الرئيسية"
+ ],
+ "Present": [
+  "حاضر"
+ ],
+ "Male": [
+  "ذكر"
+ ],
+ "Graduate": [
+  "خريج"
+ ],
+ "km": [
+  "كم"
+ ],
+ "Employee": [
+  "الموظف"
+ ],
+ "To Approve": [
+  "بانتظار الموافقة"
+ ],
+ "Kiosk": [
+  "كشك"
+ ],
+ "Checked out": [
+  "تم تسجيل الخروج"
+ ],
+ "Barcode / RFID": [
+  "الباركود / رقاقات RFID"
+ ],
+ "Scanner": [
+  "الماسح الضوئي"
+ ],
+ "Automatically Approved": [
+  "تمت الموافقة تلقائياً"
+ ],
+ "Classic": [
+  "كلاسيكي",
+  "الكلاسيكية"
+ ],
+ "Deferred Expense": [
+  "النفقات المؤجلة"
+ ],
+ "On bill validation": [
+  "عند تصديق فاتورة المورّد"
+ ],
+ "Invalid": [
+  "غير صالح"
+ ],
+ "liquidity": [
+  "السيولة"
+ ],
+ "for me": [
+  "لي"
+ ],
+ "for 5 minutes": [
+  "لمدة 5 دقائق"
+ ],
+ "Perfect Match": [
+  "مطابق تماماً"
+ ],
+ "RFQ": [
+  "طلب عرض سعر"
+ ],
+ "Nothing to Bill": [
+  "لا يوجد شي لفوترته"
+ ],
+ "On ordered quantities": [
+  "حسب الكميات المطلوبة"
+ ],
+ "Allow to edit purchase orders": [
+  "السماح بتحرير أوامر الشراء"
+ ],
+ "Confirm purchase orders in one step": [
+  "تأكيد أوامر الشراء في خطوة واحدة"
+ ],
+ "Ordered quantities": [
+  "الكميات المطلوبة"
+ ],
+ "Draft RFQ": [
+  "مسودة طلب عرض سعر"
+ ],
+ "Monthly": [
+  "شهرياً",
+  "شهري",
+  "شهريًا"
+ ],
+ "Planned": [
+  "المخطط له",
+  "مخططة"
+ ],
+ "Connected": [
+  "متصل"
+ ],
+ "Pending": [
+  "قيد الانتظار"
+ ],
+ "Not Received": [
+  "لم يتم الاستلام"
+ ],
+ "Budget": [
+  "الميزانية"
+ ],
+ "Month": [
+  "الشهر"
+ ],
+ "annually": [
+  "سنوياً"
+ ],
+ "Single Recipient": [
+  "مستلم واحد"
+ ],
+ "Model": [
+  "النموذج"
+ ],
+ "Straight Line": [
+  "خط مستقيم"
+ ],
+ "Months": [
+  "شهور"
+ ],
+ "No Prorata": [
+  "بلاتناسب"
+ ],
+ "Depreciation": [
+  "إهلاك"
+ ],
+ "Gain": [
+  "الربح"
+ ],
+ "Do not digitize": [
+  "لا تقم بالرقمنة"
+ ],
+ "Follow-up Responsible": [
+  "مسؤول المتابعة"
+ ],
+ "In need of action": [
+  "بحاجة إلى اتخاذ إجراء"
+ ],
+ "Automatic": [
+  "تلقائي"
+ ],
+ "End of Month": [
+  "نهاية الشهر"
+ ],
+ "Based on Document Reference": [
+  "بناءً على مرجع المستند"
+ ],
+ "Hidden": [
+  "مخفي"
+ ],
+ "Manually set quantities on order": [
+  "تحديد الكميات في الطلب يدوياً"
+ ],
+ "Sign online": [
+  "التوقيع عبر الإنترنت"
+ ],
+ "Quotation": [
+  "عرض سعر"
+ ],
+ "Upselling Opportunity": [
+  "فرصة الارتقاء بالصفقة"
+ ],
+ "Sales Order": [
+  "أمر البيع"
+ ],
+ "Electronic signature": [
+  "التوقيع الإلكتروني"
+ ],
+ "Invoice what is ordered": [
+  "فوترة الكميات المطلوبة"
+ ],
+ "Regular invoice": [
+  "فاتورة دورية"
+ ],
+ "On All Order Lines": [
+  "في كافة بنود الطلب"
+ ],
+ "Ship products as soon as available, with back orders": [
+  "شحن كل منتج على حدة عند توافره، مع الطلبات المؤجلة"
+ ],
+ "Not Delivered": [
+  "لم يتم توصيلها"
+ ],
+ "Header": [
+  "الترويسة"
+ ],
+ "Header/Footer": [
+  "الترويسة/التذييل"
+ ],
+ "Needs Action": [
+  "يتطلب اتخاذ إجراء"
+ ],
+ "Number of repetitions": [
+  "مرات التكرار"
+ ],
+ "Date of month": [
+  "اليوم من الشهر"
+ ],
+ "First": [
+  "الأول"
+ ],
+ "Discuss": [
+  "المناقشة"
+ ],
+ "This event": [
+  "هذه الفعالية"
+ ],
+ "Notification": [
+  "إشعار"
+ ],
+ "Delete this event": [
+  "حذف هذه الفعالية"
+ ],
+ "Bronze": [
+  "برونزي"
+ ],
+ "Non recurring": [
+  "غير متكرر"
+ ],
+ "Individual Goals": [
+  "الأهداف الفردية"
+ ],
+ "Human Resources / Engagement": [
+  "الموارد البشرية/المشاركة"
+ ],
+ "Recorded manually": [
+  "تم التسجيل يدويًا"
+ ],
+ "Progressive (using numerical values)": [
+  "التقدمية (باستخدام القيم العددية)"
+ ],
+ "The higher the better": [
+  "كلما كانت القيمة أعلى كان ذلك أفضل"
+ ],
+ "Satisfied": [
+  "راضي"
+ ],
+ "In Progress": [
+  "قيد التنفيذ"
+ ],
+ "A4 foldable": [
+  "A4 قابلة للطي"
+ ],
+ "Immediately": [
+  "فورًا"
+ ],
+ "After each registration": [
+  "بعد كل تسجيل"
+ ],
+ "Mail": [
+  "البريد الإلكتروني"
+ ],
+ "Running": [
+  "جاري"
+ ],
+ "Unconfirmed": [
+  "غير مؤكد"
+ ],
+ "Selection": [
+  "قائمة خيارات"
+ ],
+ "Lead": [
+  "عميل مهتم"
+ ],
+ "Low": [
+  "منخفض"
+ ],
+ "Correct": [
+  "صحيحة"
+ ],
+ "Manually": [
+  "يدويًا"
+ ],
+ "Enrich leads on demand only": [
+  "إثراء العملاء المهتمين عند الطلب فقط"
+ ],
+ "Convert to opportunity": [
+  "التحويل إلى فرصة"
+ ],
+ "Create a new customer": [
+  "إنشاء عميل جديد"
+ ],
+ "Send now": [
+  "إرسال الآن"
+ ],
+ "Recipient Followers": [
+  "المتابعين المستلمين"
+ ],
+ "Merge into a new mailing list": [
+  "الدمج في قائمة بريدية جديدة"
+ ],
+ "Forever": [
+  "للأبد"
+ ],
+ "On Track": [
+  "في المسار"
+ ],
+ "Invited internal users (private)": [
+  "المستخدمون الداخليون المدعوون (خاص)"
+ ],
+ "when reaching a given stage": [
+  "عند الوصول إلى مرحلة محددة"
+ ],
+ "Closed tasks": [
+  "المهام المغلقة"
+ ],
+ "Read": [
+  "اقرأ"
+ ],
+ "Per Attendee": [
+  "لكل حاضر"
+ ],
+ "Attendees are created": [
+  "تم إنشاء الحاضرين"
+ ],
+ "To Report": [
+  "لإعداد التقارير"
+ ],
+ "Employee (to reimburse)": [
+  "الموظف (لرد الأموال)"
+ ],
+ "To Submit": [
+  "للإرسال"
+ ],
+ "Submitted": [
+  "تم الإرسال",
+  "مُقَدَّم",
+  "تم التقديم"
+ ],
+ "Waiting Approval": [
+  "بانتظار الموافقة"
+ ],
+ "Hours": [
+  "ساعات"
+ ],
+ "Regular Allocation": [
+  "التخصيص المنتظم"
+ ],
+ "No Validation": [
+  "بلا تصديق"
+ ],
+ "Yes": [
+  "نعم"
+ ],
+ "Extra Days Requests Allowed": [
+  "طلبات الأيام الإضافية المسموح بها"
+ ],
+ "Worked Time": [
+  "الوقت المقضي في العمل"
+ ],
+ "Day": [
+  "اليوم"
+ ],
+ "Hourly": [
+  "في الساعة"
+ ],
+ "July": [
+  "يوليو"
+ ],
+ "None. Accrued time reset to 0": [
+  "لا أحد. إعادة تعيين الوقت المتراكم إلى 0"
+ ],
+ "At the start of the accrual period": [
+  "في بداية فترة الاستحقاق"
+ ],
+ "At the start of the year": [
+  "في بداية العام"
+ ],
+ "Allocation": [
+  "التخصيص"
+ ],
+ "Cancelled": [
+  "تم الإلغاء",
+  "ملغاة"
+ ],
+ "Taken": [
+  "تم أخذها"
+ ],
+ "Approved": [
+  "تمت الموافقة",
+  "معتمد",
+  "موافقة"
+ ],
+ "By Employee": [
+  "حسب الموظف"
+ ],
+ "Grey": [
+  "رمادي"
+ ],
+ "Ongoing": [
+  "جاري"
+ ],
+ "Manufacture this product": [
+  "تصنيع هذا المنتج"
+ ],
+ " When all components are available": [
+  "عندما تصبح كافة المكونات متاحة"
+ ],
+ "Allowed": [
+  "مسموح به"
+ ],
+ "Compute based on tracked time": [
+  "الاحتساب حسب الوقت المتتبع"
+ ],
+ "Availability": [
+  "التوافر"
+ ],
+ "Waiting": [
+  "قيد الانتظار",
+  "قيد المراجعة"
+ ],
+ "Waiting for another WO": [
+  "بانتظار أمر عمل آخر"
+ ],
+ "Manufacture (1 step)": [
+  "تصنيع (خطوة واحدة)"
+ ],
+ "Companies": [
+  "الشركات"
+ ],
+ "Insufficient Credits": [
+  "ليس لديك الرصيد الكافي"
+ ],
+ "Leads": [
+  "العملاء المهتمين"
+ ],
+ "Role": [
+  "الدور"
+ ],
+ "Calendar": [
+  "التقويم"
+ ],
+ "Community Menu": [
+  "قائمة المجتمع"
+ ],
+ "Based on Rules": [
+  "حسب القواعد"
+ ],
+ "Get Rate": [
+  "حساب السعر"
+ ],
+ "Estimated cost": [
+  "التكلفة التقديرية"
+ ],
+ "Weight": [
+  "الوزن"
+ ],
+ "Image": [
+  "صورة"
+ ],
+ "Upload from Device": [
+  "الرفع من الجهاز"
+ ],
+ "Invite Sent": [
+  "تم إرسال الدعوة"
+ ],
+ "Training": [
+  "التدريب"
+ ],
+ "Latest Created": [
+  "الشرائح التي تم إنشاؤها مؤخراً"
+ ],
+ "File": [
+  "الملف"
+ ],
+ "Not Sold": [
+  "لم تباع"
+ ],
+ "No carrier integration": [
+  "لم يتم اختيار شركة شحن"
+ ],
+ "Visible": [
+  "مرئي"
+ ],
+ "Tax Excluded": [
+  "غير شامل الضريبة"
+ ],
+ "Stay on Product Page": [
+  "البقاء في صفحة المنتج"
+ ],
+ "Carousel": [
+  "منصّة عرض بعناصر متغيّرة"
+ ],
+ "All users": [
+  "كافة المستخدمين"
+ ],
+ "Square": [
+  "مربع"
+ ],
+ "Inactive": [
+  "غير نشط"
+ ],
+ "Disable": [
+  "تعطيل"
+ ],
+ "Pickup zone": [
+  "منطقة الاستلام"
+ ],
+ "Primary": [
+  "الرئيسي"
+ ],
+ "Create in draft": [
+  "إنشاء في مسودة"
+ ],
+ "Creditor": [
+  "الدائن"
+ ],
+ "Austrian": [
+  "نمساوي"
+ ],
+ "Default (Pain 008.001.02)": [
+  "الافتراضي (Pain 008.001.02)"
+ ],
+ "mm/dd/yy": [
+  "شهر/يوم/ سنة"
+ ],
+ "Uninitiated": [
+  "لم يتم البدء به"
+ ],
+ "Commodity": [
+  "سلعة"
+ ],
+ "Very Low": [
+  "منخفض جدًا"
+ ],
+ "Corrective": [
+  "تصحيحي"
+ ],
+ "Department": [
+  "القسم"
+ ],
+ "Survey": [
+  "استطلاع"
+ ],
+ "One page per question": [
+  "صفحة واحدة لكل سؤال"
+ ],
+ "All questions": [
+  "كافة الأسئلة"
+ ],
+ "Percentage left": [
+  "نسبة الأسئلة المتبقية"
+ ],
+ "Anyone with the link": [
+  "أي شخص لديه الرابط"
+ ],
+ "No scoring": [
+  "لا توجد درجة"
+ ],
+ "Modern Purple": [
+  "بنفسجي عصري"
+ ],
+ "Ready": [
+  "جاهز"
+ ],
+ "Multiple choice: only one answer": [
+  "اختيار من متعدد: إجابة واحدة فقط"
+ ],
+ "One choice per row": [
+  "خيار واحد لكل صف"
+ ],
+ "Free Text": [
+  "نص حر"
+ ],
+ "New invite": [
+  "دعوة جديدة"
+ ],
+ "Expired": [
+  "منتهي الصلاحية",
+  "منتهية"
+ ],
+ "Under Contract": [
+  "خاضع للعقد"
+ ],
+ "General": [
+  "عام"
+ ],
+ "Contract": [
+  "العقد"
+ ],
+ "Car": [
+  "السيارة"
+ ],
+ "Diesel": [
+  "ديزل"
+ ],
+ "Incoming": [
+  "واردة"
+ ],
+ "Diamant": [
+  "ديامانت"
+ ],
+ "To Send": [
+  "بانتظار الإرسال"
+ ],
+ "Info": [
+  "معلومات",
+  "المعلومات"
+ ],
+ "Production mode": [
+  "وضع الإنتاج"
+ ],
+ "AE - Vat Reverse Charge": [
+  "نظام عكس ضريبة القيمة المضافة في الإمارات العربية المتحدة"
+ ],
+ "Ready to send": [
+  "جاهز للإرسال"
+ ],
+ "Not registered": [
+  "غير مسجل"
+ ],
+ "Unchecked": [
+  "غير محدد"
+ ],
+ "Demo": [
+  "النسخة التجريبية"
+ ],
+ "Acknowledgement": [
+  "شكر وتقدير"
+ ],
+ "Pending Reception": [
+  "بانتظار الاستقبال"
+ ],
+ "At Creation": [
+  "عند الإنشاء"
+ ],
+ "Free Product": [
+  "منتج مجاني"
+ ],
+ "Order": [
+  "الطلب"
+ ],
+ "tax included": [
+  "شامل الضريبة"
+ ],
+ "Coupons": [
+  "الكوبونات"
+ ],
+ "Current order": [
+  "الطلب الحالي"
+ ],
+ "Anonymous Customers": [
+  "العملاء مجهولو الهوية"
+ ],
+ "Child Company": [
+  "شركة تابعة"
+ ],
+ "Prospect": [
+  "مُحتمل"
+ ],
+ "Percentage of Revenue": [
+  "نسبة من الإيرادات"
+ ],
+ "POS Sales": [
+  "مبيعات نقطة البيع"
+ ],
+ "Legal & Documentation": [
+  "الشؤون القانونية والمستندات"
+ ],
+ "Low (< $50K)": [
+  "منخفضة (أقل من 50 ألف دولار)"
+ ],
+ "Website": [
+  "الموقع الإلكتروني"
+ ],
+ "FOCO": [
+  "مملوك للامتياز ومُدار من الشركة (FOCO)"
+ ],
+ "Grace Period Expired": [
+  "انتهت فترة السماح"
+ ],
+ "Royalty": [
+  "الإتاوة"
+ ],
+ "Scheduled": [
+  "مجدول",
+  "تمت الجدولة"
+ ],
+ "Excellent (90-100%)": [
+  "ممتاز (90–100%)"
+ ],
+ "Initial Training": [
+  "تدريب تأسيسي"
+ ],
+ "In-Person": [
+  "حضوري"
+ ],
+ "Enrolled": [
+  "مُسجل"
+ ],
+ "Financial": [
+  "مالي"
+ ],
+ "Manual Entry": [
+  "إدخال يدوي"
+ ],
+ "On Target": [
+  "ضمن المستهدف"
+ ],
+ "Announcement": [
+  "إعلان"
+ ],
+ "All Franchisees": [
+  "جميع أصحاب الامتياز"
+ ],
+ "Working Schedule": [
+  "جدول العمل"
+ ],
+ "Always True": [
+  "دائمًا صحيح"
+ ],
+ "Percentage (%)": [
+  "النسبة المئوية (%)"
+ ],
+ "Saudi": [
+  "سعودي"
+ ],
+ "Salary Advance": [
+  "سلفة على الراتب"
+ ],
+ "Iqama / Residency Permit": [
+  "الإقامة"
+ ],
+ "Verbal Warning": [
+  "إنذار شفهي"
+ ],
+ "Laptop / Computer": [
+  "حاسب محمول / حاسب آلي"
+ ],
+ "Allocated": [
+  "مُسلَّمة"
+ ],
+ "Working schedule": [
+  "جدول العمل"
+ ],
+ "Absent - deducted": [
+  "غائب - يُخصم"
+ ],
+ "Basic salary": [
+  "الراتب الأساسي"
+ ],
+ "Earning": [
+  "استحقاق"
+ ],
+ "HR": [
+  "الموارد البشرية"
+ ],
+ "Business Trip": [
+  "رحلة عمل"
+ ],
+ "Domestic": [
+  "داخلية"
+ ],
+ "Myself": [
+  "لي شخصيًا"
+ ],
+ "Saudi Nationals": [
+  "المواطنون السعوديون"
+ ],
+ "Yearly (12 months)": [
+  "سنوي (12 شهرًا)"
+ ],
+ "Decision Pending": [
+  "بانتظار القرار"
+ ],
+ "One": [
+  "واحد"
+ ],
+ "Internal Membership": [
+  "عضوية داخلية"
+ ],
+ "Direct": [
+  "مباشر"
+ ],
+ "Apply Deposit": [
+  "تطبيق مبلغ التأمين"
+ ],
+ "Cleaning": [
+  "قيد التنظيف"
+ ],
+ "Dirty": [
+  "غير نظيفة"
+ ],
+ "Custom": [
+  "مُخصص"
+ ],
+ "1 AM": [
+  "1 صباحًا"
+ ],
+ "Internal Reservation": [
+  "حجز داخلي"
+ ],
+ "KOT": [
+  "تذكرة طلب المطبخ"
+ ],
+ "Repair": [
+  "الإصلاح"
+ ],
+ "Internal Observation": [
+  "ملاحظة داخلية"
+ ],
+ "Internal": [
+  "داخلي"
+ ],
+ "Customer Arrival": [
+  "وصول العميل"
+ ],
+ "Booking": [
+  "الحجز"
+ ],
+ "Saudi Arabia": [
+  "المملكة العربية السعودية"
+ ],
+ "Test": [
+  "اختبار"
+ ],
+ "PayTabs": [
+  "باي تابس"
+ ],
+ "Base Object": [
+  "الكائن الأساسي"
+ ],
+ "boolean": [
+  "قيمة منطقية"
+ ],
+ "Base Field": [
+  "الحقل الأساسي"
+ ],
+ "Set NULL": [
+  "التعيين كقيمة باطلة"
+ ],
+ "No gap": [
+  "لا توجد فجوة"
+ ],
+ "Form": [
+  "الاستمارة"
+ ],
+ "Extension View": [
+  "معاينة الامتداد"
+ ],
+ "Reset to file version (hard reset).": [
+  "إعادة تعيين إلى نسخة الملف (إعادة الضبط حسب إعدادات المصنع)."
+ ],
+ "Prepend": [
+  "إضافة إلى البداية"
+ ],
+ "Report": [
+  "التقرير"
+ ],
+ "This Window": [
+  "هذه النافذة"
+ ],
+ "Scheduled Action": [
+  "إجراء مجدول"
+ ],
+ "Removing": [
+  "جاري الإزالة"
+ ],
+ "No (False)": [
+  "لا (خطأ)"
+ ],
+ "Compute": [
+  "احتساب"
+ ],
+ "reference": [
+  "المرجع"
+ ],
+ "Done": [
+  "منتهي",
+  "منجز"
+ ],
+ "SSL Certificate": [
+  "شهادة SSL"
+ ],
+ "Server": [
+  "الخادم"
+ ],
+ "Not Installed": [
+  "غير مثبت"
+ ],
+ "GPL-2 or later version": [
+  "GPL-2 أو أحدث"
+ ],
+ "Portrait": [
+  "بالطول"
+ ],
+ "1 Hour": [
+  "ساعة 1"
+ ],
+ "After Address": [
+  "بعد العنوان"
+ ],
+ "Right-to-Left": [
+  "من اليمين إلى اليسار"
+ ],
+ "Tuesday": [
+  "الثلاثاء"
+ ],
+ "Invoice Address": [
+  "عنوان الفاتورة"
+ ],
+ "Company": [
+  "الشركة"
+ ],
+ "Before Amount": [
+  "قبل المبلغ"
+ ],
+ "Demo logo": [
+  "الشعار التجريبي"
+ ],
+ "Mobile": [
+  "الهاتف المحمول"
+ ],
+ "done": [
+  "تم"
+ ],
+ "PO File": [
+  "ملف PO"
+ ],
+ "get": [
+  "احصل على"
+ ],
+ "Industries": [
+  "مجالات العمل"
+ ],
+ "Away": [
+  "بعيد"
+ ],
+ "Registered": [
+  "مُسجل"
+ ],
+ "Break": [
+  "فاصل"
+ ],
+ "Material": [
+  "المادة"
+ ],
+ "Authenticated Partners": [
+  "الشركاء المعتمدون"
+ ],
+ "Today": [
+  "اليوم"
+ ],
+ "Error": [
+  "خطأ"
+ ],
+ "Confirmed": [
+  "تم التأكيد"
+ ],
+ "POP Server": [
+  "خادم POP"
+ ],
+ "Processing": [
+  "معالجة"
+ ],
+ "Bounce": [
+  "الارتداد"
+ ],
+ "weeks": [
+  "أسابيع"
+ ],
+ "after previous activity deadline": [
+  "بعد الموعد النهائي للنشاط السابق"
+ ],
+ "Trigger Next Activity": [
+  "تشغيل النشاط التالي"
+ ],
+ "Upload Document": [
+  "رفع المستند"
+ ],
+ "After Plan Date": [
+  "بعد تاريخ الخطة"
+ ],
+ "Default user": [
+  "المستخدم الافتراضي"
+ ],
+ "Comment": [
+  "تعليق"
+ ],
+ "Invalid email address": [
+  "عنوان البريد الإلكتروني غير صالح"
+ ],
+ "Hidden Template": [
+  "قالب مخفي"
+ ],
+ "turn:": [
+  "الدوران:"
+ ],
+ "Create Activity": [
+  "إنشاء نشاط"
+ ],
+ "Message": [
+  "الرسالة"
+ ],
+ "Weeks": [
+  "أسابيع"
+ ],
+ "Dynamic User (based on record)": [
+  "مستخدم ديناميكي (بناءً على السجل)"
+ ],
+ "Medium": [
+  "متوسط"
+ ],
+ "Handle in Jawab ERP": [
+  "التعامل داخل Jawab ERP"
+ ],
+ "Folded": [
+  "مطوي"
+ ],
+ "Mentions Only": [
+  "الإشارات فقط"
+ ],
+ "Channel": [
+  "القناة"
+ ],
+ "Email Mass Mailing": [
+  "إرسال بريد إلكتروني جماعي"
+ ],
+ "Collect replies on a specific email address": [
+  "قم بجمع الردود في عنوان بريد محدد"
+ ],
+ "Free sign up": [
+  "تسجيل مجاني"
+ ],
+ "Onboarding emoji": [
+  "الوجه الباسم للتهيئة للعمل"
+ ],
+ "SMS (with note)": [
+  "الرسائل النصية القصيرة (مع ملاحظة)"
+ ],
+ "Missing Number": [
+  "الرقم مفقود"
+ ],
+ "Weekly": [
+  "أسبوعيًا",
+  "أسبوعي"
+ ],
+ "Deactivated": [
+  "معطل"
+ ],
+ "302 Moved temporarily": [
+  "302 تم نقله بشكل مؤقت"
+ ],
+ "Signed In": [
+  "تم تسجيل الدخول"
+ ],
+ "Reference Unit of Measure for this category": [
+  "وحدة القياس المرجعية لهذه الفئة"
+ ],
+ "EAN-13 to UPC-A": [
+  "EAN-13 إلى UPC-A"
+ ],
+ "Unit Product": [
+  "وحدة المنتج"
+ ],
+ "Just done": [
+  "انتهت للتو"
+ ],
+ "Measure": [
+  "المقياس"
+ ],
+ "Mandatory": [
+  "إلزامي"
+ ],
+ "Service": [
+  "الخدمة"
+ ],
+ "Dynamically": [
+  "ديناميكياً"
+ ],
+ "Pills": [
+  "حبوب"
+ ],
+ "Product Category": [
+  "فئة المنتج"
+ ],
+ "Category": [
+  "الفئة"
+ ],
+ "Cost": [
+  "التكلفة"
+ ],
+ "Formula": [
+  "الصيغة"
+ ],
+ "Pounds": [
+  "أرطال"
+ ],
+ "Cubic Feet": [
+  "قدم مكعب"
+ ],
+ "2 x 7 with price": [
+  "2 × 7 بالسعر"
+ ],
+ "Update the extra price on existing products": [
+  "تحديث السعر الإضافي للمنتجات الموجودة"
+ ],
+ "Enabled": [
+  "ممكن"
+ ],
+ "Online direct payment": [
+  "الدفع المباشر عبر الإنترنت"
+ ],
+ "Posted": [
+  "مُرحّل"
+ ],
+ "At Date": [
+  "بتاريخ"
+ ],
+ "In Payment": [
+  "بانتظار التسوية"
+ ],
+ "Not Sent": [
+  "لم يتم الإرسال"
+ ],
+ "No Template": [
+  "لا يوجد قالب"
+ ],
+ "Normal Debtor": [
+  "المدين العادي"
+ ],
+ "Warning": [
+  "تحذير"
+ ],
+ "by Email": [
+  "عن طريق البريد الإلكتروني"
+ ],
+ "Ask after 3 validations without edits": [
+  "السؤال بعد 3 عمليات تصديق دون تعديلات"
+ ],
+ "Taxes": [
+  "الضرائب"
+ ],
+ "Bank and Cash": [
+  "البنك والنقد"
+ ],
+ "Asset": [
+  "أصل"
+ ],
+ "Purchase": [
+  "الشراء"
+ ],
+ "Based on Customer": [
+  "بناءً على العميل"
+ ],
+ "European": [
+  "الأوروبي"
+ ],
+ "February": [
+  "فبراير"
+ ],
+ "Round Globally": [
+  "التقريب الشامل"
+ ],
+ "Add a link to a Web Page": [
+  "أضف رابطاً لصفحة ويب"
+ ],
+ "Vendor Bills": [
+  "فواتير المورد"
+ ],
+ "Revoked": [
+  "ملغي"
+ ],
+ "Tax Return Lock Date": [
+  "تاريخ إقفال الإقرار الضريبي"
+ ],
+ "Purchases": [
+  "المشتريات"
+ ],
+ "Based on Payment": [
+  "بناءً على السداد"
+ ],
+ "of tax": [
+  "من الضريبة"
+ ],
+ "Refund": [
+  "استرداد الأموال"
+ ],
+ "Percentage of balance": [
+  "نسبة الرصيد"
+ ],
+ "Rule to suggest counterpart entry": [
+  "القاعدة لاقتراح قيد مقابل"
+ ],
+ "Newest first": [
+  "الأحدث أولاً"
+ ],
+ "Paid": [
+  "مدفوع",
+  "مدفوعة"
+ ],
+ "Is Greater Than": [
+  "أكبر من"
+ ],
+ "Not Contains": [
+  "لا يحتوي"
+ ],
+ "in amount": [
+  "بالمبلغ"
+ ],
+ "Days after end of month": [
+  "أيام بعد نهاية الشهر"
+ ],
+ "Cost of Goods Sold": [
+  "تكلفة البضائع المباعة"
+ ],
+ "In Process": [
+  "قيد التنفيذ"
+ ],
+ "Receive": [
+  "استلام"
+ ],
+ "Vendor": [
+  "المورد"
+ ],
+ "Outbound": [
+  "صادرة"
+ ],
+ "Add a rounding line": [
+  "إضافة بند تقريب"
+ ],
+ "Down": [
+  "أسفل"
+ ],
+ "Chart of Accounts Matches": [
+  "تطابقات شجرة الحسابات"
+ ],
+ "This Quarter": [
+  "ربع السنة الجاري"
+ ],
+ "Use CTA": [
+  "استخدم CTA"
+ ],
+ "Use Company Selector": [
+  "استخدم أداة تحديد الشركة"
+ ],
+ "Payable": [
+  "الدائن"
+ ],
+ "Right": [
+  "يمين"
+ ],
+ "Tax Tags": [
+  "علامات تصنيف الضرائب"
+ ],
+ "From the start of the fiscal year": [
+  "من بداية العام المالي"
+ ],
+ "Percentage": [
+  "النسبة"
+ ],
+ "Change Account": [
+  "تغيير الحساب"
+ ],
+ "Expense": [
+  "النفقة"
+ ],
+ "Reorder by accounting date": [
+  "إعادة الطلب حسب تاريخ المحاسبة"
+ ],
+ "Overdue Amount": [
+  "المبلغ المتأخر"
+ ],
+ "Receive Money": [
+  "استلام المال"
+ ],
+ "Mark as fully paid": [
+  "التحديد كمدفوع كلياً"
+ ],
+ "Account": [
+  "الحساب"
+ ],
+ "Vendor Bill": [
+  "فاتورة المورد"
+ ],
+ "Last Used": [
+  "آخر استخدام"
+ ],
+ "View": [
+  "أداة العرض"
+ ],
+ "Urgent": [
+  "عاجل"
+ ],
+ "Waiting Another Move": [
+  "في انتظار حركة أخرى"
+ ],
+ "Advanced: Apply Procurement Rules": [
+  "متقدم: تطبيق قواعد الشراء"
+ ],
+ "Propagate": [
+  "تكرار"
+ ],
+ "Push To": [
+  "الدفع إلى"
+ ],
+ "Trigger Another Rule": [
+  "تشغيل قاعدة أخرى"
+ ],
+ "Automatic No Step Added": [
+  "تمت إضافة رقم الخطة التلقائي"
+ ],
+ "All at once": [
+  "الكل دفعة واحدة"
+ ],
+ "Delivery": [
+  "التوصيل"
+ ],
+ "4 x 12 - One per unit": [
+  "4 x 12 - واحدة لكل وحدة"
+ ],
+ "When all products are ready": [
+  "عندما تكون كافة المنتجات جاهزة"
+ ],
+ "Waiting Another Operation": [
+  "في انتظار عملية أخرى"
+ ],
+ "Expected": [
+  "المتوقع"
+ ],
+ "Yesterday": [
+  "أمس",
+  "البارحة"
+ ],
+ "Reusable Box": [
+  "صندوق قابل لإعادة الاستخدام"
+ ],
+ "Receive then Store (2 steps)": [
+  "الاستلام ثم التخزين (خطوتان)"
+ ],
+ "Pick then Deliver (2 steps)": [
+  "التجهيز والتوصيل (خطوتان)"
+ ],
+ "By Lots": [
+  "حسب أرقام الدفعات"
+ ],
+ "Reserve Partial Packagings": [
+  "حجز التعبئات الجزئية"
+ ],
+ "If all products are same": [
+  "عندما تكون كافة المنتجات متشابهة"
+ ],
+ "Forecasted Receipts": [
+  "الإيصالات المتوقعة"
+ ],
+ "Lot/SN Labels": [
+  "بطاقات عناوين أرقام المجموعات/الأرقام التسلسلية"
+ ],
+ "One per unit": [
+  "واحدة لكل وحدة"
+ ],
+ "ZPL Labels": [
+  "بطاقات عناوين ZPL"
+ ],
+ "1 Week": [
+  "أسبوع 1"
+ ],
+ "Set Current Value": [
+  "تعيين القيمة الحالية"
+ ],
+ "Automated": [
+  "مؤتمت"
+ ],
+ "First In First Out (FIFO)": [
+  "الوارد أولاً يخرج أولاً (FIFO)"
+ ],
+ "Tax-Included Price": [
+  "السعر شامل للضريبة"
+ ],
+ "In real time": [
+  "في الوقت الفعلي"
+ ],
+ "Bank": [
+  "البنك"
+ ],
+ "Paypal Only": [
+  "Paypal فقط"
+ ],
+ "Use an Epson printer": [
+  "استخدام طابعة Epson"
+ ],
+ "Small": [
+  "صغير"
+ ],
+ "Office": [
+  "المكتب"
+ ],
+ "Absent": [
+  "غائب"
+ ],
+ "Out of Working hours": [
+  "خارج ساعات العمل"
+ ],
+ "Female": [
+  "أنثى"
+ ],
+ "Bachelor": [
+  "البكالوريوس"
+ ],
+ "mi": [
+  "ميل"
+ ],
+ "Worker": [
+  "العامل"
+ ],
+ "Checked in": [
+  "تم تسجيل الحضور"
+ ],
+ "Barcode / RFID and Manual Selection": [
+  "الباركود / رقاقات RFID والتحديد التلقائي"
+ ],
+ "Front Camera": [
+  "الكاميرا الأمامية"
+ ],
+ "Approved by Manager": [
+  "تمت الموافقة من قِبَل المدير"
+ ],
+ "Deferred Revenue": [
+  "الإيرادات المؤجلة"
+ ],
+ "Manually & Grouped": [
+  "يدوياً ومجمع"
+ ],
+ "for everyone": [
+  "للجميع"
+ ],
+ "for 15 minutes": [
+  "لمدة 15 دقيقة"
+ ],
+ "Clear Account": [
+  "تصفية الحساب"
+ ],
+ "RFQ Sent": [
+  "تم إرسال طلب عرض السعر"
+ ],
+ "Waiting Bills": [
+  "الفواتير قيد الانتظار"
+ ],
+ "Note": [
+  "الملاحظات"
+ ],
+ "On received quantities": [
+  "حسب الكميات المستلمة"
+ ],
+ "Confirmed purchase orders are not editable": [
+  "أوامر الشراء المؤكّدة غير قابلة للتحرير"
+ ],
+ "Get 2 levels of approvals to confirm a purchase order": [
+  "احصل على مستويين من الموافقة لتأكيد أمر شراء"
+ ],
+ "Received quantities": [
+  "الكميات المستلمة"
+ ],
+ "Quarterly": [
+  "ربع سنوي"
+ ],
+ "Partially Received": [
+  "تم الاستلام جزئياً"
+ ],
+ "Stock Moves": [
+  "حركات المخزون"
+ ],
+ "Committed": [
+  "ملتزم"
+ ],
+ "Quarter": [
+  "ربع السنة"
+ ],
+ "semi-annually": [
+  "شبه سنوي"
+ ],
+ "Multiple Recipients": [
+  "عدة مستلمين"
+ ],
+ "Declining": [
+  "منخفض"
+ ],
+ "Years": [
+  "سنوات"
+ ],
+ "Constant Periods": [
+  "فترات ثابتة"
+ ],
+ "Sale": [
+  "بيع"
+ ],
+ "Loss": [
+  "خسارة"
+ ],
+ "Digitize automatically": [
+  "الرقمنة تلقائياً"
+ ],
+ "Salesperson": [
+  "مندوب المبيعات"
+ ],
+ "With overdue invoices": [
+  "مع الفواتير المتأخرة"
+ ],
+ "Digitize on demand only": [
+  "رقمنة عند الطلب فقط"
+ ],
+ "At Anniversary": [
+  "في الذكرى السنوية"
+ ],
+ "Based on Customer ID": [
+  "حسب مُعرف العميل"
+ ],
+ "On quote": [
+  "في عرض السعر"
+ ],
+ "At cost": [
+  "بالتكلفة"
+ ],
+ "Delivered quantities": [
+  "الكميات التي تم توصيلها"
+ ],
+ "Quotation Sent": [
+  "تم إرسال عرض السعر"
+ ],
+ "Fully Invoiced": [
+  "مفوتر بالكامل"
+ ],
+ "Analytic From Expenses": [
+  "تحليلياً من النفقات"
+ ],
+ "Invoice what is delivered": [
+  "فوترة الكميات التي تم توصيلها"
+ ],
+ "Down payment (percentage)": [
+  "دفعة مقدّمة (نسبة)"
+ ],
+ "Global Discount": [
+  "خصم شامل"
+ ],
+ "Ship all products at once": [
+  "شحن كافة المنتجات دفعة واحدة"
+ ],
+ "Started": [
+  "بدأ"
+ ],
+ "POS Order": [
+  "طلب نقطة البيع"
+ ],
+ "Footer": [
+  "التذييل"
+ ],
+ "Product Document": [
+  "مستند المنتج"
+ ],
+ "Maybe": [
+  "ربما"
+ ],
+ "Busy": [
+  "مشغول"
+ ],
+ "End date": [
+  "تاريخ الانتهاء"
+ ],
+ "Day of month": [
+  "اليوم من الشهر"
+ ],
+ "Private": [
+  "خاص"
+ ],
+ "This and following events": [
+  "هذه الفعالية والفعاليات التالية"
+ ],
+ "Delete this and following events": [
+  "حذف هذه الفعالية والفعاليات القادمة"
+ ],
+ "Silver": [
+  "فضي"
+ ],
+ "A selected list of users": [
+  "قائمة مختارة من المستخدمين"
+ ],
+ "Leader Board (Group Ranking)": [
+  "لوحة الصدارة (التصنيف الجماعي)"
+ ],
+ "On change": [
+  "عند التغيير"
+ ],
+ "Settings / Gamification Tools": [
+  "الإعدادات/أدوات التلعيب"
+ ],
+ "In progress": [
+  "قيد التنفيذ"
+ ],
+ "Automatic: number of records": [
+  "تلقائي: عدد من السجلات"
+ ],
+ "Exclusive (done or not-done)": [
+  "حصري (المنتهي أو غير المنتهي)"
+ ],
+ "The lower the better": [
+  "كلما كانت القيمة أقل كان ذلك أفضل"
+ ],
+ "Okay": [
+  "حسناً"
+ ],
+ "Before the event": [
+  "قبل الفعالية"
+ ],
+ "Text Input": [
+  "مدخلات النص"
+ ],
+ "Opportunity": [
+  "الفرصة"
+ ],
+ "Incorrect": [
+  "غير صحيح"
+ ],
+ "Repeatedly": [
+  "بشكل متكرر"
+ ],
+ "Enrich all leads automatically": [
+  "قم بإثراء كافة العملاء المهتمين تلقائياً"
+ ],
+ "Merge with existing opportunities": [
+  "دمج مع فرص موجودة بالفعل"
+ ],
+ "Link to an existing customer": [
+  "الربط بعميل موجود بالفعل"
+ ],
+ "SMS": [
+  "الرسائل النصية القصيرة"
+ ],
+ "Send on": [
+  "إرسال في"
+ ],
+ "Specified Email Address": [
+  "عنوان بريد إلكتروني محدد"
+ ],
+ "Highest Open Rate": [
+  "أعلى معدل فتح"
+ ],
+ "Tested": [
+  "تم الاختبار"
+ ],
+ "Merge into an existing mailing list": [
+  "الدمج في قائمة بريدية موجودة"
+ ],
+ "Until": [
+  "حتى"
+ ],
+ "Changes Requested": [
+  "التغييرات المطلوبة"
+ ],
+ "At Risk": [
+  "في خطر"
+ ],
+ "All internal users": [
+  "جميع المستخدمين الداخليين"
+ ],
+ "on a periodic basis": [
+  "على نحو دوري"
+ ],
+ "Open tasks": [
+  "المهام المفتوحة"
+ ],
+ "Edit with limited access": [
+  "التحرير مع الوصول المحدود"
+ ],
+ "Per Order": [
+  "لكل أمر"
+ ],
+ "Attendees are registered": [
+  "الحاضرون مسجلون"
+ ],
+ "Event Registration": [
+  "التسجيل للفعالية"
+ ],
+ "Refused": [
+  "تم الرفض"
+ ],
+ "Afternoon": [
+  "بعد الظهر"
+ ],
+ "Half Day": [
+  "نصف يوم"
+ ],
+ "Accrual Allocation": [
+  "تخصيص المستحقات"
+ ],
+ "By Time Off Officer": [
+  "بواسطة موظف الإجازات"
+ ],
+ "No Limit": [
+  "بلا حد"
+ ],
+ "Not Allowed": [
+  "غير مسموح"
+ ],
+ "Absence": [
+  "الغياب"
+ ],
+ "August": [
+  "أغسطس"
+ ],
+ "All accrued time carried over": [
+  "تم ترحيل كل الوقت المتراكم"
+ ],
+ "After this accrual's period": [
+  "بعد فترة المستحق هذه"
+ ],
+ "At the end of the accrual period": [
+  "في نهاية فترة الاستحقاق"
+ ],
+ "At the allocation date": [
+  "في تاريخ التخصيص"
+ ],
+ "By Company": [
+  "حسب المؤسسة"
+ ],
+ "Good": [
+  "جيد"
+ ],
+ "Green": [
+  "أخضر"
+ ],
+ "Hired": [
+  "تم التعيين"
+ ],
+ "Bill of Materials": [
+  "قائمة المواد"
+ ],
+ "Kit": [
+  "عدة"
+ ],
+ "When components for 1st operation are available": [
+  "عندما تكون كافة المكونات المطلوبة للعملية الأولى متاحة"
+ ],
+ "Allowed with warning": [
+  "مسموح به مع التحذير"
+ ],
+ "Google Slide": [
+  "شرائح Google"
+ ],
+ "Set duration manually": [
+  "تحديد المدة يدويًا"
+ ],
+ "Blocked": [
+  "محجوب"
+ ],
+ "Performance": [
+  "الأداء"
+ ],
+ "Waiting for components": [
+  "بانتظار المكونات"
+ ],
+ "Pick components then manufacture (2 steps)": [
+  "قم بانتقاء المكونات ثم قم بالتصنيع (خطوتان)"
+ ],
+ "Companies and their Contacts": [
+  "الشركات وجهات الاتصال الخاصة بها"
+ ],
+ "No Result": [
+  "لا توجد نتائج"
+ ],
+ "Opportunities": [
+  "الفرص"
+ ],
+ "Seniority": [
+  "الأقدمية"
+ ],
+ "Attendances": [
+  "الحضور"
+ ],
+ "Via a Link": [
+  "عن طريق الرابط"
+ ],
+ "Introduction": [
+  "المقدمة"
+ ],
+ "Fixed Price": [
+  "سعر ثابت"
+ ],
+ "Get Rate and Create Shipment": [
+  "حساب السعر وإنشاء الشحنة"
+ ],
+ "Volume": [
+  "الحجم"
+ ],
+ "Article": [
+  "مقال"
+ ],
+ "Retrieve from Google Drive": [
+  "الإحضار من Google Drive"
+ ],
+ "Joined": [
+  "تم الانضمام"
+ ],
+ "Documentation": [
+  "التوثيق"
+ ],
+ "Most Voted": [
+  "الأكثر تصويتًا"
+ ],
+ "On Invitation": [
+  "عن طريق الدعوة"
+ ],
+ "Link": [
+  "الرابط"
+ ],
+ "Sold": [
+  "المبيعات"
+ ],
+ "Real cost": [
+  "التكلفة الفعلية"
+ ],
+ "Disabled (buy as guest)": [
+  "معطل (الشراء كضيف)"
+ ],
+ "Go to cart": [
+  "الذهاب إلى عربة التسوق"
+ ],
+ "Logged in users": [
+  "المستخدمون المسجلون"
+ ],
+ "Project Milestones": [
+  "مؤشرات تقدم المشروع"
+ ],
+ "Round": [
+  "دائري"
+ ],
+ "QR menu": [
+  "قائمة QR"
+ ],
+ "Table": [
+  "جدول"
+ ],
+ "Secondary": [
+  "ثانوي"
+ ],
+ "Create and validate": [
+  "إنشاء وتصديق"
+ ],
+ "Debtor": [
+  "المدين"
+ ],
+ "German": [
+  "ألماني"
+ ],
+ "B2B": [
+  "بين الشركات"
+ ],
+ "Updated 2023 (Pain 008.001.08)": [
+  "تم التحديث في 2023 (Pain 008.001.08)"
+ ],
+ "dd/mm/yy": [
+  "يوم/شهر/سنة"
+ ],
+ "Unsigned": [
+  "لم يتم توقيعه"
+ ],
+ "Preventive": [
+  "وقائية"
+ ],
+ "Live session": [
+  "جلسة مباشرة"
+ ],
+ "One page per section": [
+  "صفحة واحدة لكل قسم"
+ ],
+ "Randomized per Section": [
+  "عشوائي لكل قسم"
+ ],
+ "Number": [
+  "عدد"
+ ],
+ "Invited people only": [
+  "الأشخاص المدعوين فقط"
+ ],
+ "Scoring with answers after each page": [
+  "حساب الدرجات مع الإجابات بعد كل صفحة"
+ ],
+ "Modern Blue": [
+  "أزرق عصري"
+ ],
+ "Multiple choice: multiple answers allowed": [
+  "اختيار من متعدد: يُسمح باختيار أكثر من إجابة"
+ ],
+ "Multiple choices per row": [
+  "خيارات متعددة لكل صف"
+ ],
+ "Text": [
+  "النص"
+ ],
+ "Resend invite": [
+  "إعادة ارسال الدعوة"
+ ],
+ "Certification": [
+  "شهادة",
+  "شهادة اعتماد"
+ ],
+ "Expiring": [
+  "انتهاء الصلاحية"
+ ],
+ "Highest Click Rate": [
+  "أعلى معدل نقر"
+ ],
+ "Not Under Contract": [
+  "غير خاضع للعقد"
+ ],
+ "Bike": [
+  "الدراجة"
+ ],
+ "Gasoline": [
+  "بنزين"
+ ],
+ "Horsepower": [
+  "قوة حصان"
+ ],
+ "Production": [
+  "الإنتاج"
+ ],
+ "Test mode": [
+  "وضع الاختبار"
+ ],
+ "E - Exempt from Tax": [
+  "E - معفى من الضريبة"
+ ],
+ "VATEX-EU-132 - Exempt based on article 132 of Council Directive 2006/112/EC": [
+  "VATEX-EU-132 - معفى بموجب المادة 132 من توجيه المجلس 2006/112/EC"
+ ],
+ "Queued": [
+  "في صف الانتظار"
+ ],
+ "When Reaching": [
+  "عند الوصول"
+ ],
+ "Cheapest Product": [
+  "أرخص منتج"
+ ],
+ "tax excluded": [
+  "غير شامل الضريبة"
+ ],
+ "With a promotion code": [
+  "مع كود ترويجي"
+ ],
+ "Gift Card": [
+  "بطاقة الهدايا"
+ ],
+ "Future orders": [
+  "الطلبات المستقبلية"
+ ],
+ "Use a code": [
+  "استخدام كود"
+ ],
+ "Selected Customers": [
+  "العملاء المختارون"
+ ],
+ "Parallel Company": [
+  "شركة مستقلة"
+ ],
+ "Applicant": [
+  "مقدم الطلب"
+ ],
+ "Reserved": [
+  "محجوزة",
+  "محجوز"
+ ],
+ "Flat Fee": [
+  "رسوم ثابتة"
+ ],
+ "Sale Orders": [
+  "أوامر البيع"
+ ],
+ "Financial Setup": [
+  "الإعداد المالي"
+ ],
+ "Medium ($50K - $200K)": [
+  "متوسطة (50–200 ألف دولار)"
+ ],
+ "Direct / Walk-in": [
+  "مباشر / زيارة"
+ ],
+ "Under Review": [
+  "قيد المراجعة"
+ ],
+ "COCO": [
+  "مملوك ومُدار من الشركة (COCO)"
+ ],
+ "Sent for Signing": [
+  "أُرسلت للتوقيع",
+  "أرسلت للتوقيع"
+ ],
+ "Manual Termination": [
+  "الإنهاء اليدوي"
+ ],
+ "Archived": [
+  "مؤرشف"
+ ],
+ "One Time": [
+  "لمرة واحدة"
+ ],
+ "Computed": [
+  "محتسبة"
+ ],
+ "Location Confirmed": [
+  "تم تأكيد الموقع"
+ ],
+ "Surprise": [
+  "مفاجئ"
+ ],
+ "Good (75-89%)": [
+  "جيد (75–89%)"
+ ],
+ "Ongoing / Refresher": [
+  "مستمر / تنشيطي"
+ ],
+ "Operational": [
+  "تشغيلي"
+ ],
+ "POS Sales Total": [
+  "إجمالي مبيعات نقطة البيع"
+ ],
+ "Below Target": [
+  "دون المستهدف"
+ ],
+ "Policy Update": [
+  "تحديث سياسة"
+ ],
+ "Specific Franchisees": [
+  "أصحاب امتياز محددون"
+ ],
+ "Published": [
+  "منشورة"
+ ],
+ "Validated": [
+  "تم التصديق"
+ ],
+ "Range": [
+  "نطاق"
+ ],
+ "Fixed Amount": [
+  "مبلغ ثابت"
+ ],
+ "Closed": [
+  "مغلق"
+ ],
+ "Non-Saudi": [
+  "غير سعودي"
+ ],
+ "Loan": [
+  "قرض"
+ ],
+ "National ID": [
+  "الهوية الوطنية"
+ ],
+ "Expiring Soon": [
+  "تنتهي قريبًا"
+ ],
+ "Written Warning": [
+  "إنذار كتابي"
+ ],
+ "Issued": [
+  "تم الإصدار"
+ ],
+ "Mobile Phone": [
+  "هاتف جوال"
+ ],
+ "Returned": [
+  "مُرجَعة"
+ ],
+ "Generated": [
+  "تم الإنشاء"
+ ],
+ "Attendance": [
+  "الحضور"
+ ],
+ "Present - paid": [
+  "حاضر - يُدفع"
+ ],
+ "Gross salary": [
+  "إجمالي الراتب"
+ ],
+ "Deduction": [
+  "استقطاع"
+ ],
+ "Manager": [
+  "المدير المباشر",
+  "المدير"
+ ],
+ "Tickets": [
+  "تذاكر السفر"
+ ],
+ "International": [
+  "خارجية"
+ ],
+ "Myself and Dependents": [
+  "لي ولمرافقيّ"
+ ],
+ "Non-Saudi Employees": [
+  "الموظفون غير السعوديين"
+ ],
+ "Not Renewed": [
+  "عدم التجديد"
+ ],
+ "Two": [
+  "اثنان"
+ ],
+ "Through Web": [
+  "عبر الموقع الإلكتروني"
+ ],
+ "Agent": [
+  "وكيل"
+ ],
+ "No Deposit": [
+  "بدون تأمين"
+ ],
+ "Signature": [
+  "التوقيع"
+ ],
+ "Confirm": [
+  "مؤكد"
+ ],
+ "Checkin": [
+  "تسجيل الوصول"
+ ],
+ "Maintenance": [
+  "الصيانة"
+ ],
+ "Clean": [
+  "نظيفة"
+ ],
+ "Booked": [
+  "محجوز"
+ ],
+ "24 Hours": [
+  "24 ساعة"
+ ],
+ "2 AM": [
+  "2 صباحًا"
+ ],
+ "BOT": [
+  "تذكرة طلب المشروبات"
+ ],
+ "Replace": [
+  "استبدال"
+ ],
+ "Guest": [
+  "نزيل"
+ ],
+ "Third Party": [
+  "طرف خارجي"
+ ],
+ "Customer Departure": [
+  "مغادرة العميل"
+ ],
+ "United Arab Emirates": [
+  "الإمارات العربية المتحدة"
+ ],
+ "Live": [
+  "فعلي",
+  "حي"
+ ],
+ "Moyasar": [
+  "ميسر"
+ ],
+ "char": [
+  "حرف"
+ ],
+ "Restrict": [
+  "تقييد"
+ ],
+ "Graph": [
+  "الرسم البياني"
+ ],
+ "Reset to another view.": [
+  "إعادة التعيين لعرض آخر."
+ ],
+ "After": [
+  "بعد"
+ ],
+ "Inline Edit": [
+  "التحرير الضمني"
+ ],
+ "Setting it to": [
+  "التعيين إلى"
+ ],
+ "Full Screen": [
+  "ملء الشاشة"
+ ],
+ "Command Line Interface": [
+  "واجهة بند الأمر"
+ ],
+ "Installed": [
+  "تم التثبيت"
+ ],
+ "GPL Version 3": [
+  "GPL الإصدار 3"
+ ],
+ "Wednesday": [
+  "الأربعاء"
+ ],
+ "Delivery Address": [
+  "عنوان التوصيل"
+ ],
+ "Failed": [
+  "فشل",
+  "راسب"
+ ],
+ "TGZ Archive": [
+  "أرشيف TGZ"
+ ],
+ "Finished": [
+  "مُنتهي"
+ ],
+ "Offline": [
+  "غير متصل بالإنترنت"
+ ],
+ "Unregistered": [
+  "غير مسجل"
+ ],
+ "Followers only": [
+  "المتابعين فقط"
+ ],
+ "Local Server": [
+  "الخادم المحلي"
+ ],
+ "months": [
+  "شهور"
+ ],
+ "Phonecall": [
+  "مكالمة هاتفية"
+ ],
+ "Outgoing Email": [
+  "البريد الإلكتروني الصادر"
+ ],
+ "Missing email": [
+  "البريد الإلكتروني المفقود"
+ ],
+ "Custom Template": [
+  "قالب مخصص"
+ ],
+ "Send Email": [
+  "إرسال بريد إلكتروني"
+ ],
+ "Group": [
+  "المجموعة"
+ ],
+ "System notification": [
+  "إشعار من النظام"
+ ],
+ "Onboarding attachment": [
+  "مرفق التهيئة للعمل"
+ ],
+ "Already Registered": [
+  "مسجل بالفعل"
+ ],
+ "Note only": [
+  "الملاحظة فقط"
+ ],
+ "Wrong Number Format": [
+  "صيغة الرقم خطأ"
+ ],
+ "Send SMS in batch": [
+  "إرسال الرسائل النصية القصيرة على دفعات"
+ ],
+ "Restricted Group": [
+  "مجموعة مقيدة"
+ ],
+ "Smaller than the reference Unit of Measure": [
+  "أصغر من وحدة القياس المرجعية"
+ ],
+ "UPC-A to EAN-13": [
+  "UPC-A إلى EAN-13"
+ ],
+ "Quantity": [
+  "الكمية"
+ ],
+ "Numeric Identifier": [
+  "المعرف الرقمي"
+ ],
+ "Unavailable": [
+  "غير متاح"
+ ],
+ "Combo": [
+  "مجموعة"
+ ],
+ "Select": [
+  "تحديد"
+ ],
+ "Other Pricelist": [
+  "قوائم الأسعار الأخرى"
+ ],
+ "4 x 7 with price": [
+  "4 × 7 بالسعر"
+ ],
+ "Full & Partial": [
+  "كامل وجزئي"
+ ],
+ "Test Mode": [
+  "وضع الاختبار"
+ ],
+ "Authorized": [
+  "مصرح به"
+ ],
+ "Online payment by token": [
+  "الدفع عبر الإنترنت عن طريق الرمز"
+ ],
+ "Custom payment instructions": [
+  "تعليمات الدفع المخصصة"
+ ],
+ "Customer Credit Note": [
+  "إشعار دائن للعميل"
+ ],
+ "Bad Debtor": [
+  "مدين معسر"
+ ],
+ "Blocking Message": [
+  "رسالة الحظر"
+ ],
+ "Products": [
+  "المنتجات"
+ ],
+ "Current Assets": [
+  "الأصول المتداولة"
+ ],
+ "Liability": [
+  "التزام"
+ ],
+ "March": [
+  "مارس"
+ ],
+ "Customer Invoices and Vendor Bills": [
+  "فواتير العملاء والموردين"
+ ],
+ "Sales Lock Date": [
+  "تاريخ الإقفال للمبيعات"
+ ],
+ "Percentage of statement line": [
+  "نسبة بند الكشف"
+ ],
+ "Rule to match invoices/bills": [
+  "القاعدة لمطابقة فواتير البيع/فواتير الشراء"
+ ],
+ "Paid/Received": [
+  "مدفوع/مستَلم"
+ ],
+ "Is Between": [
+  "بين"
+ ],
+ "Match Regex": [
+  "مطابقة التعابير النمطية (Regex)"
+ ],
+ "Always (upon invoice)": [
+  "دائماً (على الفاتورة)"
+ ],
+ "Days after end of next month": [
+  "أيام بعد نهاية الشهر التالي"
+ ],
+ "Tax": [
+  "الضريبة"
+ ],
+ "This Month": [
+  "هذا الشهر"
+ ],
+ "Use Tax Units": [
+  "استخدم الوحدات الضريبية"
+ ],
+ "Aggregate Other Formulas": [
+  "تجميع الصيغ الأخرى"
+ ],
+ "At the beginning of the fiscal year": [
+  "في بداية العام المالي"
+ ],
+ "Integer": [
+  "عدد صحيح"
+ ],
+ "Before Next Payment Date": [
+  "قبل تاريخ الدفع التالي"
+ ],
+ "Closest Location": [
+  "أقرب موقع"
+ ],
+ "Internal Location": [
+  "موقع داخلي"
+ ],
+ "Waiting Availability": [
+  "بانتظار التوافر"
+ ],
+ "Pull & Push": [
+  "السحب والدفع"
+ ],
+ "Take From Stock, if unavailable, Trigger Another Rule": [
+  "الأخذ من المخزون، وفي حال عدم التوافر، قم بتشغيل قاعدة أخرى"
+ ],
+ "Internal Transfer": [
+  "تحويل داخلي"
+ ],
+ "Before scheduled date": [
+  "قبل التاريخ المجدول"
+ ],
+ "ZPL Labels - One per lot/SN": [
+  "علامات تصنيف ZPL - واحدة لكل رقم مجموعة/ رقم تسلسلي"
+ ],
+ "Late": [
+  "متأخر"
+ ],
+ "Receive, Quality Control, then Store (3 steps)": [
+  "الاستلام، وضبط الجودة، ثم التخزين (3 خطوات)"
+ ],
+ "Pick, Pack, then Deliver (3 steps)": [
+  "التجهيز ، الرزم ثم التوصيل (3 خطوات)"
+ ],
+ "By Quantity": [
+  "حسب الكمية"
+ ],
+ "Allow mixed products": [
+  "السماح بالمنتجات المختلطة"
+ ],
+ "Forecasted Deliveries": [
+  "التوصيلات المتوقعة"
+ ],
+ "1 Month": [
+  "شهر 1"
+ ],
+ "by Post": [
+  "عن طريق البريد"
+ ],
+ "Average Cost (AVCO)": [
+  "متوسط التكلفة (AVCO)"
+ ],
+ "Closing Control": [
+  "التحكم في الإغلاق"
+ ],
+ "Customer Account": [
+  "حساب العميل"
+ ],
+ "Other than Paypal": [
+  "غير Paypal"
+ ],
+ "Large": [
+  "كبير"
+ ],
+ "Master": [
+  "الرئيسي"
+ ],
+ "Student": [
+  "طالب"
+ ],
+ "Coach": [
+  "مدرب"
+ ],
+ "Manual Selection": [
+  "اختيار يدوي"
+ ],
+ "Back Camera": [
+  "الكاميرا الخلفية"
+ ],
+ "Full Months": [
+  "أشهر كاملة"
+ ],
+ "Reconciled": [
+  "تمت التسوية"
+ ],
+ "for 1 hour": [
+  "لمدة ساعة واحدة"
+ ],
+ "Fully Billed": [
+  "مفوتر بالكامل"
+ ],
+ "Yearly": [
+  "سنويًا"
+ ],
+ "Not Connected": [
+  "غير متصل"
+ ],
+ "Fully Received": [
+  "تم الاستلام كلياً"
+ ],
+ "Revised": [
+  "تمت المراجعة"
+ ],
+ "Both": [
+  "كلاهما"
+ ],
+ "Achieved": [
+  "مؤرشف"
+ ],
+ "Year": [
+  "السنة"
+ ],
+ "every 4 months": [
+  "كل 4 شهور"
+ ],
+ "Declining then Straight Line": [
+  "الانخفاض ثم الثبات في خط مستقيم"
+ ],
+ "Based on days per period": [
+  "بناءً على الأيام لكل فترة"
+ ],
+ "Account Manager": [
+  "إدارة حساب المستخدم"
+ ],
+ "No action needed": [
+  "لا حاجة لاتخاذ إجراء"
+ ],
+ "On confirmed order": [
+  "في الطلب المؤكد"
+ ],
+ "Sales price": [
+  "سعر البيع"
+ ],
+ "To Invoice": [
+  "بانتظار الفوترة"
+ ],
+ "Down payment (fixed amount)": [
+  "دفعة مقدّمة (مبلغ ثابت)"
+ ],
+ "Partially Delivered": [
+  "تم التوصيل جزئياً"
+ ],
+ "Third": [
+  "ثالثًا"
+ ],
+ "Only internal users": [
+  "المستخدمين الداخليين فقط"
+ ],
+ "All events": [
+  "كافة الفعاليات"
+ ],
+ "Delete all the events": [
+  "حذف كافة الفعاليات"
+ ],
+ "Gold": [
+  "ذهبي"
+ ],
+ "People having some badges": [
+  "الأشخاص الذين يملكون بعض الشارات"
+ ],
+ "Reached": [
+  "تم الوصول"
+ ],
+ "Automatic: sum on a field": [
+  "تلقائي: المجموع في حقل"
+ ],
+ "Dissatisfied": [
+  "غير راضٍ"
+ ],
+ "SMS Text Message": [
+  "الرسائة النصية القصيرة"
+ ],
+ "4 per sheet": [
+  "4 لكل ورقة"
+ ],
+ "After the event": [
+  "بعد الفعالية"
+ ],
+ "Attended": [
+  "حضر"
+ ],
+ "Name": [
+  "الاسم"
+ ],
+ "Do not link to a customer": [
+  "عدم الربط بعميل"
+ ],
+ "Sending": [
+  "جاري الإرسال"
+ ],
+ "Off Track": [
+  "خارج المسار"
+ ],
+ "Invited portal users and all internal users (public)": [
+  "مستخدمو البوابة المدعوون وكافة المستخدمين الداخليين (عام)"
+ ],
+ "Twice a Month": [
+  "مرتان شهريًا"
+ ],
+ "Edit": [
+  "تحرير"
+ ],
+ "Attendees attended": [
+  "الحاضرين الذين حضروا"
+ ],
+ "Waiting Second Approval": [
+  "بانتظار الموافقة الثانية"
+ ],
+ "Second Approval": [
+  "الموافقة الثانية"
+ ],
+ "By Employee's Approver": [
+  "بواسطة مانح الموافقة للموظف"
+ ],
+ "September": [
+  "سبتمبر"
+ ],
+ "Carry over with a maximum": [
+  "ترحيل مع الحد الأقصى"
+ ],
+ "Both Approved and Confirmed": [
+  "تم قبولها وتأكيدها"
+ ],
+ "By Department": [
+  "حسب القسم"
+ ],
+ "Very Good": [
+  "جيد جداً"
+ ],
+ "Red": [
+  "أحمر"
+ ],
+ "Quality": [
+  "الجودة"
+ ],
+ "Pick components, manufacture, then store products (3 steps)": [
+  "انتقاء المكونات ثم التصنيع ثم تخزين المنتجات (3 خطوات)"
+ ],
+ "Logged Users": [
+  "المستخدمون المسجلون"
+ ],
+ "Location": [
+  "الموقع"
+ ],
+ "Weight * Volume": [
+  "الوزن × الحجم"
+ ],
+ "Document": [
+  "المستند"
+ ],
+ "Quiz": [
+  "الاختبار القصير"
+ ],
+ "Most Viewed": [
+  "الأكثر عرضًا"
+ ],
+ "Course Attendees": [
+  "حاضرو الدورة"
+ ],
+ "Free": [
+  "مجاني"
+ ],
+ "Course": [
+  "دورة"
+ ],
+ "Mandatory (no guest checkout)": [
+  "إلزامي (لا يمكن الدفع والخروج كضيف)"
+ ],
+ "Let the user decide (dialog)": [
+  "اترك القرار للمستخدم (حوار)"
+ ],
+ "Task": [
+  "المهمة"
+ ],
+ "QR menu + Ordering": [
+  "قائمة QR + الطلب"
+ ],
+ "Success": [
+  "النجاح"
+ ],
+ "Exception": [
+  "استثناء"
+ ],
+ "Service Level": [
+  "مستوى الخدمة"
+ ],
+ "Transaction": [
+  "معاملة"
+ ],
+ "Ready for next stage": [
+  "جاهز للمرحلة التالية"
+ ],
+ "Assessment": [
+  "التقييم"
+ ],
+ "One page with all the questions": [
+  "صفحة واحدة مع كل الأسئلة"
+ ],
+ "Scoring with answers at the end": [
+  "حساب الدرجات مع الإجابات في النهاية"
+ ],
+ "Modern Gold": [
+  "ذهبي عصري"
+ ],
+ "Multiple Lines Text Box": [
+  "مربع نص متعدد الأسطر"
+ ],
+ "Completed": [
+  "مكتملة",
+  "مكتمل"
+ ],
+ "Certifications": [
+  "الشهادات"
+ ],
+ "Full Hybrid": [
+  "هجين كامل"
+ ],
+ "Wave": [
+  "مموج"
+ ],
+ "To Cancel": [
+  "للإلغاء"
+ ],
+ "Demo mode": [
+  "وضع العرض التوضيحي"
+ ],
+ "S - Standard rate": [
+  "س - السعر القياسي"
+ ],
+ "VATEX-EU-132-1A - Exempt based on article 132, section 1 (a) of Council Directive 2006/112/EC": [
+  "VATEX-EU-132-1A - معفى بناءً على المادة 132، القسم 1 (أ) من توجيه المجلس 2006/112/EC"
+ ],
+ "Skipped": [
+  "تم التخطي"
+ ],
+ "Under query": [
+  "تحت الاستعلام"
+ ],
+ "Specific Products": [
+  "منتجات معينة"
+ ],
+ "Loyalty Cards": [
+  "بطاقات الولاء"
+ ],
+ "Current & Future orders": [
+  "الطلبات الحالية والمستقبلية"
+ ],
+ "Free Shipping": [
+  "شحن مجاني"
+ ],
+ "Assigned": [
+  "مُسندة",
+  "تم إسنادها"
+ ],
+ "Tiered (Revenue Brackets)": [
+  "شرائح حسب الإيرادات"
+ ],
+ "Annually": [
+  "سنوي",
+  "سنويًا"
+ ],
+ "Location & Setup": [
+  "الموقع والتجهيز"
+ ],
+ "High ($200K - $500K)": [
+  "مرتفعة (200–500 ألف دولار)"
+ ],
+ "Referral": [
+  "ترشيح"
+ ],
+ "Verified": [
+  "مُتحقق منه"
+ ],
+ "FOFO": [
+  "مملوك ومُدار من صاحب الامتياز (FOFO)"
+ ],
+ "Ready to Launch": [
+  "جاهزة للإطلاق",
+  "جاهز للانطلاق"
+ ],
+ "Mutual Agreement": [
+  "الاتفاق المتبادل"
+ ],
+ "Invoiced": [
+  "مُفوترة",
+  "مفوتر"
+ ],
+ "Setup": [
+  "التجهيز"
+ ],
+ "Self-Assessment": [
+  "تقييم ذاتي"
+ ],
+ "Satisfactory (60-74%)": [
+  "مقبول (60–74%)"
+ ],
+ "Hybrid": [
+  "مختلط"
+ ],
+ "Sale Order Revenue": [
+  "إيرادات أوامر البيع"
+ ],
+ "Critical": [
+  "حرج"
+ ],
+ "Promotion / Campaign": [
+  "عرض ترويجي / حملة"
+ ],
+ "By Territory": [
+  "حسب المنطقة"
+ ],
+ "Conflict": [
+  "تعارض"
+ ],
+ "Semi-annually": [
+  "نصف سنوي"
+ ],
+ "Python Expression": [
+  "تعبير بايثون"
+ ],
+ "Python Code": [
+  "شيفرة بايثون"
+ ],
+ "Passport": [
+  "جواز السفر"
+ ],
+ "Final Warning": [
+  "إنذار نهائي"
+ ],
+ "Acknowledged": [
+  "تم الإقرار بالاستلام"
+ ],
+ "Vehicle / Car": [
+  "مركبة / سيارة"
+ ],
+ "Lost / Damaged": [
+  "مفقودة / تالفة"
+ ],
+ "Finance": [
+  "المالية"
+ ],
+ "Exit / Re-Entry": [
+  "خروج وعودة"
+ ],
+ "Approved by Manager or HR": [
+  "تمت الموافقة من قِبَل المدير أو الموارد البشرية"
+ ],
+ "Expired Without a Decision": [
+  "انتهى دون قرار"
+ ],
+ "Canceled": [
+  "تم الإلغاء"
+ ],
+ "Through GDS": [
+  "عبر نظام التوزيع العالمي"
+ ],
+ "Half Yearly": [
+  "نصف سنوي"
+ ],
+ "Royal": [
+  "الملكية"
+ ],
+ "Checkout": [
+  "تسجيل المغادرة"
+ ],
+ "Inspect": [
+  "فحص"
+ ],
+ "Order Done": [
+  "الطلب منجز"
+ ],
+ "3 AM": [
+  "3 صباحًا"
+ ],
+ "Cancel": [
+  "إلغاء"
+ ],
+ "Geidea": [
+  "جيديا"
+ ],
+ "Egypt": [
+  "مصر"
+ ],
+ "Oman": [
+  "عُمان"
+ ],
+ "date": [
+  "التاريخ"
+ ],
+ "Pivot": [
+  "محور"
+ ],
+ "Clearing it": [
+  "جاري المسح"
+ ],
+ "Main action of Current Window": [
+  "الإجراء الرئيسي للنافذة الحالية"
+ ],
+ "To be upgraded": [
+  "بانتظار الترقية"
+ ],
+ "GPL-3 or later version": [
+  "GPL-3 أو أحدث"
+ ],
+ "Thursday": [
+  "الخميس"
+ ],
+ "Montserrat": [
+  "مونتسيرات"
+ ],
+ "Delivered": [
+  "تم التوصيل"
+ ],
+ "Missing email address": [
+  "عنوان البريد الإلكتروني المفقود"
+ ],
+ "Delivery Failed": [
+  "فشل التسليم"
+ ],
+ "Invalid from address": [
+  "عنوان \"من\" غير صالح"
+ ],
+ "Off": [
+  "مغلق"
+ ],
+ "Gmail OAuth Authentication": [
+  "مصادقة Gmail OAuth"
+ ],
+ "Onboarding command": [
+  "أمر التهيئة للعمل"
+ ],
+ "Send SMS": [
+  "إرسال رسالة نصية قصيرة"
+ ],
+ "Country Not Supported": [
+  "الدولة غير مدعومة"
+ ],
+ "Snailmail": [
+  "البريد التقليدي"
+ ],
+ "308 Redirect / Rewrite": [
+  "308 إعادة توجيه / إعادة كتابة"
+ ],
+ "With Password": [
+  "مع كلمة سر"
+ ],
+ "Alpha-Numeric Name": [
+  "اسم يحتوي على أحرف وأرقام"
+ ],
+ "Color": [
+  "اللون"
+ ],
+ "Product Variant": [
+  "متغير المنتج"
+ ],
+ "Validation of the payment method": [
+  "تصديق طريقة الدفع"
+ ],
+ "Partially Paid": [
+  "مسدد جزئياً"
+ ],
+ "Non-current Assets": [
+  "الأصول غير المتداولة"
+ ],
+ "Income": [
+  "الدخل"
+ ],
+ "April": [
+  "أبريل"
+ ],
+ "Purchase Lock Date": [
+  "تاريخ الإقفال للمشتريات"
+ ],
+ "Percentage Tax Included": [
+  "النسبة شاملة الضريبة"
+ ],
+ "From label": [
+  "من بطاقة العنوان"
+ ],
+ "Days end of month on the": [
+  "أيام حتى نهاية الشهر في"
+ ],
+ "Prefix of Account Codes": [
+  "بادئات أكواد الحساب"
+ ],
+ "At the beginning of the period": [
+  "في بداية الفترة"
+ ],
+ "Float": [
+  "فاصلة عشرية"
+ ],
+ "Full Amount": [
+  "المبلغ الكامل"
+ ],
+ "Vendor Credit Note": [
+  "إشعار المورد الدائن"
+ ],
+ "Weighted Product": [
+  "منتج موزون"
+ ],
+ "Customer Location": [
+  "موقع العميل"
+ ],
+ "Partially Available": [
+  "متوفر جزئياً"
+ ],
+ "ZPL Labels - One per unit": [
+  "علامات تصنيف ZPL - واحدة لكل وحدة"
+ ],
+ "Tomorrow": [
+  "غداً",
+  "غدًا"
+ ],
+ "Closed & Posted": [
+  "تم الإغلاق والترحيل"
+ ],
+ "Doctor": [
+  "دكتور"
+ ],
+ "Trainee": [
+  "متدرب"
+ ],
+ "Authenticated Employees": [
+  "الموظفين المعتمدين"
+ ],
+ "Technical": [
+  "تقني"
+ ],
+ "for 24 hours": [
+  "لمدة 24 ساعة"
+ ],
+ "Purchase Order": [
+  "أمر شراء"
+ ],
+ "quarterly": [
+  "ربع سنوي"
+ ],
+ "On Hold": [
+  "قيد الانتظار"
+ ],
+ "Disposal": [
+  "التصرف"
+ ],
+ "Follow-up Address": [
+  "عنوان المتابعة"
+ ],
+ "Pay with another payment provider": [
+  "الدفع باستخدام مزود دفع آخر"
+ ],
+ "Nothing to Invoice": [
+  "لا توجد مبالغ لفوترتها"
+ ],
+ "Fully Delivered": [
+  "تم التوصيل بالكامل"
+ ],
+ "Inside quote pdf": [
+  "داخل عرض السعر PDF"
+ ],
+ "Fourth": [
+  "رابعًا"
+ ],
+ "Meeting": [
+  "الاجتماع"
+ ],
+ "No one, assigned through challenges": [
+  "لا أحد، يتم تعيينه من خلال التحديات"
+ ],
+ "Automatic: execute a specific Python code": [
+  "تلقائي: تنفيذ كود بايثون معين"
+ ],
+ "No Rating yet": [
+  "لا يوجد تقييم بعد"
+ ],
+ "96x82mm (Badge Printer)": [
+  "96x82mm (طابعة الشارات)"
+ ],
+ "Very High": [
+  "عالٍ جداً"
+ ],
+ "Use existing partner or create": [
+  "استخدام شريك موجود بالفعل أو إنشاء واحد"
+ ],
+ "Highest Reply Rate": [
+  "أعلى معدل رد"
+ ],
+ "Once a Month": [
+  "مرة في الشهر"
+ ],
+ "By Employee's Approver and Time Off Officer": [
+  "بواسطة مانح الموافقة للموظف وموظف الإجازات"
+ ],
+ "Twice a month": [
+  "مرتان في الشهر"
+ ],
+ "October": [
+  "أكتوبر"
+ ],
+ "By Employee Tag": [
+  "حسب علامة تصنيف الموظف"
+ ],
+ "Excellent": [
+  "ممتاز"
+ ],
+ "Productive": [
+  "إنتاجي"
+ ],
+ "To Close": [
+  "للإقفال"
+ ],
+ "Not Available": [
+  "غير متاح"
+ ],
+ "Manufacturing": [
+  "التصنيع"
+ ],
+ "Manufacture": [
+  "تصنيع"
+ ],
+ "Manufacturing Order": [
+  "أمر التصنيع"
+ ],
+ "Price": [
+  "السعر"
+ ],
+ "Website / Slides": [
+  "الموقع الإلكتروني / الشرائح"
+ ],
+ "Video": [
+  "الفيديو"
+ ],
+ "Select Manually": [
+  "التحديد يدوياً"
+ ],
+ "Big": [
+  "كبير"
+ ],
+ "Project & Task": [
+  "المشروع والمهمة"
+ ],
+ "Milestones": [
+  "مؤشرات التقدم"
+ ],
+ "Shared": [
+  "مشارك"
+ ],
+ "Accepted": [
+  "تم القبول"
+ ],
+ "Region": [
+  "المنطقة"
+ ],
+ "Scoring without answers": [
+  "حساب الدرجات دون الإجابات"
+ ],
+ "Classic Purple": [
+  "البنفسجي الكلاسيكي"
+ ],
+ "Single Line Text Box": [
+  "مربع نص سطر واحد"
+ ],
+ "Quotations": [
+  "عروض الأسعار"
+ ],
+ "Plug-in Hybrid Diesel": [
+  "ديزل لمركبة هجينة قابلة للشحن الخارجي"
+ ],
+ "VATEX-EU-132-1B - Exempt based on article 132, section 1 (b) of Council Directive 2006/112/EC": [
+  "VATEX-EU-132-1A - معفى وفقًا للمادة 132، القسم 1 (أ) من توجيه المجلس 2006/112/EC"
+ ],
+ "Conditionally accepted": [
+  "مقبول بشروط"
+ ],
+ "Not Serviced": [
+  "غير متوفر"
+ ],
+ "Promotions": [
+  "العروض"
+ ],
+ "Hybrid (Flat + Percentage)": [
+  "مختلط (ثابت + نسبة)"
+ ],
+ "Premium ($500K+)": [
+  "متميزة (أكثر من 500 ألف دولار)"
+ ],
+ "Event": [
+  "فعالية"
+ ],
+ "Breach of Contract": [
+  "خرق العقد"
+ ],
+ "Rejected": [
+  "مرفوض",
+  "تم الرفض"
+ ],
+ "Inventory Ready": [
+  "جاهزية المخزون"
+ ],
+ "Follow-Up": [
+  "متابعة"
+ ],
+ "Needs Improvement (40-59%)": [
+  "يحتاج إلى تحسين (40–59%)"
+ ],
+ "Action Required": [
+  "تتطلب إجراءً"
+ ],
+ "Compliance Training": [
+  "تدريب على الامتثال"
+ ],
+ "Compliance": [
+  "الامتثال"
+ ],
+ "New Customer Count": [
+  "عدد العملاء الجدد"
+ ],
+ "Alert / Urgent": [
+  "تنبيه / عاجل"
+ ],
+ "Driving License": [
+  "رخصة القيادة"
+ ],
+ "SIM Card": [
+  "شريحة اتصال"
+ ],
+ "Disbursed": [
+  "تم الصرف"
+ ],
+ "Salary Certificate": [
+  "تعريف بالراتب"
+ ],
+ "Presidential": [
+  "الرئاسية"
+ ],
+ "Cancel Membership": [
+  "إلغاء العضوية"
+ ],
+ "4 AM": [
+  "4 صباحًا"
+ ],
+ "Progress": [
+  "قيد التنفيذ"
+ ],
+ "Check in": [
+  "تسجيل الوصول"
+ ],
+ "Kuwait": [
+  "الكويت"
+ ],
+ "datetime": [
+  "التاريخ والوقت"
+ ],
+ "Remove": [
+  "إزالة"
+ ],
+ "To be removed": [
+  "بانتظار الإزالة"
+ ],
+ "Affero GPL-3": [
+  "رخصة Affero GPL-3"
+ ],
+ "A4  0   210 x 297 mm, 8.26 x 11.69 inches": [
+  "A4  0   210 x 297 mm, 8.26 x 11.69 بوصة"
+ ],
+ "Friday": [
+  "الجمعة"
+ ],
+ "Other Address": [
+  "عنوان آخر"
+ ],
+ "Bounced": [
+  "الرسائل المرتدة"
+ ],
+ "Missing from address": [
+  "عنوان \"من\" غير موجود"
+ ],
+ "Add Followers": [
+  "إضافة متابعين"
+ ],
+ "Onboarding ping": [
+  "Ping التهيئة للعمل"
+ ],
+ "Country-specific Registration Required": [
+  "مطلوب التسجيل الخاص بكل بلد"
+ ],
+ "Multi-checkbox": [
+  "صناديق اختيار متعددة"
+ ],
+ "4 x 12 with price": [
+  "4 × 12 بالسعر"
+ ],
+ "Offline payment by token": [
+  "الدفع دون الاتصال بالإنترنت عن طريق الرمز"
+ ],
+ "Reversed": [
+  "معكوس"
+ ],
+ "Prepayments": [
+  "المدفوعات المسددة مقدمًا"
+ ],
+ "Credit Card": [
+  "البطاقة الائتمانية"
+ ],
+ "May": [
+  "مايو"
+ ],
+ "Rounding": [
+  "التقريب"
+ ],
+ "Last Month": [
+  "الشهر الماضي"
+ ],
+ "External Value": [
+  "القيمة الخارجية"
+ ],
+ "Strictly on the given dates": [
+  "فقط في التواريخ المعطاة"
+ ],
+ "Inventory Loss": [
+  "خسارة المخزون"
+ ],
+ "The day after tomorrow": [
+  "بعد غد"
+ ],
+ "Undetermined": [
+  "غير محدد"
+ ],
+ "Contractor": [
+  "المتعاقد"
+ ],
+ "Automatic Check-Out": [
+  "تسجيل خروج الموظفين تلقائياً"
+ ],
+ "forever": [
+  "للأبد"
+ ],
+ "Locked": [
+  "مقفل"
+ ],
+ "Buy": [
+  "شراء"
+ ],
+ "every 2 months": [
+  "كل شهرين"
+ ],
+ "Tax report": [
+  "التقرير الضريبي"
+ ],
+ "Negative revaluation": [
+  "التقييم السالب"
+ ],
+ "Manual Payment": [
+  "الدفع اليدوي"
+ ],
+ "Last": [
+  "آخِر"
+ ],
+ "96x134mm (Badge Printer)": [
+  "96x134mm (طابعة الشارات)"
+ ],
+ "Phone": [
+  "رقم الهاتف"
+ ],
+ "Opened": [
+  "مفتوحة"
+ ],
+ "Set Status": [
+  "قم بتحديد الحالة"
+ ],
+ "November": [
+  "نوفمبر"
+ ],
+ "Inventory Transfer": [
+  "عملية نقل المخزون"
+ ],
+ "Sheet (Excel, Google Sheet, ...)": [
+  "ورقة (Excel، Google Sheet، ...)"
+ ],
+ "Project": [
+  "المشروع"
+ ],
+ "Danger": [
+  "خطر"
+ ],
+ "Classic Blue": [
+  "الأزرق الكلاسيكي"
+ ],
+ "Numerical Value": [
+  "قيمة عددية"
+ ],
+ "Revenues": [
+  "الإيرادات"
+ ],
+ "Plug-in Hybrid Gasoline": [
+  "غازولين لمركبة هجينة قابلة للشحن الخارجي"
+ ],
+ "G - Free export item, VAT not charged": [
+  "G - سلعة تصدير مجانية، ضريبة القيمة المضافة غير مفروضة"
+ ],
+ "VATEX-EU-132-1C - Exempt based on article 132, section 1 (c) of Council Directive 2006/112/EC": [
+  "VATEX-EU-132-1C - معفى بناءً على المادة 132، القسم 1 (ج) من توجيه المجلس 2006/112/EC"
+ ],
+ "Rejection": [
+  "الرفض"
+ ],
+ "Custom Formula": [
+  "معادلة مخصصة"
+ ],
+ "eWallet": [
+  "المحفظة الإلكترونية"
+ ],
+ "Suspended": [
+  "معلّق"
+ ],
+ "Systems & IT": [
+  "الأنظمة وتقنية المعلومات"
+ ],
+ "Up for Renewal": [
+  "قابلة للتجديد",
+  "يصل للتجديد"
+ ],
+ "Agreement Generated": [
+  "تم إنشاء الاتفاقية"
+ ],
+ "Staff Trained": [
+  "تدريب الموظفين"
+ ],
+ "Critical (<40%)": [
+  "حرج (أقل من 40%)"
+ ],
+ "Product Training": [
+  "تدريب على المنتجات"
+ ],
+ "Growth": [
+  "النمو"
+ ],
+ "Last Compliance Score": [
+  "آخر درجة امتثال"
+ ],
+ "Newsletter": [
+  "النشرة الإخبارية"
+ ],
+ "Work Permit": [
+  "رخصة العمل"
+ ],
+ "Tablet": [
+  "جهاز لوحي"
+ ],
+ "Not Reached": [
+  "لم يصل إليها الطلب"
+ ],
+ "Salary Assignment": [
+  "تحويل الراتب"
+ ],
+ "Elite": [
+  "النخبة"
+ ],
+ "5 AM": [
+  "5 صباحًا"
+ ],
+ "Check Out": [
+  "تسجيل المغادرة"
+ ],
+ "Check out": [
+  "تسجيل المغادرة"
+ ],
+ "Qatar": [
+  "قطر"
+ ],
+ "float": [
+  "عدد عشري"
+ ],
+ "Kanban": [
+  "كانبان"
+ ],
+ "To be installed": [
+  "بانتظار التثبيت"
+ ],
+ "LGPL Version 3": [
+  "LGPL الإصدار 3"
+ ],
+ "Saturday": [
+  "السبت"
+ ],
+ "User Specific Notification": [
+  "إشعار خاص بالمستخدم"
+ ],
+ "Connection failed (outgoing mail server problem)": [
+  "فشل الاتصال (مشكلة في خادم رسائل البريد الإلكتروني الصادرة)"
+ ],
+ "Remove Followers": [
+  "إزالة المتابعين"
+ ],
+ "Onboarding canned": [
+  "الرد الجاهز للتهيئة"
+ ],
+ "Insufficient Credit": [
+  "الرصيد غير كافٍ"
+ ],
+ "Destination location": [
+  "موقع الوجهة"
+ ],
+ "Sales Receipt": [
+  "إيصال المبيعات"
+ ],
+ "Fixed Assets": [
+  "أصول ثابتة"
+ ],
+ "Off Balance": [
+  "خارج الميزانية العمومية"
+ ],
+ "June": [
+  "يونيو"
+ ],
+ "Payment Term": [
+  "شروط الدفع"
+ ],
+ "Last Quarter": [
+  "ربع السنة الماضي"
+ ],
+ "Custom Python Function": [
+  "وظيفة بايثون مخصصة"
+ ],
+ "From previous tax period": [
+  "من الفترة الضريبية السابقة"
+ ],
+ "Datetime": [
+  "التاريخ والوقت"
+ ],
+ "Freelancer": [
+  "مستقل"
+ ],
+ "manual": [
+  "اليدوية"
+ ],
+ "monthly": [
+  "شهرياً"
+ ],
+ "Positive revaluation": [
+  "التقييم الموجب"
+ ],
+ "Replied": [
+  "تم الرد"
+ ],
+ "On leave": [
+  "في إجازة"
+ ],
+ "Twice a year": [
+  "مرتان في السنة"
+ ],
+ "December": [
+  "ديسمبر"
+ ],
+ "Document (Word, Google Doc, ...)": [
+  "مستند (Word، Google Doc، ...)"
+ ],
+ "Classic Gold": [
+  "الذهبي الكلاسيكي"
+ ],
+ "Scale": [
+  "الميزان"
+ ],
+ "Fleet Manager": [
+  "مدير الأسطول"
+ ],
+ "O - Services outside scope of tax": [
+  "O - خدمات خارج نطاق الضريبة"
+ ],
+ "Approval": [
+  "الموافقة"
+ ],
+ "Discount Code": [
+  "كود الخصم"
+ ],
+ "Terminated": [
+  "مُنهاة"
+ ],
+ "Inventory": [
+  "المخزون"
+ ],
+ "Renewed": [
+  "مُجددة",
+  "متجدد"
+ ],
+ "POS Configured": [
+  "تهيئة نقطة البيع"
+ ],
+ "Bi-weekly": [
+  "كل أسبوعين"
+ ],
+ "Fully Paid": [
+  "مسدد بالكامل"
+ ],
+ "Medical Insurance": [
+  "التأمين الطبي"
+ ],
+ "Clear Salary Assignment": [
+  "إلغاء تحويل الراتب"
+ ],
+ "6 AM": [
+  "6 صباحًا"
+ ],
+ "Tabby": [
+  "تابي"
+ ],
+ "Search": [
+  "بحث"
+ ],
+ "Include": [
+  "تضمين"
+ ],
+ "Create Record": [
+  "إنشاء سجل"
+ ],
+ "Other OSI Approved License": [
+  "رخصة OSI معتمدة أخرى"
+ ],
+ "Unknown": [
+  "غير معروف"
+ ],
+ "Sunday": [
+  "الأحد"
+ ],
+ "Blacklisted Address": [
+  "العنوان المدرج في القائمة السوداء"
+ ],
+ "Idle": [
+  "خامل"
+ ],
+ "Server Error": [
+  "خطأ في الخادم"
+ ],
+ "Lot": [
+  "المجموعة"
+ ],
+ "Purchase Receipt": [
+  "إيصال الشراء"
+ ],
+ "Invoicing App Legacy": [
+  "تراث تطبيق الفوترة"
+ ],
+ "Last Year": [
+  "العام الماضي"
+ ],
+ "Transit Location": [
+  "موقع  وسيط"
+ ],
+ "ZPL Labels with price": [
+  "بطاقات عناوين ZPL مع السعر"
+ ],
+ "Present but on leave": [
+  "حاضر ولكن في إجازة"
+ ],
+ "Stock Picking": [
+  "انتقاء المخزون"
+ ],
+ "Slides (PowerPoint, Google Slides, ...)": [
+  "الشرائح (PowerPoint، Google Slides، ...)"
+ ],
+ "Light": [
+  "فاتح"
+ ],
+ "Suggestion": [
+  "اقتراح"
+ ],
+ "LPG": [
+  "غاز نفطي مسال"
+ ],
+ "K - VAT exempt for EEA intra-community supply of goods and services": [
+  "K - معفى من ضريبة القيمة المضافة للإمدادات الداخلية للسلع والخدمات داخل المنطقة الاقتصادية الأوروبية"
+ ],
+ "Buy X Get Y": [
+  "اشترِ س، واحصل على ص"
+ ],
+ "Marketing & Launch": [
+  "التسويق والافتتاح"
+ ],
+ "Bi-monthly": [
+  "كل شهرين"
+ ],
+ "Bank Account Change": [
+  "تعديل الحساب البنكي"
+ ],
+ "7 AM": [
+  "7 صباحًا"
+ ],
+ "Jordan": [
+  "الأردن"
+ ],
+ "Tamara": [
+  "تمارا"
+ ],
+ "integer": [
+  "عدد صحيح"
+ ],
+ "Execute Code": [
+  "تنفيذ الكود"
+ ],
+ "Odoo Enterprise Edition License v1.0": [
+  "رخصة إصدار Jawab ERP للمؤسسات V1.0"
+ ],
+ "Opted Out": [
+  "انسحب"
+ ],
+ "Unregistered Account": [
+  "حساب غير مسجل"
+ ],
+ "Package": [
+  "الطرد"
+ ],
+ "This Tax Period": [
+  "هذه الفترة الضريبية"
+ ],
+ "String": [
+  "نص"
+ ],
+ "Hierarchy": [
+  "التسلسل الهرمي"
+ ],
+ "Sale Order": [
+  "أمر البيع"
+ ],
+ "YouTube Video": [
+  "فيديو YouTube"
+ ],
+ "Dark": [
+  "غامق"
+ ],
+ "Hydrogen": [
+  "هيدروجين"
+ ],
+ "L - Canary Islands general indirect tax": [
+  "L - ضريبة القيمة المضافة العامة في جزر الكناري"
+ ],
+ "Next Order Coupons": [
+  "كوبونات الطلب التالي"
+ ],
+ "Definition Letter": [
+  "خطاب تعريف"
+ ],
+ "8 AM": [
+  "8 صباحًا"
+ ],
+ "Iraq": [
+  "العراق"
+ ],
+ "Send Webhook Notification": [
+  "أرسل إشعارات Webhook"
+ ],
+ "Odoo Proprietary License v1.0": [
+  "رخصة ملكية Jawab ERP V1.0"
+ ],
+ "Duplicated Email": [
+  "البريد الإلكتروني المستنسخ"
+ ],
+ "Activity": [
+  "النشاط"
+ ],
+ "Blacklisted": [
+  "مدرج في القائمة السوداء"
+ ],
+ "Best before Date": [
+  "مثالي قبل تاريخ"
+ ],
+ "Current Liabilities": [
+  "الالتزامات الجارية"
+ ],
+ "Early Payment Discount": [
+  "خصم الدفع المبكر"
+ ],
+ "Last Tax Period": [
+  "آخر فترة ضريبية"
+ ],
+ "Google Drive Video": [
+  "فيديو Google Drive"
+ ],
+ "Matrix": [
+  "المصفوفة"
+ ],
+ "Electric": [
+  "كهربائية"
+ ],
+ "M - Tax for production, services and importation in Ceuta and Melilla": [
+  "م - الضرائب على الإنتاج والخدمات والاستيراد في سبتة ومليلية"
+ ],
+ "Payroll Slips": [
+  "قسائم الرواتب"
+ ],
+ "9 AM": [
+  "9 صباحًا"
+ ],
+ "Global": [
+  "عالمي"
+ ],
+ "many2many": [
+  "علاقة متعدد لمتعدد"
+ ],
+ "Execute Existing Actions": [
+  "تنفيذ الإجراءات الموجودة بالفعل"
+ ],
+ "Other Proprietary": [
+  "الملكية الأخرى"
+ ],
+ "Duplicate": [
+  "إنشاء نسخة مطابقة"
+ ],
+ "Expiration Date": [
+  "تاريخ الانتهاء"
+ ],
+ "Non-current Liabilities": [
+  "الالتزامات غير الجارية"
+ ],
+ "Vimeo Video": [
+  "فيديو Vimeo"
+ ],
+ "B - Transferred (VAT), In Italy": [
+  "ب - تم التحويل (ضريبة القيمة المضافة)، في إيطاليا"
+ ],
+ "Document Renewal": [
+  "تجديد مستند"
+ ],
+ "10 AM": [
+  "10 صباحًا"
+ ],
+ "many2one": [
+  "علاقة متعدد لواحد"
+ ],
+ "B0  14  1000 x 1414 mm": [
+  "B0  14  1000 x 1414 مم"
+ ],
+ "Package Type": [
+  "نوع الطرد"
+ ],
+ "Resignation": [
+  "استقالة"
+ ],
+ "11 AM": [
+  "11 صباحًا"
+ ],
+ "B1  15  707 x 1000 mm": [
+  "B1  15  707 x 1000 مم"
+ ],
+ "Pack Date": [
+  "تاريخ التعبئة"
+ ],
+ "Current Year Earnings": [
+  "أرباح السنة الجارية"
+ ],
+ "Change Employee Information": [
+  "تعديل بيانات الموظف"
+ ],
+ "12 Noon": [
+  "12 ظهرًا"
+ ],
+ "monetary": [
+  "نقدي"
+ ],
+ "B2  17  500 x 707 mm": [
+  "B2  17  500 x 707 مم"
+ ],
+ "Priced Product": [
+  "منتج مسعر"
+ ],
+ "1 PM": [
+  "1 مساءً"
+ ],
+ "one2many": [
+  "علاقة واحد لمتعدد"
+ ],
+ "B3  18  353 x 500 mm": [
+  "B3  18  353 x 500 مم"
+ ],
+ "Other Income": [
+  "دخل آخر"
+ ],
+ "Discounted Product": [
+  "منتج مخفض"
+ ],
+ "2 PM": [
+  "2 مساءً"
+ ],
+ "properties": [
+  "الخصائص"
+ ],
+ "B4  19  250 x 353 mm": [
+  "B4  19  250 x 353 مم"
+ ],
+ "Expenses": [
+  "النفقات"
+ ],
+ "3 PM": [
+  "3 مساءً"
+ ],
+ "B5  1   176 x 250 mm, 6.93 x 9.84 inches": [
+  "B5  1   176 x 250 مم، 6.93 x 9.84 إنش"
+ ],
+ "Invalid Destination": [
+  "الوجهة غير صالحة"
+ ],
+ "Cashier": [
+  "أمين الصندوق"
+ ],
+ "4 PM": [
+  "4 مساءً"
+ ],
+ "B6  20  125 x 176 mm": [
+  "B6  20  125 x 176 مم"
+ ],
+ "Cost of Revenue": [
+  "تكاليف الإيرادات"
+ ],
+ "Coupon": [
+  "كوبون"
+ ],
+ "5 PM": [
+  "5 مساءً"
+ ],
+ "selection": [
+  "اختيار"
+ ],
+ "B7  21  88 x 125 mm": [
+  "B7  21  88 x 125 مم"
+ ],
+ "Off-Balance Sheet": [
+  "خارج الميزانية العمومية"
+ ],
+ "6 PM": [
+  "6 مساءً"
+ ],
+ "text": [
+  "نص"
+ ],
+ "B8  22  62 x 88 mm": [
+  "B8  22  62 x 88 مم"
+ ],
+ "7 PM": [
+  "7 مساءً"
+ ],
+ "B9  23  33 x 62 mm": [
+  "B9  23  33 x 62 مم"
+ ],
+ "Snailmail Credit Error": [
+  "خطأ في رصيد البريد العادي"
+ ],
+ "serialized": [
+  "متسلسل"
+ ],
+ "8 PM": [
+  "8 مساءً"
+ ],
+ "Snailmail Trial Error": [
+  "خطأ عند تجربة البريد العادي"
+ ],
+ "9  PM": [
+  "9 مساءً"
+ ],
+ "C5E 24  163 x 229 mm": [
+  "C5E 24  163 x 229 مم"
+ ],
+ "Snailmail No Price Available": [
+  "ليس هناك سعر متاح للبريد العادي"
+ ],
+ "10 PM": [
+  "10 مساءً"
+ ],
+ "Snailmail Missing Required Fields": [
+  "حقول مطلوبة مفقودة في البريد العادي"
+ ],
+ "11 PM": [
+  "11 مساءً"
+ ],
+ "DLE 26 110 x 220 mm": [
+  "DLE 26 110 x 220 مم"
+ ],
+ "Snailmail Format Error": [
+  "خطأ في تنسيق البريد العادي"
+ ],
+ "12 Mid Night": [
+  "12 منتصف الليل"
+ ],
+ "Executive 4   7.5 x 10 inches, 190.5 x 254 mm": [
+  "Executive 4   7.5 x 10 إنش، 190.5 x 254 مم"
+ ],
+ "Snailmail Unknown Error": [
+  "خطأ غير معروف في البريد العادي"
+ ],
+ "Ledger  28  431.8 x 279.4 mm": [
+  "دفتر  28  431.8 * 279.4 مم"
+ ],
+ "Legal    3   8.5 x 14 inches, 215.9 x 355.6 mm": [
+  "القانوني    3   8.5 * 14 إنش، 215.9 x 355.6 مم"
+ ],
+ "Letter 2 8.5 x 11 inches, 215.9 x 279.4 mm": [
+  "رسالة 2 8.5 * 11 إنش، 215.9 x 279.4 مم"
+ ],
+ "Malaysia": [
+  "ماليزيا"
+ ],
+ "VATEX-EU-AE - Reverse charge": [
+  "VATEX-EU-AE - نظام عكس ضريبة القيمة المضافة"
+ ],
+ "UAE Tax Identification Number (TIN)": [
+  "رقم التعريف الضريبي الإماراتي (TIN)"
+ ],
+ "HST": [
+  "ضريبة المبيعات المنسقة (HST)"
+ ],
+ "UTC": [
+  "التوقيت العالمي المنسق"
+ ]
+}
