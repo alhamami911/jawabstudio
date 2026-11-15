@@ -23,7 +23,7 @@ const addLine = (product, qty, sayAdd, spAdd, sayProd, spProd, sayQty, spQty) =>
   { action: "fill", selector: `${SEL_ROW} [name=product_template_id] input >> nth=0`, value: product, narration: sayProd, speech: spProd },
   { action: "wait", ms: 1300 },
   { action: "click", selector: ".o-autocomplete--dropdown-item >> visible=true >> nth=0", zoom: false },
-  { action: "fill", selector: `${SEL_ROW} [name=product_uom_qty] input >> nth=0`, value: String(qty), narration: sayQty, speech: spQty },
+  { action: "fill", selector: `${SEL_ROW} [name=product_uom_qty] input >> nth=0`, clear: true, value: String(qty), narration: sayQty, speech: spQty },
 ];
 
 const series = {

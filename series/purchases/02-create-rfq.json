@@ -1,0 +1,179 @@
+{
+  "dependsOn": [],
+  "prerequisites": [
+    "معرفة شاشات المشتريات (الحلقة السابقة)"
+  ],
+  "estimatedMinutes": 3,
+  "number": 2,
+  "keyCaptions": true,
+  "slug": "create-rfq",
+  "title": {
+    "ar": "طلب عرض سعر مع بنوده",
+    "en": "Creating a Request for Quotation"
+  },
+  "titleSpeech": "طَلَبُ عَرْضِ سِعْرٍ مَعَ بُنُودِهِ",
+  "allowPost": true,
+  "objectives": [
+    "إنشاء طلب عرض سعر جديد",
+    "اختيار المورد وإضافة بنود المنتجات بكمياتها",
+    "قراءة الإجمالي",
+    "حفظ الطلب"
+  ],
+  "expected": "يُحفظ طلب عرض السعر بحالة «طلب عرض سعر» وفيه بندان وإجمالي بالريال.",
+  "opening": "سننشئ طلب عرض سعر لمورد، ونضيف إليه بندين، ونقرأ الإجمالي، ثم نحفظه.",
+  "openingSpeech": "سَنُنْشِئُ طَلَبَ عَرْضِ سِعْرٍ لِمُورِّدٍ، وَنُضِيفُ إِلَيْهِ بَنْدَيْنِ، وَنَقْرَأُ الْإِجْمَالِيَّ، ثُمَّ نَحْفَظُهُ.",
+  "closing": "أنشأنا طلب عرض سعر بمورد وبندين. نصيحة: راجعوا الكمية وسعر الوحدة قبل الحفظ، فهما أكثر ما يُخطأ فيه.",
+  "closingSpeech": "أَنْشَأْنَا طَلَبَ عَرْضِ سِعْرٍ بِمُورِّدٍ وَبَنْدَيْنِ. نَصِيحَةٌ: رَاجِعُوا الْكَمِّيَّةَ وَسِعْرَ الْوَحْدَةِ قَبْلَ الْحِفْظِ، فَهُمَا أَكْثَرُ مَا يُخْطَأُ فِيهِ.",
+  "steps": [
+    {
+      "app": "Purchase",
+      "say": "من الشاشة الرئيسية نفتح تطبيق المشتريات (Purchase).",
+      "speech": "مِنَ الشَّاشَةِ الرَّئِيسِيَّةِ نَفْتَحُ تَطْبِيقَ الْمُشْتَرَيَاتِ، أَيْ Purchase.",
+      "caption": "تطبيق المشتريات"
+    },
+    {
+      "nav": [
+        "Orders",
+        "Requests for Quotation"
+      ],
+      "say": [
+        "من «الطلبات» (Orders)،",
+        "نفتح «طلبات عروض الأسعار» (Requests for Quotation)."
+      ],
+      "speech": [
+        "مِنَ «الطَّلَبَاتِ»، أَيْ Orders،",
+        "نَفْتَحُ «طَلَبَاتِ عُرُوضِ الْأَسْعَارِ»، أَيْ Requests for Quotation."
+      ],
+      "caption": "الطلبات ← طلبات عروض الأسعار"
+    },
+    {
+      "new": true,
+      "say": "لإنشاء طلب جديد نضغط «جديد».",
+      "speech": "لِإِنْشَاءِ طَلَبٍ جَدِيدٍ نَضْغَطُ «جَدِيد».",
+      "caption": "زر «جديد»"
+    },
+    {
+      "field": "partner_id",
+      "value": "مؤسسة الفرسان للقرطاسية",
+      "kind": "m2o",
+      "say": "نختار المورد (Vendor) من القائمة.",
+      "speech": "نَخْتَارُ الْمُورِّدَ، أَيْ Vendor، مِنَ الْقَائِمَةِ.",
+      "caption": "المورد"
+    },
+    {
+      "action": "click",
+      "selector": ".o_content .o_field_x2many_list_row_add a >> nth=0",
+      "narration": "في تبويب «المنتجات» نضغط «إضافة منتج» لنضيف أول بند.",
+      "speech": "فِي تَبْوِيبِ «الْمُنْتَجَاتِ» نَضْغَطُ «إِضَافَةُ مُنْتَجٍ» لِنُضِيفَ أَوَّلَ بَنْدٍ.",
+      "caption": "إضافة منتج"
+    },
+    {
+      "action": "fill",
+      "selector": ".o_content .o_data_row.o_selected_row [name=product_id] input >> nth=0",
+      "value": "ورق طباعة",
+      "narration": "ونختار المنتج (Product)، وهو هنا ورق الطباعة.",
+      "speech": "وَنَخْتَارُ الْمُنْتَجَ، أَيْ Product، وَهُوَ هُنَا وَرَقُ الطِّبَاعَةِ.",
+      "caption": "ورق الطباعة"
+    },
+    {
+      "action": "wait",
+      "ms": 1300
+    },
+    {
+      "action": "click",
+      "selector": ".o-autocomplete--dropdown-item >> visible=true >> nth=0",
+      "zoom": false
+    },
+    {
+      "action": "fill",
+      "selector": ".o_content .o_data_row.o_selected_row [name=product_qty] input >> nth=0",
+      "clear": true,
+      "value": "10",
+      "narration": "ثم نكتب الكمية (Quantity): عشرة كراتين.",
+      "speech": "ثُمَّ نَكْتُبُ الْكَمِّيَّةَ، أَيْ Quantity: عَشَرَةَ كَرَاتِينَ.",
+      "caption": "الكمية"
+    },
+    {
+      "look": "",
+      "ms": 3400,
+      "say": "يظهر سعر الوحدة (Unit Price) والضريبة (Taxes) تلقائيًا، ويُحسب مبلغ البند.",
+      "speech": "يَظْهَرُ سِعْرُ الْوَحْدَةِ، أَيْ Unit Price، وَالضَّرِيبَةُ، أَيْ Taxes، تِلْقَائِيًّا، وَيُحْسَبُ مَبْلَغُ الْبَنْدِ.",
+      "at": ".o_content .o_field_x2many_list",
+      "caption": "سعر الوحدة والضريبة"
+    },
+    {
+      "action": "click",
+      "selector": ".o_content .o_field_x2many_list_row_add a >> nth=0",
+      "narration": "ثم نضغط «إضافة منتج» لبند ثانٍ.",
+      "speech": "ثُمَّ نَضْغَطُ «إِضَافَةُ مُنْتَجٍ» لِبَنْدٍ ثَانٍ.",
+      "caption": "إضافة منتج"
+    },
+    {
+      "action": "fill",
+      "selector": ".o_content .o_data_row.o_selected_row [name=product_id] input >> nth=0",
+      "value": "حبر طابعة",
+      "narration": "ونختار حبر الطابعة.",
+      "speech": "وَنَخْتَارُ حِبْرَ الطَّابِعَةِ.",
+      "caption": "حبر الطابعة"
+    },
+    {
+      "action": "wait",
+      "ms": 1300
+    },
+    {
+      "action": "click",
+      "selector": ".o-autocomplete--dropdown-item >> visible=true >> nth=0",
+      "zoom": false
+    },
+    {
+      "action": "fill",
+      "selector": ".o_content .o_data_row.o_selected_row [name=product_qty] input >> nth=0",
+      "clear": true,
+      "value": "4",
+      "narration": "وكميته أربع علب.",
+      "speech": "وَكَمِّيَّتُهُ أَرْبَعُ عُلَبٍ.",
+      "caption": "الكمية"
+    },
+    {
+      "look": "",
+      "ms": 4200,
+      "say": "أسفل البنود نرى المبلغ دون الضريبة، ثم الضريبة، ثم الإجمالي. وتُحدَّث الأرقام فورًا مع أي تعديل.",
+      "speech": "أَسْفَلَ الْبُنُودِ نَرَى الْمَبْلَغَ دُونَ الضَّرِيبَةِ، ثُمَّ الضَّرِيبَةَ، ثُمَّ الْإِجْمَالِيَّ. وَتُحَدَّثُ الْأَرْقَامُ فَوْرًا مَعَ أَيِّ تَعْدِيلٍ.",
+      "at": "[name=tax_totals]",
+      "caption": "الإجمالي"
+    },
+    {
+      "save": true,
+      "say": "ثم نحفظ الطلب.",
+      "speech": "ثُمَّ نَحْفَظُ الطَّلَبَ.",
+      "caption": "حفظ الطلب"
+    },
+    {
+      "look": "",
+      "ms": 3600,
+      "say": "حُفظ الطلب بحالة «طلب عرض سعر»، وأخذ رقمًا مرجعيًا. ولم نلتزم مع المورد بشيء بعد.",
+      "speech": "حُفِظَ الطَّلَبُ بِحَالَةِ «طَلَبِ عَرْضِ سِعْرٍ»، وَأَخَذَ رَقْمًا مَرْجِعِيًّا. وَلَمْ نَلْتَزِمْ مَعَ الْمُورِّدِ بِشَيْءٍ بَعْدُ.",
+      "at": ".o_form_statusbar .o_statusbar_status",
+      "caption": "الطلب محفوظ"
+    }
+  ],
+  "verify": [
+    {
+      "kind": "record",
+      "model": "purchase.order",
+      "domain": [
+        [
+          "state",
+          "=",
+          "draft"
+        ],
+        [
+          "create_date",
+          ">=",
+          "${RUN_START}"
+        ]
+      ],
+      "note": "طلب عرض سعر بحالة مسودة أُنشئ"
+    }
+  ]
+}

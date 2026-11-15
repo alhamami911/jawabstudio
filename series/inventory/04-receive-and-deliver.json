@@ -1,0 +1,272 @@
+{
+  "dependsOn": [],
+  "prerequisites": [
+    "سندات الاستلام والتسليم (الحلقة السابقة)"
+  ],
+  "estimatedMinutes": 5,
+  "number": 4,
+  "keyCaptions": true,
+  "slug": "receive-and-deliver",
+  "title": {
+    "ar": "استلام بضاعة وتسليمها لعميل",
+    "en": "Receiving Goods and Delivering to a Customer"
+  },
+  "titleSpeech": "اسْتِلَامُ بِضَاعَةٍ وَتَسْلِيمُهَا لِعَمِيلٍ",
+  "allowPost": true,
+  "objectives": [
+    "إنشاء إيصال استلام وتصديقه",
+    "إنشاء توصيل لعميل وتصديقه",
+    "ملاحظة تغيّر الحالة إلى «منتهي»"
+  ],
+  "expected": "يصبح الإيصال والتوصيل بحالة «منتهي».",
+  "opening": "سنستلم بضاعة من مورد فتدخل المستودع، ثم نسلّم جزءًا منها لعميل فتخرج.",
+  "openingSpeech": "سَنَسْتَلِمُ بِضَاعَةً مِنْ مُورِّدٍ فَتَدْخُلُ الْمُسْتَوْدَعَ، ثُمَّ نُسَلِّمُ جُزْءًا مِنْهَا لِعَمِيلٍ فَتَخْرُجُ.",
+  "closing": "استلمنا البضاعة فزادت الكمية في المستودع، وسلّمنا جزءًا منها لعميل فنقصت. التصديق هو ما يغيّر الكميات فعلًا، فلا تصدّقوا إلا بعد العدّ.",
+  "closingSpeech": "اسْتَلَمْنَا الْبِضَاعَةَ فَزَادَتِ الْكَمِّيَّةُ فِي الْمُسْتَوْدَعِ، وَسَلَّمْنَا جُزْءًا مِنْهَا لِعَمِيلٍ فَنَقَصَتْ. التَّصْدِيقُ هُوَ مَا يُغَيِّرُ الْكَمِّيَّاتِ فِعْلًا، فَلَا تُصَدِّقُوا إِلَّا بَعْدَ الْعَدِّ.",
+  "steps": [
+    {
+      "app": "Inventory",
+      "say": "من الشاشة الرئيسية نفتح تطبيق المخزون (Inventory).",
+      "speech": "مِنَ الشَّاشَةِ الرَّئِيسِيَّةِ نَفْتَحُ تَطْبِيقَ الْمَخْزُونِ، أَيْ Inventory.",
+      "caption": "تطبيق المخزون"
+    },
+    {
+      "nav": [
+        "Operations",
+        "Receipts"
+      ],
+      "say": [
+        "من «العمليات» (Operations)،",
+        "نفتح «الإيصالات» (Receipts)."
+      ],
+      "speech": [
+        "مِنَ «الْعَمَلِيَّاتِ»، أَيْ Operations،",
+        "نَفْتَحُ «الْإِيصَالَاتِ»، أَيْ Receipts."
+      ],
+      "caption": "العمليات ← الإيصالات"
+    },
+    {
+      "new": true,
+      "say": "لاستلام بضاعة نضغط «جديد».",
+      "speech": "لِاسْتِلَامِ بِضَاعَةٍ نَضْغَطُ «جَدِيد».",
+      "caption": "زر «جديد»"
+    },
+    {
+      "field": "partner_id",
+      "value": "شركة الجزيرة للمعدات المكتبية",
+      "kind": "m2o",
+      "say": "نختار المورد الذي أرسل البضاعة.",
+      "speech": "نَخْتَارُ الْمُورِّدَ الَّذِي أَرْسَلَ الْبِضَاعَةَ.",
+      "caption": "المورد"
+    },
+    {
+      "action": "click",
+      "selector": ".o_content .o_field_x2many_list_row_add a >> nth=0",
+      "narration": "ثم نضيف سطرًا جديدًا.",
+      "speech": "ثُمَّ نُضِيفُ سَطْرًا جَدِيدًا.",
+      "caption": "إضافة سطر"
+    },
+    {
+      "action": "fill",
+      "selector": ".o_content .o_data_row.o_selected_row [name=product_id] input >> nth=0",
+      "value": "ورق طباعة",
+      "narration": "ونختار المنتج الذي وصل، وهو ورق الطباعة.",
+      "speech": "وَنَخْتَارُ الْمُنْتَجَ الَّذِي وَصَلَ، وَهُوَ وَرَقُ الطِّبَاعَةِ.",
+      "caption": "ورق الطباعة"
+    },
+    {
+      "action": "wait",
+      "ms": 1300
+    },
+    {
+      "action": "click",
+      "selector": ".o-autocomplete--dropdown-item >> visible=true >> nth=0",
+      "zoom": false
+    },
+    {
+      "action": "fill",
+      "selector": ".o_content .o_data_row.o_selected_row [name=product_uom_qty] input >> nth=0",
+      "clear": true,
+      "value": "20",
+      "narration": "وكميته عشرون كرتونًا.",
+      "speech": "وَكَمِّيَّتُهُ عِشْرُونَ كَرْتُونًا.",
+      "caption": "الكمية"
+    },
+    {
+      "action": "click",
+      "selector": ".o_form_statusbar button[name=action_confirm] >> nth=0",
+      "narration": "نضغط «تعيين كمنتظر التنفيذ» لتأكيد المستند.",
+      "speech": "نَضْغَطُ «تَعْيِينٌ كَمُنْتَظِرِ التَّنْفِيذِ» لِتَأْكِيدِ الْمُسْتَنَدِ.",
+      "caption": "تأكيد المستند"
+    },
+    {
+      "action": "wait",
+      "ms": 2500
+    },
+    {
+      "look": "",
+      "ms": 3600,
+      "say": "صار الإيصال «جاهزًا» للاستلام، وبقي أن نصدّقه بعد أن نتأكد من الكمية.",
+      "speech": "صَارَ الْإِيصَالُ «جَاهِزًا» لِلِاسْتِلَامِ، وَبَقِيَ أَنْ نُصَدِّقَهُ بَعْدَ أَنْ نَتَأَكَّدَ مِنَ الْكَمِّيَّةِ.",
+      "at": ".o_form_statusbar",
+      "caption": "الإيصال جاهز"
+    },
+    {
+      "action": "click",
+      "selector": ".o_form_statusbar button[name=button_validate] >> nth=0",
+      "narration": "نضغط «تصديق» (Validate) لاستلام البضاعة.",
+      "speech": "نَضْغَطُ «تَصْدِيق»، أَيْ Validate، لِاسْتِلَامِ الْبِضَاعَةِ.",
+      "caption": "تصديق"
+    },
+    {
+      "action": "wait",
+      "ms": 3000
+    },
+    {
+      "look": "",
+      "ms": 3800,
+      "say": "صارت الحالة «منتهي»، ودخلت البضاعة المستودع، وزادت الكمية المتاحة.",
+      "speech": "صَارَتِ الْحَالَةُ «مُنْتَهٍ»، وَدَخَلَتِ الْبِضَاعَةُ الْمُسْتَوْدَعَ، وَزَادَتِ الْكَمِّيَّةُ الْمُتَاحَةُ.",
+      "at": ".o_form_statusbar",
+      "caption": "الإيصال منتهي"
+    },
+    {
+      "nav": [
+        "Operations",
+        "Deliveries"
+      ],
+      "say": [
+        "ومن «العمليات» أيضًا،",
+        "نفتح «التوصيلات» (Deliveries)."
+      ],
+      "speech": [
+        "وَمِنَ «الْعَمَلِيَّاتِ» أَيْضًا،",
+        "نَفْتَحُ «التَّوْصِيلَاتِ»، أَيْ Deliveries."
+      ],
+      "caption": "العمليات ← التوصيلات"
+    },
+    {
+      "new": true,
+      "say": "ولتسليم عميل نضغط «جديد».",
+      "speech": "وَلِتَسْلِيمِ عَمِيلٍ نَضْغَطُ «جَدِيد».",
+      "caption": "زر «جديد»"
+    },
+    {
+      "field": "partner_id",
+      "value": "مكتب الريادة للاستشارات",
+      "kind": "m2o",
+      "say": "نختار العميل.",
+      "speech": "نَخْتَارُ الْعَمِيلَ.",
+      "caption": "العميل"
+    },
+    {
+      "action": "click",
+      "selector": ".o_content .o_field_x2many_list_row_add a >> nth=0",
+      "narration": "ثم نضيف سطرًا جديدًا.",
+      "speech": "ثُمَّ نُضِيفُ سَطْرًا جَدِيدًا.",
+      "caption": "إضافة سطر"
+    },
+    {
+      "action": "fill",
+      "selector": ".o_content .o_data_row.o_selected_row [name=product_id] input >> nth=0",
+      "value": "ورق طباعة",
+      "narration": "ونختار ورق الطباعة.",
+      "speech": "وَنَخْتَارُ وَرَقَ الطِّبَاعَةِ.",
+      "caption": "ورق الطباعة"
+    },
+    {
+      "action": "wait",
+      "ms": 1300
+    },
+    {
+      "action": "click",
+      "selector": ".o-autocomplete--dropdown-item >> visible=true >> nth=0",
+      "zoom": false
+    },
+    {
+      "action": "fill",
+      "selector": ".o_content .o_data_row.o_selected_row [name=product_uom_qty] input >> nth=0",
+      "clear": true,
+      "value": "5",
+      "narration": "بكمية خمسة كراتين.",
+      "speech": "بِكَمِّيَّةِ خَمْسَةِ كَرَاتِينَ.",
+      "caption": "الكمية"
+    },
+    {
+      "action": "click",
+      "selector": ".o_form_statusbar button[name=action_confirm] >> nth=0",
+      "narration": "نضغط «تعيين كمنتظر التنفيذ» لتأكيد المستند.",
+      "speech": "نَضْغَطُ «تَعْيِينٌ كَمُنْتَظِرِ التَّنْفِيذِ» لِتَأْكِيدِ الْمُسْتَنَدِ.",
+      "caption": "تأكيد المستند"
+    },
+    {
+      "action": "wait",
+      "ms": 2500
+    },
+    {
+      "action": "click",
+      "selector": ".o_form_statusbar button[name=button_validate] >> nth=0",
+      "narration": "ونضغط «تصديق» لتسليمها.",
+      "speech": "وَنَضْغَطُ «تَصْدِيق» لِتَسْلِيمِهَا.",
+      "caption": "تصديق"
+    },
+    {
+      "action": "wait",
+      "ms": 3000
+    },
+    {
+      "look": "",
+      "ms": 3800,
+      "say": "اكتمل التوصيل بحالة «منتهي»، وخرجت البضاعة من المستودع ونقصت الكمية.",
+      "speech": "اكْتَمَلَ التَّوْصِيلُ بِحَالَةِ «مُنْتَهٍ»، وَخَرَجَتِ الْبِضَاعَةُ مِنَ الْمُسْتَوْدَعِ وَنَقَصَتِ الْكَمِّيَّةُ.",
+      "at": ".o_form_statusbar",
+      "caption": "التوصيل منتهي"
+    }
+  ],
+  "verify": [
+    {
+      "kind": "record",
+      "model": "stock.picking",
+      "domain": [
+        [
+          "picking_type_code",
+          "=",
+          "incoming"
+        ],
+        [
+          "state",
+          "=",
+          "done"
+        ],
+        [
+          "create_date",
+          ">=",
+          "${RUN_START}"
+        ]
+      ],
+      "note": "إيصال استلام منتهٍ"
+    },
+    {
+      "kind": "record",
+      "model": "stock.picking",
+      "domain": [
+        [
+          "picking_type_code",
+          "=",
+          "outgoing"
+        ],
+        [
+          "state",
+          "=",
+          "done"
+        ],
+        [
+          "create_date",
+          ">=",
+          "${RUN_START}"
+        ]
+      ],
+      "note": "توصيل منتهٍ"
+    }
+  ]
+}

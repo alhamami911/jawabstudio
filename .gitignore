@@ -18,7 +18,7 @@ cache/
 data/
 archive/
 qa/
-voice-backup/
+voice-backup*/
 voice-samples/
 *.log
 *.err
@@ -42,3 +42,6 @@ tools/*.exe
 
 # --- local AI-assistant settings (broad permissions; personal) ---
 .claude/
+!tools/voicetest/*.py
+tools/voicetest/habibi-venv/
+tools/voicetest/*.log

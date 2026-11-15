@@ -74,14 +74,17 @@ export function validateEpisode(o: {
   add("streams", hasV && hasA && dur >= lastEnd * 0.9, `video ${hasV ? (o.format === "vertical" ? "1080x1920" : /1920x1080/.test(info) ? "1920x1080" : "1280x720") : "wrong or missing size"}, audio ${hasA ? "ok" : "missing"}, ${dur.toFixed(1)}s (steps end ${lastEnd.toFixed(1)}s)`, "process");
 
   // 4b) المحتوى يملأ الإطار كله: عطل سابق وضع الصفحة في ركن الفيديو وترك الباقي رماديًا (128,128,128)
-  const grayCorners: string[] = [];
-  for (const t of [3.6, Math.max(4, dur / 2)]) {
+  // خلفية النافذة المنبثقة المعتمة (Bootstrap modal-backdrop بنصف عتامة سوداء) تجعل الأبيض رماديًا (128,128,128) بالضبط،
+  // فلقطة واحدة تقع أثناء نافذة منبثقة (دفع، إشعار دائن...) ليست عطلًا. العطل الحقيقي يظهر في كل اللقطات: نأخذ ثلاث لقطات ولا نرفض إلا إن تكرر الرمادي في لقطتين.
+  const grayHits = new Map<string, string[]>();
+  for (const t of new Set([3.6, Math.max(4, dur / 2), Math.max(5, dur * 0.8)])) {
     for (const [name, x, y] of [["bottom-right", "iw-12", "ih-12"], ["bottom-left", "4", "ih-12"], ["top-right", "iw-12", "4"]] as const) {
       const r = spawnSync(ffmpeg as unknown as string, ["-v", "error", "-ss", String(t), "-i", o.mp4, "-frames:v", "1", "-vf", `crop=8:8:${x}:${y},scale=1:1`, "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], { maxBuffer: 1024 });
       const px = r.stdout as Buffer | undefined;
-      if (px && px.length >= 3 && px.slice(0, 3).every((v) => Math.abs(v - 128) <= 8)) grayCorners.push(`${name}@${t.toFixed(1)}s`);
+      if (px && px.length >= 3 && px.slice(0, 3).every((v) => Math.abs(v - 128) <= 8)) grayHits.set(name, [...(grayHits.get(name) ?? []), `${t.toFixed(1)}s`]);
     }
   }
+  const grayCorners = [...grayHits].filter(([, ts]) => ts.length >= 2).map(([name, ts]) => `${name}@${ts.join("+")}`);
   add("frame-filled", grayCorners.length === 0, grayCorners.length ? `flat gray at ${grayCorners.join(", ")}: content does not fill the frame` : "corners show real content", "record");
 
   // 4c) أول إطار: يظهر كصورة بداية في المشغلات، فلا يجوز أن يكون ناقصًا أو رماديًا

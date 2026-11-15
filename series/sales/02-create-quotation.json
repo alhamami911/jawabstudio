@@ -92,6 +92,7 @@
     {
       "action": "fill",
       "selector": ".o_content .o_data_row.o_selected_row [name=product_uom_qty] input >> nth=0",
+      "clear": true,
       "value": "8",
       "narration": "ثم نكتب الكمية (Quantity): ثماني ساعات.",
       "speech": "ثُمَّ نَكْتُبُ الْكَمِّيَّةَ، أَيْ Quantity: ثَمَانِيَ سَاعَاتٍ.",
@@ -132,6 +133,7 @@
     {
       "action": "fill",
       "selector": ".o_content .o_data_row.o_selected_row [name=product_uom_qty] input >> nth=0",
+      "clear": true,
       "value": "3",
       "narration": "وكميته ثلاثة أشهر.",
       "speech": "وَكَمِّيَّتُهُ ثَلَاثَةُ أَشْهُرٍ.",

@@ -84,6 +84,7 @@
     {
       "action": "fill",
       "selector": ".o_content .o_data_row.o_selected_row [name=product_uom_qty] input >> nth=0",
+      "clear": true,
       "value": "2",
       "narration": "بكمية شهرين.",
       "speech": "بِكَمِّيَّةِ شَهْرَيْنِ.",
